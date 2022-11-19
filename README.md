@@ -25,10 +25,10 @@
 <td align="center"><a href="https://www.acmicpc.net/problem/17298" algin="center">오큰수</a></td>
 <td align="center">🌕 G4</td>
 <td align="center">Stack</td>
-<td align="center"><a href="/tree/master/해빈/1주차_17298.cpp"/>해빈</td>
-<td align="center"><a href="/tree/master/은찬/1주차_17298.java"/>은찬</td>
-<td align="center"><a href="tree/master/원종/1주차_17298.c"/>해빈</td>
-<td align="center"><a href="tree/master/해빈/1주차_17298.py"/>주현</td>
+<td align="center"><a href="https://github.com/h-beeen/Deep_Algorithm/blob/Haebin/%ED%95%B4%EB%B9%88/1%EC%A3%BC%EC%B0%A8_17298.cpp"/>해빈</td>
+<td align="center"><a href="https://github.com/h-beeen/Deep_Algorithm/blob/Haebin/%EC%9D%80%EC%B0%AC/1%EC%A3%BC%EC%B0%A8_17298.java"/>은찬</td>
+<td align="center"><a href="https://github.com/h-beeen/Deep_Algorithm/blob/Haebin/%EC%9B%90%EC%A2%85/1%EC%A3%BC%EC%B0%A8_17298.c"/>원종</td>
+<td align="center"><a href="https://github.com/h-beeen/Deep_Algorithm/blob/master/%EC%A3%BC%ED%98%84/1%EC%A3%BC%EC%B0%A8_17298.py"/>주현</td>
 <td align="center">⭕</td>
 </tr>
 <tr>
@@ -36,10 +36,10 @@
 <td align="center"><a href="https://www.acmicpc.net/problem/1600" algin="center">말이 되고픈 원숭이</a></td>
 <td align="center">🌕 G3</td>
 <td align="center">BFS</td>
-<td align="center"><a href="tree/master/해빈/1주차_1600.cpp"/>해빈</td>
-<td align="center"><a href="tree/master/은찬/1주차_1600.java"/>은찬</td>
-<td align="center"><a href="tree/master/원종/1주차_1600.c"/>원종</td>
-<td align="center"><a href="tree/master/해빈/1주차_17298.py"/>주현</td>
+<td align="center"><a href="https://github.com/h-beeen/Deep_Algorithm/blob/Haebin/%ED%95%B4%EB%B9%88/1%EC%A3%BC%EC%B0%A8_1600.cpp"/>해빈</td>
+<td align="center"><a href="https://github.com/h-beeen/Deep_Algorithm/blob/Haebin/%EC%9D%80%EC%B0%AC/1%EC%A3%BC%EC%B0%A8_1600.java"/>은찬</td>
+<td align="center"><a href="https://github.com/h-beeen/Deep_Algorithm/blob/Haebin/%EC%9B%90%EC%A2%85/1%EC%A3%BC%EC%B0%A8_1600.c"/>원종</td>
+<td align="center"><a href="https://github.com/h-beeen/Deep_Algorithm/blob/Haebin/%EC%A3%BC%ED%98%84/1%EC%A3%BC%EC%B0%A8_1600.py"/>주현</td>
 <td align="center">⭕</td>
 </tr>
 <tr>

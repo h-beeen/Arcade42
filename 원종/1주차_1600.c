@@ -8,6 +8,7 @@ int hx[8] = { -1, -2, -2,-1, 1, 2, 2, 1 };
 int hy[8] = { -2, -1, 1, 2, -2, -1, 1, 2 };
 int w, h, k;
 
+
 typedef struct Point {
 
 	int y;

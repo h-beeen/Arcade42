@@ -47,3 +47,4 @@ while queue:
 
 if flag == 0:
     print(-1)
+

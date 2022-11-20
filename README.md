@@ -46,8 +46,34 @@
 <td rowspan='2' align="center">🔛</td>
 <td rowspan='2' align="center">22.11.26</td>
 <td align="center">주현</td>
-<td align="center">🔛</a></td>
+<td align="center"><a href="https://www.acmicpc.net/problem/1107"/>리모컨</td>
+<td align="center">🌕 G5</td>
+<td align="center">Unknown</td>
+<td align="center">해빈</td>
+<td align="center">은찬</td>
+<td align="center">원종</td>
+<td align="center">주현</td>
 <td align="center">🔛</td>
+</tr>
+<tr>
+
+<td align="center">은찬</td>
+<td align="center"><a href="https://www.acmicpc.net/problem/2332"/>전화번호</td>
+<td align="center">🌕 G5</td>
+<td align="center">Unknown</td>
+<td align="center">해빈</td>
+<td align="center">은찬</td>
+<td align="center">원종</td>
+<td align="center">주현</td>
+<td align="center">🔛</td>
+</tr>
+
+
+<td rowspan='2' align="center">3</td>
+<td rowspan='2' align="center">22.12.03</td>
+<td align="center">원종</td>
+<td align="center">Coming Soon!</td>
+<td align="center"></td>
 <td align="center">Unknown</td>
 <td align="center">해빈</td>
 <td align="center">은찬</td>
@@ -58,8 +84,8 @@
 <tr>
 
 <td align="center">은찬</td>
-<td align="center">🔜</td>
-<td align="center">🔜</td>
+<td align="center">Coming Soon!</td>
+<td align="center"></td>
 <td align="center">Unknown</td>
 <td align="center">해빈</td>
 <td align="center">은찬</td>

@@ -58,9 +58,9 @@
 <tr>
 <td rowspan='3' align="center">3</td>
 <td rowspan='3' align="center">22.12.03</td>
-<td align="center">은찬</td>
+<td align="center">해빈</td>
 <td align="center">Coming Soon!</td>
-<td align="center">🌕 G5</td>
+<td align="center"></td>
 <td align="center">Unknown</td>
 <td align="center">해빈</td>
 <td align="center">은찬</td>

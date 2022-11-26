@@ -4,6 +4,7 @@
 #include<vector>
 using namespace std;
 
+
 int n;
 int m;
 int mini = 9999999;

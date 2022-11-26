@@ -43,22 +43,23 @@
 <td align="center">⭕</td>
 </tr>
 <tr>
-<td rowspan='2' align="center">🔛</td>
-<td rowspan='2' align="center">22.11.26</td>
+<td rowspan='1' align="center">2</td>
+<td rowspan='1' align="center">22.11.27</td>
 <td align="center">주현</td>
 <td align="center"><a href="https://www.acmicpc.net/problem/1107"/>리모컨</td>
 <td align="center">🌕 G5</td>
-<td align="center">Unknown</td>
+<td align="center">Bruteforce</td>
 <td align="center">해빈</td>
-<td align="center">은찬</td>
+<td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%EC%9D%80%EC%B0%AC/2%EC%A3%BC%EC%B0%A8_1107.cpp"/>은찬</td>
 <td align="center">원종</td>
-<td align="center">주현</td>
-<td align="center">🔛</td>
+<td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%EC%A3%BC%ED%98%84/2%EC%A3%BC%EC%B0%A8_1107.py"/>주현</td>
+<td align="center">⭕</td>
 </tr>
 <tr>
-
+<td rowspan='3' align="center">3</td>
+<td rowspan='3' align="center">22.12.03</td>
 <td align="center">은찬</td>
-<td align="center"><a href="https://www.acmicpc.net/problem/2332"/>전화번호</td>
+<td align="center">Coming Soon!</td>
 <td align="center">🌕 G5</td>
 <td align="center">Unknown</td>
 <td align="center">해빈</td>
@@ -69,8 +70,6 @@
 </tr>
 
 
-<td rowspan='2' align="center">3</td>
-<td rowspan='2' align="center">22.12.03</td>
 <td align="center">원종</td>
 <td align="center">Coming Soon!</td>
 <td align="center"></td>
@@ -96,13 +95,13 @@
 </tbody>
 </table>
 </div>
-<br/>
+
 
 ---
 
 
 <br/>
-<p align="center"><img src="https://user-images.githubusercontent.com/112257466/202612000-1e3da1cd-0d1a-473e-a9ac-a6c46ba2fd33.png" width="700px"/></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/112257466/202612000-1e3da1cd-0d1a-473e-a9ac-a6c46ba2fd33.png" width="550px"/></p>
 <table align ="center">
   <tr>
    <td align="center"><a href="https://github.com/h-beeen"><img src="https://avatars.githubusercontent.com/u/112257466?v=4" width="150px;" alt=""/>

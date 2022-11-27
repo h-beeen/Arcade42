@@ -1,5 +1,6 @@
 #include <stdio.h>
 
+
 int u[11];
 
 int check(int n) {

@@ -51,7 +51,7 @@
 <td align="center">Bruteforce</td>
 <td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%ED%95%B4%EB%B9%88/2%EC%A3%BC%EC%B0%A8_1107.cpp"/>해빈</td>
 <td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%EC%9D%80%EC%B0%AC/2%EC%A3%BC%EC%B0%A8_1107.cpp"/>은찬</td>
-<td align="center">원종</td>
+<td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%EC%9B%90%EC%A2%85/2%EC%A3%BC%EC%B0%A8_1107.c"/>원종</td>
 <td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%EC%A3%BC%ED%98%84/2%EC%A3%BC%EC%B0%A8_1107.py"/>주현</td>
 <td align="center">⭕</td>
 </tr>

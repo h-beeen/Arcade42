@@ -71,8 +71,8 @@
 
 
 <td align="center">원종</td>
-<td align="center">원종이의 문제</td>
-<td align="center"></td>
+<td align="center"><a href="https://www.acmicpc.net/problem/1915"/>가장 큰 정사각형</td>
+<td align="center">🌕 G4</td>
 <td align="center">Embargo</td>
 <td align="center">해빈</td>
 <td align="center">은찬</td>

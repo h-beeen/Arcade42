@@ -1,5 +1,9 @@
 #include <stdio.h>
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> e269ad981f041362ea6e515b08d3f299a1569853
 int u[11];
 
 int check(int n) {

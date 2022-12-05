@@ -53,7 +53,7 @@
 <td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%EC%9D%80%EC%B0%AC/2%EC%A3%BC%EC%B0%A8_1107.cpp"/>은찬</td>
 <td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%EC%9B%90%EC%A2%85/2%EC%A3%BC%EC%B0%A8_1107.c"/>원종</td>
 <td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%EC%A3%BC%ED%98%84/2%EC%A3%BC%EC%B0%A8_1107.py"/>주현</td>
-<td align="center">🔛</td>
+<td align="center">⭕</td>
 </tr>
 <tr>
 <td rowspan='3' align="center">3</td>
@@ -61,17 +61,42 @@
 <td align="center">해빈</td>
 <td align="center"><a href="https://www.acmicpc.net/problem/2493"/>탑</td>
 <td align="center">🌕 G5</td>
-<td align="center">Embargo</td>
-<td align="center">해빈</td>
-<td align="center">은찬</td>
-<td align="center">원종</td>
-<td align="center">주현</td>
-<td align="center">🔛</td>
+<td align="center">Stack</td>
+<td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%ED%95%B4%EB%B9%88/3%EC%A3%BC%EC%B0%A8_2493.cpp"/>해빈</td>
+<td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%EC%9D%80%EC%B0%AC/3%EC%A3%BC%EC%B0%A8_2493.java"/>은찬</td>
+<td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%EC%9B%90%EC%A2%85/3%EC%A3%BC%EC%B0%A8_2493.c"/>원종</td>
+<td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%EC%A3%BC%ED%98%84/3%EC%A3%BC%EC%B0%A8_2493.py"/>주현</td>
+<td align="center">⭕</td>
 </tr>
 
 
 <td align="center">원종</td>
 <td align="center"><a href="https://www.acmicpc.net/problem/1915"/>가장 큰 정사각형</td>
+<td align="center">🌕 G4</td>
+<td align="center">DP</td>
+<td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%ED%95%B4%EB%B9%88/3%EC%A3%BC%EC%B0%A8_1915.cpp"/>해빈</td>
+<td align="center">🔥</td>
+<td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%EC%9B%90%EC%A2%85/3%EC%A3%BC%EC%B0%A8_1915.c"/>원종</td>
+<td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%EC%A3%BC%ED%98%84/3%EC%A3%BC%EC%B0%A8_1915.py"/>주현</td>
+<td align="center">⭕</td>
+</tr>
+<tr>
+
+<td align="center">은찬</td>
+<td align="center"><a href="https://www.acmicpc.net/problem/2473"/>세 용액</td>
+<td align="center">🌕 G3</td>
+<td align="center">Two-Pointer</td>
+<td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%ED%95%B4%EB%B9%88/3%EC%A3%BC%EC%B0%A8_2473.cpp"/>해빈</td>
+<td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%EC%9D%80%EC%B0%AC/3%EC%A3%BC%EC%B0%A8_2473.java"/>은찬</td>
+<td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%EC%9B%90%EC%A2%85/3%EC%A3%BC%EC%B0%A8_2473.c"/>원종</td>
+<td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%EC%A3%BC%ED%98%84/3%EC%A3%BC%EC%B0%A8_2473.py"/>주현</td>
+<td align="center">⭕</td>
+</tr>
+<tr>
+<td rowspan='2' align="center">4</td>
+<td rowspan='2' align="center">22.12.10</td>
+<td align="center">주현</td>
+<td align="center"><a href="https://www.acmicpc.net/problem/2110"/>공유기  설치</td>
 <td align="center">🌕 G4</td>
 <td align="center">Embargo</td>
 <td align="center">해빈</td>
@@ -81,10 +106,9 @@
 <td align="center">🔛</td>
 </tr>
 <tr>
-
 <td align="center">은찬</td>
-<td align="center"><a href="https://www.acmicpc.net/problem/2473"/>세 용액</td>
-<td align="center">🌕 G3</td>
+<td align="center"><a href="https://www.acmicpc.net/problem/16234"/>인구 이동</td>
+<td align="center">🌕 G5</td>
 <td align="center">Embargo</td>
 <td align="center">해빈</td>
 <td align="center">은찬</td>

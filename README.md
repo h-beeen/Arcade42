@@ -132,8 +132,8 @@
 </tr>
 <tr>
 <td align="center">원종</td>
-<td align="center">미정</td>
-<td align="center"></td>
+<td align="center"><a href="https://www.acmicpc.net/problem/1987"/>알파벳</td>
+<td align="center">🌕 G4</td>
 <td align="center">EMBARGO</td>
 <td align="center">해빈</td>
 <td align="center">은찬</td>
@@ -176,10 +176,10 @@
   </tr>
 
   <tr>
-  <td align="center"><img src="https://progress-bar.dev/6/?scale=10&width=150&color=babaca&suffix=/10"/></td>
-  <td align="center"><img src="https://progress-bar.dev/6/?scale=10&width=150&color=babaca&suffix=/10"/></td>
-  <td align="center"><img src="https://progress-bar.dev/7/?scale=10&width=150&color=babaca&suffix=/10"/></td>
-  <td align="center"><img src="https://progress-bar.dev/8/?scale=10&width=150&color=babaca&suffix=/10"/></td>
+  <td align="center"><img src="https://progress-bar.dev/6/?scale=8&width=150&color=babaca&suffix=/8"/></td>
+  <td align="center"><img src="https://progress-bar.dev/6/?scale=8&width=150&color=babaca&suffix=/8"/></td>
+  <td align="center"><img src="https://progress-bar.dev/7/?scale=8&width=150&color=babaca&suffix=/8"/></td>
+  <td align="center"><img src="https://progress-bar.dev/7/?scale=8&width=150&color=babaca&suffix=/8"/></td>
 </br>
 </table>
 </br>

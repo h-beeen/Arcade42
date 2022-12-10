@@ -144,7 +144,7 @@
 <tr>
 <td align="center">RDM</td>
 <td align="center"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/12913"/>땅따먹기</td>
-<td align="center">🌕 Lv. 2</td>
+<td align="center">💎 Lv. 2</td>
 <td align="center">EMBARGO</td>
 <td align="center">해빈</td>
 <td align="center">은찬</td>

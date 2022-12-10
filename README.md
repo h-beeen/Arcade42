@@ -14,7 +14,6 @@
 <th align="center">티어</th>
 <th align="center">분류</th>
 <th colspan='4' align="center">코드리뷰</th>
-<th align="center">상태</th>
 </tr>
 </thead>
 <tbody>
@@ -29,7 +28,6 @@
 <td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%EC%9D%80%EC%B0%AC/1%EC%A3%BC%EC%B0%A8_17298.java"/>은찬</td>
 <td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%EC%9B%90%EC%A2%85/1%EC%A3%BC%EC%B0%A8_17298.c"/>원종</td>
 <td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%EC%A3%BC%ED%98%84/1%EC%A3%BC%EC%B0%A8_17298.py"/>주현</td>
-<td align="center">⭕</td>
 </tr>
 <tr>
 <td align="center">해빈</td>
@@ -40,7 +38,6 @@
 <td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%EC%9D%80%EC%B0%AC/1%EC%A3%BC%EC%B0%A8_1600.java"/>은찬</td>
 <td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%EC%9B%90%EC%A2%85/1%EC%A3%BC%EC%B0%A8_1600.c"/>원종</td>
 <td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%EC%A3%BC%ED%98%84/1%EC%A3%BC%EC%B0%A8_1600.py"/>주현</td>
-<td align="center">⭕</td>
 </tr>
 <tr>
 <td rowspan='1' align="center">2</td>
@@ -53,7 +50,6 @@
 <td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%EC%9D%80%EC%B0%AC/2%EC%A3%BC%EC%B0%A8_1107.cpp"/>은찬</td>
 <td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%EC%9B%90%EC%A2%85/2%EC%A3%BC%EC%B0%A8_1107.c"/>원종</td>
 <td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%EC%A3%BC%ED%98%84/2%EC%A3%BC%EC%B0%A8_1107.py"/>주현</td>
-<td align="center">⭕</td>
 </tr>
 <tr>
 <td rowspan='3' align="center">3</td>
@@ -66,7 +62,6 @@
 <td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%EC%9D%80%EC%B0%AC/3%EC%A3%BC%EC%B0%A8_2493.java"/>은찬</td>
 <td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%EC%9B%90%EC%A2%85/3%EC%A3%BC%EC%B0%A8_2493.c"/>원종</td>
 <td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%EC%A3%BC%ED%98%84/3%EC%A3%BC%EC%B0%A8_2493.py"/>주현</td>
-<td align="center">⭕</td>
 </tr>
 
 
@@ -78,7 +73,6 @@
 <td align="center"><img src="https://user-images.githubusercontent.com/112257466/206778096-c82ccf60-9887-4048-a9bb-a77d53e3f0ee.png" width="25px" height="16px"></td>
 <td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%EC%9B%90%EC%A2%85/3%EC%A3%BC%EC%B0%A8_1915.c"/>원종</td>
 <td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%EC%A3%BC%ED%98%84/3%EC%A3%BC%EC%B0%A8_1915.py"/>주현</td>
-<td align="center">⭕</td>
 </tr>
 <tr>
 
@@ -90,7 +84,6 @@
 <td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%EC%9D%80%EC%B0%AC/3%EC%A3%BC%EC%B0%A8_2473.java"/>은찬</td>
 <td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%EC%9B%90%EC%A2%85/3%EC%A3%BC%EC%B0%A8_2473.c"/>원종</td>
 <td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%EC%A3%BC%ED%98%84/3%EC%A3%BC%EC%B0%A8_2473.py"/>주현</td>
-<td align="center">⭕</td>
 </tr>
 <tr>
 <td rowspan='2' align="center">4</td>
@@ -103,18 +96,16 @@
 <td align="center"><img src="https://user-images.githubusercontent.com/112257466/206778096-c82ccf60-9887-4048-a9bb-a77d53e3f0ee.png" width="25px" height="16px"></td>
 <td align="center"><img src="https://user-images.githubusercontent.com/112257466/206778096-c82ccf60-9887-4048-a9bb-a77d53e3f0ee.png" width="25px" height="16px"></td>
 <td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%EC%A3%BC%ED%98%84/4%EC%A3%BC%EC%B0%A8_2110.py"/>주현</td>
-<td align="center">⭕</td>
 </tr>
 <tr>
 <td align="center">은찬</td>
 <td align="center"><a href="https://www.acmicpc.net/problem/16234"/>인구 이동</td>
 <td align="center">🌕 G5</td>
-<td align="center">BFS/DFS</td>
+<td align="center">BFS / DFS</td>
 <td align="center"><img src="https://user-images.githubusercontent.com/112257466/206778096-c82ccf60-9887-4048-a9bb-a77d53e3f0ee.png" width="25px" height="16px"></td>
 <td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%EC%9D%80%EC%B0%AC/3%EC%A3%BC%EC%B0%A8_16234.java"/>은찬</td>
 <td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%EC%9B%90%EC%A2%85/4%EC%A3%BC%EC%B0%A8_16234.c"/>원종</td>
 <td align="center"><img src="https://user-images.githubusercontent.com/112257466/206778096-c82ccf60-9887-4048-a9bb-a77d53e3f0ee.png" width="25px" height="16px"></td>
-<td align="center">⭕</td>
 </tr>
 
 <tr>
@@ -123,34 +114,19 @@
 <td align="center">해빈</td>
 <td align="center"><a href="https://www.acmicpc.net/problem/1744"/>수 묶기</td>
 <td align="center">🌕 G4</td>
-<td align="center">EMBARGO</td>
-<td align="center">해빈</td>
-<td align="center">은찬</td>
-<td align="center">원종</td>
-<td align="center">주현</td>
-<td align="center">🔛</td>
+<td colspan='5' align="center">🔛</td>
 </tr>
 <tr>
 <td align="center">원종</td>
 <td align="center"><a href="https://www.acmicpc.net/problem/1987"/>알파벳</td>
 <td align="center">🌕 G4</td>
-<td align="center">EMBARGO</td>
-<td align="center">해빈</td>
-<td align="center">은찬</td>
-<td align="center">원종</td>
-<td align="center">주현</td>
-<td align="center">🔛</td>
+<td colspan='5' align="center">🔛</td>
 </tr>
 <tr>
-<td align="center">RDM</td>
-<td align="center"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/12913"/>땅따먹기</td>
-<td align="center">💎 Lv. 2</td>
-<td align="center">EMBARGO</td>
-<td align="center">해빈</td>
 <td align="center">은찬</td>
-<td align="center">원종</td>
-<td align="center">주현</td>
-<td align="center">🔛</td>
+<td align="center"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/12913"/>땅따먹기</td>
+<td align="center">💎 Lv.2</td>
+<td colspan='5' align="center">🔛</td>
 </tr>
 </tbody>
 </table>

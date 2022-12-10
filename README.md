@@ -75,7 +75,7 @@
 <td align="center">🌕 G4</td>
 <td align="center">DP</td>
 <td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%ED%95%B4%EB%B9%88/3%EC%A3%BC%EC%B0%A8_1915.cpp"/>해빈</td>
-<td align="center">🔥</td>
+<td align="center"><img src="https://user-images.githubusercontent.com/112257466/206778096-c82ccf60-9887-4048-a9bb-a77d53e3f0ee.png" width="25px" height="16px"></td>
 <td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%EC%9B%90%EC%A2%85/3%EC%A3%BC%EC%B0%A8_1915.c"/>원종</td>
 <td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%EC%A3%BC%ED%98%84/3%EC%A3%BC%EC%B0%A8_1915.py"/>주현</td>
 <td align="center">⭕</td>
@@ -96,9 +96,34 @@
 <td rowspan='2' align="center">4</td>
 <td rowspan='2' align="center">22.12.10</td>
 <td align="center">주현</td>
-<td align="center"><a href="https://www.acmicpc.net/problem/2110"/>공유기  설치</td>
+<td align="center"><a href="https://www.acmicpc.net/problem/2110"/>공유기 설치</td>
 <td align="center">🌕 G4</td>
-<td align="center">Embargo</td>
+<td align="center">Binary-Search</td>
+<td align="center"><img src="https://user-images.githubusercontent.com/112257466/206778096-c82ccf60-9887-4048-a9bb-a77d53e3f0ee.png" width="25px" height="16px"></td>
+<td align="center"><img src="https://user-images.githubusercontent.com/112257466/206778096-c82ccf60-9887-4048-a9bb-a77d53e3f0ee.png" width="25px" height="16px"></td>
+<td align="center"><img src="https://user-images.githubusercontent.com/112257466/206778096-c82ccf60-9887-4048-a9bb-a77d53e3f0ee.png" width="25px" height="16px"></td>
+<td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%EC%A3%BC%ED%98%84/4%EC%A3%BC%EC%B0%A8_2110.py"/>주현</td>
+<td align="center">⭕</td>
+</tr>
+<tr>
+<td align="center">은찬</td>
+<td align="center"><a href="https://www.acmicpc.net/problem/16234"/>인구 이동</td>
+<td align="center">🌕 G5</td>
+<td align="center">BFS</td>
+<td align="center"><img src="https://user-images.githubusercontent.com/112257466/206778096-c82ccf60-9887-4048-a9bb-a77d53e3f0ee.png" width="25px" height="16px"></td>
+<td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%EC%9D%80%EC%B0%AC/3%EC%A3%BC%EC%B0%A8_16234.java"/>은찬</td>
+<td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%EC%9B%90%EC%A2%85/4%EC%A3%BC%EC%B0%A8_16234.c"/>원종</td>
+<td align="center"><img src="https://user-images.githubusercontent.com/112257466/206778096-c82ccf60-9887-4048-a9bb-a77d53e3f0ee.png" width="25px" height="16px"></td>
+<td align="center">⭕</td>
+</tr>
+
+<tr>
+<td rowspan='2' align="center">5</td>
+<td rowspan='2' align="center">22.12.17</td>
+<td align="center">해빈</td>
+<td align="center"><a href="https://www.acmicpc.net/problem/1744"/>수 묶기</td>
+<td align="center">🌕 G4</td>
+<td align="center">EMBARGO</td>
 <td align="center">해빈</td>
 <td align="center">은찬</td>
 <td align="center">원종</td>
@@ -106,10 +131,10 @@
 <td align="center">🔛</td>
 </tr>
 <tr>
-<td align="center">은찬</td>
-<td align="center"><a href="https://www.acmicpc.net/problem/16234"/>인구 이동</td>
-<td align="center">🌕 G5</td>
-<td align="center">Embargo</td>
+<td align="center">원종</td>
+<td align="center">미정</td>
+<td align="center"></td>
+<td align="center">EMBARGO</td>
 <td align="center">해빈</td>
 <td align="center">은찬</td>
 <td align="center">원종</td>
@@ -149,6 +174,12 @@
   <td align="center"><a href="https://github.com/eofrkam"><b>Player 3<br/>🐦 원종 🐦</b></br></a></td>
   <td align="center"><a href="https://github.com/juhyulee"><b>Player 4<br/>🐺 주현 🐺</b><br/></a></td>
   </tr>
+
+  <tr>
+  <td align="center"><img src="https://progress-bar.dev/6/?scale=10&width=150&color=babaca&suffix=/10"/></td>
+  <td align="center"><img src="https://progress-bar.dev/6/?scale=10&width=150&color=babaca&suffix=/10"/></td>
+  <td align="center"><img src="https://progress-bar.dev/7/?scale=10&width=150&color=babaca&suffix=/10"/></td>
+  <td align="center"><img src="https://progress-bar.dev/8/?scale=10&width=150&color=babaca&suffix=/10"/></td>
 </br>
 </table>
 </br>

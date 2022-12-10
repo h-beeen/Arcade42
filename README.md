@@ -1,14 +1,56 @@
-<br/><br/>
+</br>
 <p align="center"><img src="https://user-images.githubusercontent.com/112257466/202611899-d08a5435-f48d-41de-8671-6d3cd6cf86fb.png" width="700px"/>
 
 ---
+<table align ="center">
+  <tr>
+  <td colspan=4 align=center><img src="https://readme-typing-svg.herokuapp.com?font=Rubik+80s+Fade&color=1EBBD7&size=30&center=true&vCenter=true&width=100%&height=35&lines=Player"></td>
+  </tr> 
+  <tr>
+   <td align="center"><a href="https://github.com/h-beeen"><img src="https://avatars.githubusercontent.com/u/112257466?v=4" width="150px;" alt=""/>
+   
+   <td align="center"><a href="https://github.com/eunchannam"><img src="https://avatars.githubusercontent.com/u/75837025?v=4" width="150px;" alt=""/>
+
+   <td align="center"><a href="https://github.com/eofrkam"><img src="https://avatars.githubusercontent.com/u/110297239?v=4" width="150px;" alt=""/>
+
+   <td align="center"><a href="https://github.com/juhyulee"><img src="https://avatars.githubusercontent.com/u/96496911?v=4" width="150px;" alt=""/>
+  </tr>
+  <tr>
+
+   <td align="center"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=joker7011" width="150px;" />
+
+   <td align="center"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=namhm23" width="150px;" />
+
+   <td align="center"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=eofrka" width="150px;" />
+
+   <td align="center"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=pismire0317" width="150px;" />
+  </tr>
+
+  <tr>
+  <td align="center"><a href="https://github.com/h-beeen"><b>Player 1<br/>🐧 해빈 🐧</b></a></td>
+  <td align="center"><a href="https://github.com/eunchannam"><b>Player 2</br>🐤 은찬 🐤</b></a></td>
+  <td align="center"><a href="https://github.com/eofrkam"><b>Player 3<br/>🐦 원종 🐦</b></br></a></td>
+  <td align="center"><a href="https://github.com/juhyulee"><b>Player 4<br/>🐺 주현 🐺</b><br/></a></td>
+  </tr>
+
+  <tr>
+  <td align="center"><img src="https://progress-bar.dev/6/?scale=8&width=150&color=babaca&suffix=/8"/></td>
+  <td align="center"><img src="https://progress-bar.dev/6/?scale=8&width=150&color=babaca&suffix=/8"/></td>
+  <td align="center"><img src="https://progress-bar.dev/7/?scale=8&width=150&color=babaca&suffix=/8"/></td>
+  <td align="center"><img src="https://progress-bar.dev/7/?scale=8&width=150&color=babaca&suffix=/8"/></td>
+</table>
+
+---
+
 <div align="center">
-<br/>
+</br>
 <table align="center">
 <thead>
 <tr>
+  <td colspan=10 align=center><img src="https://readme-typing-svg.herokuapp.com?font=Rubik+80s+Fade&color=1EBBD7&size=30&center=true&vCenter=true&width=500&height=35&lines=Score+Board"></td>
+</tr>
+<tr>
 <th colspan='2' align="center">📅</th>
-
 <th align="center">출제</th>
 <th align="center">문제</th>
 <th align="center">티어</th>
@@ -131,47 +173,9 @@
 </tbody>
 </table>
 </div>
+</br>
 
 ---
-
-<table align ="center">
-  <tr>
-   <td align="center"><a href="https://github.com/h-beeen"><img src="https://avatars.githubusercontent.com/u/112257466?v=4" width="150px;" alt=""/>
-   
-   <td align="center"><a href="https://github.com/eunchannam"><img src="https://avatars.githubusercontent.com/u/75837025?v=4" width="150px;" alt=""/>
-
-   <td align="center"><a href="https://github.com/eofrkam"><img src="https://avatars.githubusercontent.com/u/110297239?v=4" width="150px;" alt=""/>
-
-   <td align="center"><a href="https://github.com/juhyulee"><img src="https://avatars.githubusercontent.com/u/96496911?v=4" width="150px;" alt=""/>
-  </tr>
-  <tr>
-
-   <td align="center"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=joker7011" width="150px;" />
-
-   <td align="center"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=namhm23" width="150px;" />
-
-   <td align="center"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=eofrka" width="150px;" />
-
-   <td align="center"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=pismire0317" width="150px;" />
-  </tr>
-
-  <tr>
-  <td align="center"><a href="https://github.com/h-beeen"><b>Player 1<br/>🐧 해빈 🐧</b></a></td>
-  <td align="center"><a href="https://github.com/eunchannam"><b>Player 2</br>🐤 은찬 🐤</b></a></td>
-  <td align="center"><a href="https://github.com/eofrkam"><b>Player 3<br/>🐦 원종 🐦</b></br></a></td>
-  <td align="center"><a href="https://github.com/juhyulee"><b>Player 4<br/>🐺 주현 🐺</b><br/></a></td>
-  </tr>
-
-  <tr>
-  <td align="center"><img src="https://progress-bar.dev/6/?scale=8&width=150&color=babaca&suffix=/8"/></td>
-  <td align="center"><img src="https://progress-bar.dev/6/?scale=8&width=150&color=babaca&suffix=/8"/></td>
-  <td align="center"><img src="https://progress-bar.dev/7/?scale=8&width=150&color=babaca&suffix=/8"/></td>
-  <td align="center"><img src="https://progress-bar.dev/7/?scale=8&width=150&color=babaca&suffix=/8"/></td>
-</br>
-</table>
-</br>
-
-
 <p align="center"><img src="https://user-images.githubusercontent.com/112257466/202655333-75380791-fd15-462f-81ca-ccba29301028.png" width="100%"/>
 
 ---

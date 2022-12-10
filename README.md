@@ -4,7 +4,7 @@
 ---
 <table align ="center">
   <tr>
-  <td colspan=4 align=center><img src="https://readme-typing-svg.herokuapp.com?font=Rubik+80s+Fade&color=1EBBD7&size=30&center=true&vCenter=true&width=100%&height=35&lines=Player" style="vertical-align:top"></td>
+  <td colspan=4 align=center bgcolor=000000><img src="https://readme-typing-svg.herokuapp.com?font=Rubik+80s+Fade&color=1EBBD7&size=30&center=true&vCenter=true&width=100%&height=35&lines=Player" style="vertical-align:top"></td>
   </tr> 
   <tr>
    <td align="center"><a href="https://github.com/h-beeen"><img src="https://avatars.githubusercontent.com/u/112257466?v=4" width="150px; style="vertical-align:top" alt=""/>
@@ -47,7 +47,7 @@
 <table align="center">
 <thead>
 <tr>
-  <td colspan=10 align=center><img src="https://readme-typing-svg.herokuapp.com?font=Rubik+80s+Fade&color=1EBBD7&size=30&center=true&vCenter=true&width=500&height=35&lines=Score+Board" style="vertical-align:top"></td>
+  <td colspan=10 bgcolor=000000 align=center><img src="https://readme-typing-svg.herokuapp.com?font=Rubik+80s+Fade&color=1EBBD7&size=30&center=true&vCenter=true&width=500&height=35&lines=Score+Board" style="vertical-align:top"></td>
 </tr>
 <tr>
 <th colspan='2' align="center">📅</th>

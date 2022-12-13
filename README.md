@@ -34,10 +34,10 @@
   </tr>
 
   <tr>
-  <td align="center"><img src="https://progress-bar.dev/6/?scale=8&width=150&color=babaca&suffix=/8" style="vertical-align:top"/></td>
-  <td align="center"><img src="https://progress-bar.dev/6/?scale=8&width=150&color=babaca&suffix=/8" style="vertical-align:top" /></td>
-  <td align="center"><img src="https://progress-bar.dev/7/?scale=8&width=150&color=babaca&suffix=/8" style="vertical-align:top"/></td>
-  <td align="center"><img src="https://progress-bar.dev/7/?scale=8&width=150&color=babaca&suffix=/8" style="vertical-align:top"/></td>
+  <td align="center"><img src="https://progress-bar.dev/8/?scale=10&width=150&color=babaca&suffix=/10" style="vertical-align:top"/></td>
+  <td align="center"><img src="https://progress-bar.dev/6/?scale=10&width=150&color=babaca&suffix=/10" style="vertical-align:top" /></td>
+  <td align="center"><img src="https://progress-bar.dev/9/?scale=10&width=150&color=babaca&suffix=/10" style="vertical-align:top"/></td>
+  <td align="center"><img src="https://progress-bar.dev/6/?scale=10&width=150&color=babaca&suffix=/10" style="vertical-align:top"/></td>
 </table>
 
 ---
@@ -156,19 +156,31 @@
 <td align="center">해빈</td>
 <td align="center"><a href="https://www.acmicpc.net/problem/1744"/>수 묶기</td>
 <td align="center">🌕 G4</td>
-<td colspan='5' align="center">🔛</td>
+<td align="center">🔛</td>
+<td align="center">해빈</td>
+<td align="center">은찬</td>
+<td align="center">원종</td>
+<td align="center">주현</td>
 </tr>
 <tr>
 <td align="center">원종</td>
 <td align="center"><a href="https://www.acmicpc.net/problem/1987"/>알파벳</td>
 <td align="center">🌕 G4</td>
-<td colspan='5' align="center">🔛</td>
+<td align="center">🔛</td>
+<td align="center">해빈</td>
+<td align="center">은찬</td>
+<td align="center">원종</td>
+<td align="center">주현</td>
 </tr>
 <tr>
 <td align="center">은찬</td>
 <td align="center"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/12913"/>땅따먹기</td>
 <td align="center">💎 Lv.2</td>
-<td colspan='5' align="center">🔛</td>
+<td align="center">🔛</td>
+<td align="center">해빈</td>
+<td align="center">은찬</td>
+<td align="center">원종</td>
+<td align="center">주현</td>
 </tr>
 </tbody>
 </table>

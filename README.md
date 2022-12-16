@@ -193,7 +193,7 @@
 <td rowspan='3' align="center">6</td>
 <td rowspan='3' align="center">22.12.24</td>
 <td align="center">주현</td>
-<td align="center"><a href="https://www.acmicpc.net/problem/1826"/>나머지 합</td>
+<td align="center" title="[Embargo] 어렵지~"><a href="https://www.acmicpc.net/problem/10986"/>나머지 합</td>
 <td align="center">🌕 G3</td>
 <td align="center">Embargo</td>
 <td align="center">해빈</td>
@@ -203,7 +203,7 @@
 </tr>
 <tr>
 <td align="center">은찬</td>
-<td align="center"><a href="https://www.acmicpc.net/problem/1826"/>연료 채우기</td>
+<td align="center"><a href="https://www.acmicpc.net/problem/1826" title="[Embargo] 어렵지~"/>연료 채우기</td>
 <td align="center">🌕 G2</td>
 <td align="center">Embargo</td>
 <td align="center">해빈</td>
@@ -213,7 +213,7 @@
 </tr>
 <tr>
 <td align="center">원종</td>
-<td align="center"><a href="https://school.programmers.co.kr/learn/courses/"/>미정</td>
+<td align="center"><a href="https://school.programmers.co.kr/learn/courses/" title="[Embargo] 어렵지~"/>미정</td>
 <td align="center">💎 Lv.2</td>
 <td align="center">Embargo</td>
 <td align="center">해빈</td>

@@ -193,7 +193,7 @@
 <td rowspan='3' align="center">6</td>
 <td rowspan='3' align="center">22.12.24</td>
 <td align="center">주현</td>
-<td align="center" title="[Embargo] 어렵지~"><a href="https://www.acmicpc.net/problem/10986"/>나머지 합</td>
+<td align="center" ><a href="https://www.acmicpc.net/problem/10986" title="[Embargo] 어렵지~"/>나머지 합</td>
 <td align="center">🌕 G3</td>
 <td align="center">Embargo</td>
 <td align="center">해빈</td>

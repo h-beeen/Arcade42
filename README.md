@@ -7,6 +7,12 @@
   <td colspan=4 align=center><img src="https://readme-typing-svg.herokuapp.com?font=Rubik+80s+Fade&color=1EBBD7&size=30&center=true&vCenter=true&width=100%&height=35&lines=Player" style="vertical-align:top"></td>
   </tr> 
   <tr>
+  <td align="center">2nd</td>
+<td align="center">3rd</td>
+<td align="center">👑</td>
+<td align="center">4st</td>
+  </tr>
+  <tr>
    <td align="center"><a href="https://github.com/h-beeen"><img src="https://avatars.githubusercontent.com/u/112257466?v=4" width="150px; style="vertical-align:top" alt=""/>
    
    <td align="center"><a href="https://github.com/eunchannam"><img src="https://avatars.githubusercontent.com/u/75837025?v=4" width="150px;" style="vertical-align:top" alt=""/>
@@ -152,7 +158,7 @@
 
 <tr>
 <td rowspan='3' align="center">5</td>
-<td rowspan='3' align="center">22.12.17</td>
+<td rowspan='3' align="center">22.12.16</td>
 <td align="center">해빈</td>
 <td align="center"><a href="https://www.acmicpc.net/problem/1744"/>수 묶기</td>
 <td align="center">🌕 G4</td>
@@ -182,6 +188,40 @@
 <td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%EC%9B%90%EC%A2%85/5%EC%A3%BC%EC%B0%A8_P12913.cpp"/>원종</td>
 <td align="center">주현</td>
 </tr>
+
+<tr>
+<td rowspan='3' align="center">6</td>
+<td rowspan='3' align="center">22.12.24</td>
+<td align="center">은찬</td>
+<td align="center"><a href="https://www.acmicpc.net/problem/1826"/>연료 채우기</td>
+<td align="center">🌕 G2</td>
+<td align="center">Embargo</td>
+<td align="center">해빈</td>
+<td align="center">은찬</td>
+<td align="center">원종</td>
+<td align="center">주현</td>
+</tr>
+<tr>
+<td align="center">주현</td>
+<td align="center"><a href="https://www.acmicpc.net/problem/1826"/>미정</td>
+<td align="center">🌕 G2</td>
+<td align="center">Embargo</td>
+<td align="center">해빈</td>
+<td align="center">은찬</td>
+<td align="center">원종</td>
+<td align="center">주현</td>
+</tr>
+<tr>
+<td align="center">원종</td>
+<td align="center"><a href="https://www.acmicpc.net/problem/1826"/>연료 채우기</td>
+<td align="center">💎 Lv.2</td>
+<td align="center">Embargo</td>
+<td align="center">해빈</td>
+<td align="center">은찬</td>
+<td align="center">원종</td>
+<td align="center">주현</td>
+</tr>
+
 </tbody>
 </table>
 </div>

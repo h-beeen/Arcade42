@@ -8,9 +8,9 @@
   </tr> 
   <tr>
   <td align="center">2nd</td>
-<td align="center">3rd</td>
+<td align="center">4th</td>
 <td align="center">👑</td>
-<td align="center">4st</td>
+<td align="center">2nd</td>
   </tr>
   <tr>
    <td align="center"><a href="https://github.com/h-beeen"><img src="https://avatars.githubusercontent.com/u/112257466?v=4" width="150px; style="vertical-align:top" alt=""/>
@@ -43,7 +43,7 @@
   <td align="center"><img src="https://progress-bar.dev/9/?scale=11&width=150&color=babaca&suffix=/11" style="vertical-align:top"/></td>
   <td align="center"><img src="https://progress-bar.dev/8/?scale=11&width=150&color=babaca&suffix=/11" style="vertical-align:top" /></td>
   <td align="center"><img src="https://progress-bar.dev/10/?scale=11&width=150&color=babaca&suffix=/11" style="vertical-align:top"/></td>
-  <td align="center"><img src="https://progress-bar.dev/7/?scale=11&width=150&color=babaca&suffix=/11" style="vertical-align:top"/></td>
+  <td align="center"><img src="https://progress-bar.dev/9/?scale=11&width=150&color=babaca&suffix=/11" style="vertical-align:top"/></td>
 </table>
 
 ---

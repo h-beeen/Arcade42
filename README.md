@@ -34,10 +34,10 @@
   </tr>
 
   <tr>
-  <td align="center"><img src="https://progress-bar.dev/8/?scale=10&width=150&color=babaca&suffix=/10" style="vertical-align:top"/></td>
-  <td align="center"><img src="https://progress-bar.dev/6/?scale=10&width=150&color=babaca&suffix=/10" style="vertical-align:top" /></td>
-  <td align="center"><img src="https://progress-bar.dev/9/?scale=10&width=150&color=babaca&suffix=/10" style="vertical-align:top"/></td>
-  <td align="center"><img src="https://progress-bar.dev/6/?scale=10&width=150&color=babaca&suffix=/10" style="vertical-align:top"/></td>
+  <td align="center"><img src="https://progress-bar.dev/9/?scale=11&width=150&color=babaca&suffix=/11" style="vertical-align:top"/></td>
+  <td align="center"><img src="https://progress-bar.dev/8/?scale=11&width=150&color=babaca&suffix=/11" style="vertical-align:top" /></td>
+  <td align="center"><img src="https://progress-bar.dev/10/?scale=11&width=150&color=babaca&suffix=/11" style="vertical-align:top"/></td>
+  <td align="center"><img src="https://progress-bar.dev/7/?scale=11&width=150&color=babaca&suffix=/11" style="vertical-align:top"/></td>
 </table>
 
 ---

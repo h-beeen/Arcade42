@@ -8,7 +8,7 @@
   </tr> 
   <tr>
   <td align="center">2nd</td>
-<td align="center">4th</td>
+<td align="center">2nd</td>
 <td align="center">👑</td>
 <td align="center">2nd</td>
   </tr>
@@ -41,7 +41,7 @@
 
   <tr>
   <td align="center"><img src="https://progress-bar.dev/9/?scale=11&width=150&color=babaca&suffix=/11" style="vertical-align:top"/></td>
-  <td align="center"><img src="https://progress-bar.dev/8/?scale=11&width=150&color=babaca&suffix=/11" style="vertical-align:top" /></td>
+  <td align="center"><img src="https://progress-bar.dev/9/?scale=11&width=150&color=babaca&suffix=/11" style="vertical-align:top" /></td>
   <td align="center"><img src="https://progress-bar.dev/10/?scale=11&width=150&color=babaca&suffix=/11" style="vertical-align:top"/></td>
   <td align="center"><img src="https://progress-bar.dev/9/?scale=11&width=150&color=babaca&suffix=/11" style="vertical-align:top"/></td>
 </table>

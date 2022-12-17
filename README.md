@@ -141,7 +141,7 @@
 <td align="center">🌕 G4</td>
 <td align="center">Binary-Search</td>
 <td align="center">:x:</td>
-<td align="center">:x:</td>
+<td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%EC%9D%80%EC%B0%AC/4%EC%A3%BC%EC%B0%A8_2210.java"/>은찬</td>
 <td align="center">:x:</td>
 <td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%EC%A3%BC%ED%98%84/4%EC%A3%BC%EC%B0%A8_2110.py"/>주현</td>
 </tr>
@@ -213,8 +213,8 @@
 </tr>
 <tr>
 <td align="center">원종</td>
-<td align="center"><a href="https://school.programmers.co.kr/learn/courses/" title="[Embargo] 어렵지~"/>미정</td>
-<td align="center">💎 Lv.2</td>
+<td align="center"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/42897" title="[Embargo] 어렵지~"/>도둑질</td>
+<td align="center">🔮 Lv.4</td>
 <td align="center">Embargo</td>
 <td align="center">해빈</td>
 <td align="center">은찬</td>

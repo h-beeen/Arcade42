@@ -191,7 +191,7 @@
 <td align="center">원종</td>
 <td align="center">주현</td>
 </tr>
-<tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td colspan=9></td>/tr>
 
 
 

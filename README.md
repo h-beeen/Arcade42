@@ -244,7 +244,7 @@
 
 
 <tr>
-<td rowspan='3' align="center">7-2</td>
+<td rowspan='3' align="center">1-2</td>
 <td rowspan='3' align="center">23.01.05</td>
 <td align="center" ><a href="http://naver.com" title="[Embargo] 어렵지~"/>미정</td>
 <td align="center">🌑&nbsp;&nbsp;S4</td>

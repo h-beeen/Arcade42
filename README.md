@@ -57,7 +57,6 @@
 </tr>
 <tr>
 <th colspan='2' align="center">📅</th>
-<th align="center">출제</th>
 <th align="center">문제</th>
 <th align="center">티어</th>
 <th align="center">분류</th>
@@ -66,9 +65,8 @@
 </thead>
 <tbody>
 <tr>
-<td rowspan='2' align="center">1</td>
+<td rowspan='2' align="center">1-1</td>
 <td rowspan='2' align="center">22.11.19</td>
-<td align="center">원종</td>
 <td align="center"><a href="https://www.acmicpc.net/problem/17298" algin="center">오큰수</a></td>
 <td align="center">🌕 G4</td>
 <td align="center">Stack</td>
@@ -78,7 +76,6 @@
 <td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%EC%A3%BC%ED%98%84/1%EC%A3%BC%EC%B0%A8_17298.py"/>주현</td>
 </tr>
 <tr>
-<td align="center">해빈</td>
 <td align="center"><a href="https://www.acmicpc.net/problem/1600" algin="center">말이 되고픈 원숭이</a></td>
 <td align="center">🌕 G3</td>
 <td align="center">BFS</td>
@@ -88,9 +85,8 @@
 <td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%EC%A3%BC%ED%98%84/1%EC%A3%BC%EC%B0%A8_1600.py"/>주현</td>
 </tr>
 <tr>
-<td rowspan='1' align="center">2</td>
+<td rowspan='1' align="center">2-1</td>
 <td rowspan='1' align="center">22.11.27</td>
-<td align="center">주현</td>
 <td align="center"><a href="https://www.acmicpc.net/problem/1107"/>리모컨</td>
 <td align="center">🌕 G5</td>
 <td align="center">Bruteforce</td>
@@ -100,9 +96,8 @@
 <td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%EC%A3%BC%ED%98%84/2%EC%A3%BC%EC%B0%A8_1107.py"/>주현</td>
 </tr>
 <tr>
-<td rowspan='3' align="center">3</td>
+<td rowspan='3' align="center">3-1</td>
 <td rowspan='3' align="center">22.12.03</td>
-<td align="center">해빈</td>
 <td align="center"><a href="https://www.acmicpc.net/problem/2493"/>탑</td>
 <td align="center">🌕 G5</td>
 <td align="center">Stack</td>
@@ -113,7 +108,6 @@
 </tr>
 
 
-<td align="center">원종</td>
 <td align="center"><a href="https://www.acmicpc.net/problem/1915"/>가장 큰 정사각형</td>
 <td align="center">🌕 G4</td>
 <td align="center">DP</td>
@@ -124,7 +118,6 @@
 </tr>
 <tr>
 
-<td align="center">은찬</td>
 <td align="center"><a href="https://www.acmicpc.net/problem/2473"/>세 용액</td>
 <td align="center">🌕 G3</td>
 <td align="center">Two-Pointer</td>
@@ -134,9 +127,8 @@
 <td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%EC%A3%BC%ED%98%84/3%EC%A3%BC%EC%B0%A8_2473.py"/>주현</td>
 </tr>
 <tr>
-<td rowspan='2' align="center">4</td>
+<td rowspan='2' align="center">4-1</td>
 <td rowspan='2' align="center">22.12.10</td>
-<td align="center">주현</td>
 <td align="center"><a href="https://www.acmicpc.net/problem/2110"/>공유기 설치</td>
 <td align="center">🌕 G4</td>
 <td align="center">Binary-Search</td>
@@ -146,7 +138,6 @@
 <td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%EC%A3%BC%ED%98%84/4%EC%A3%BC%EC%B0%A8_2110.py"/>주현</td>
 </tr>
 <tr>
-<td align="center">은찬</td>
 <td align="center"><a href="https://www.acmicpc.net/problem/16234"/>인구 이동</td>
 <td align="center">🌕 G5</td>
 <td align="center">BFS / DFS</td>
@@ -157,9 +148,8 @@
 </tr>
 
 <tr>
-<td rowspan='3' align="center">5</td>
+<td rowspan='3' align="center">5-1</td>
 <td rowspan='3' align="center">22.12.16</td>
-<td align="center">해빈</td>
 <td align="center"><a href="https://www.acmicpc.net/problem/1744"/>수 묶기</td>
 <td align="center">🌕 G4</td>
 <td align="center">Greedy</td>
@@ -169,7 +159,6 @@
 <td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%EC%A3%BC%ED%98%84/5%EC%A3%BC%EC%B0%A8_1744.py"/>주현</td>
 </tr>
 <tr>
-<td align="center">원종</td>
 <td align="center"><a href="https://www.acmicpc.net/problem/1987"/>알파벳</td>
 <td align="center">🌕 G4</td>
 <td align="center">BFS / DFS</td>
@@ -179,7 +168,6 @@
 <td align="center">:x:</td>
 </tr>
 <tr>
-<td align="center">은찬</td>
 <td align="center"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/12913" title="[DP] 점화식만 잘 세우면 쉬웠던!"/>땅따먹기</td>
 <td align="center">💝 Lv.2</td>
 <td align="center">DP</td>
@@ -190,9 +178,8 @@
 </tr>
 
 <tr>
-<td rowspan='3' align="center">6</td>
+<td rowspan='3' align="center">6-1</td>
 <td rowspan='3' align="center">22.12.24</td>
-<td align="center">주현</td>
 <td align="center" ><a href="https://www.acmicpc.net/problem/10986" title="[Embargo] 어렵지~"/>나머지 합</td>
 <td align="center">🌕 G3</td>
 <td align="center">Embargo</td>
@@ -202,7 +189,6 @@
 <td align="center">주현</td>
 </tr>
 <tr>
-<td align="center">은찬</td>
 <td align="center"><a href="https://www.acmicpc.net/problem/1826" title="[Embargo] 어렵지~"/>연료 채우기</td>
 <td align="center">🌕 G2</td>
 <td align="center">Embargo</td>
@@ -212,7 +198,6 @@
 <td align="center">주현</td>
 </tr>
 <tr>
-<td align="center">원종</td>
 <td align="center"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/42897" title="[Embargo] 어렵지~"/>도둑질</td>
 <td align="center">❤️‍🔥 Lv.4</td>
 <td align="center">Embargo</td>
@@ -221,6 +206,64 @@
 <td align="center">원종</td>
 <td align="center">주현</td>
 </tr>
+
+<tr>
+<td rowspan='3' align="center">7-1</td>
+<td rowspan='3' align="center">23.01.05</td>
+<td align="center" ><a href="http://naver.com" title="[Embargo] 어렵지~"/>미정</td>
+<td align="center">🌕 G5</td>
+<td align="center">Embargo</td>
+<td align="center">해빈</td>
+<td align="center">은찬</td>
+<td align="center">원종</td>
+<td align="center">주현</td>
+</tr>
+<tr>
+<td align="center" ><a href="http://naver.com" title="[Embargo] 어렵지~"/>미정</td>
+<td align="center">🌕 G5</td>
+<td align="center">Embargo</td>
+<td align="center">해빈</td>
+<td align="center">은찬</td>
+<td align="center">원종</td>
+<td align="center">주현</td>
+</tr>
+<tr>
+<td align="center" ><a href="http://naver.com" title="[Embargo] 어렵지~"/>미정</td>
+<td align="center">🌕 G5</td>
+<td align="center">Embargo</td>
+<td align="center">해빈</td>
+<td align="center">은찬</td>
+<td align="center">원종</td>
+<td align="center">주현</td>
+</tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+
+
+
+<!-- 여기부터 2팀 -->
+
+
+<tr>
+<td rowspan='3' align="center">7-2</td>
+<td rowspan='3' align="center">23.01.05</td>
+<td align="center" ><a href="http://naver.com" title="[Embargo] 어렵지~"/>미정</td>
+<td align="center">🌑&nbsp;&nbsp;S4</td>
+<td align="center">Embargo</td>
+<td align="center">소울</td>
+<td align="center">수빈</td>
+<td align="center">동윤</td>
+<td align="center">상효</td>
+</tr>
+<tr>
+<td align="center" ><a href="http://naver.com" title="[Embargo] 어렵지~"/>미정</td>
+<td align="center">🌑&nbsp;&nbsp;S4</td>
+<td align="center">Embargo</td>
+<td align="center">소울</td>
+<td align="center">수빈</td>
+<td align="center">동윤</td>
+<td align="center">상효</td>
+</tr>
+
 
 </tbody>
 </table>

@@ -229,7 +229,7 @@
 
 <table align ="center">
   <tr>
-  <td colspan=4 align=center><img src="https://readme-typing-svg.herokuapp.com?font=Rubik+80s+Fade&color=1EBBD7&size=30&center=true&vCenter=true&width=100%&height=35&lines=Team+1" style="vertical-align:top"></td>
+  <td colspan=4 align=center><img src="https://readme-typing-svg.herokuapp.com?font=Rubik+80s+Fade&color=1EBBD7&size=25&center=true&vCenter=true&width=100%&height=35&lines=Team+1" style="vertical-align:top"></td>
   </tr> 
   <tr>
   <td align="center">2nd</td>
@@ -274,7 +274,7 @@
   <td></td><td></td><td></td><td></td>
   
  <tr>
-  <td colspan=4 align=center><img src="https://readme-typing-svg.herokuapp.com?font=Rubik+80s+Fade&color=1EBBD7&size=30&center=true&vCenter=true&width=100%&height=35&lines=Team+2" style="vertical-align:top"></td>
+  <td colspan=4 align=center><img src="https://readme-typing-svg.herokuapp.com?font=Rubik+80s+Fade&color=1EBBD7&size=25&center=true&vCenter=true&width=100%&height=35&lines=Team+2" style="vertical-align:top"></td>
   </tr> 
   <tr>
   <td align="center">2nd</td>

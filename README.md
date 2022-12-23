@@ -283,9 +283,9 @@
   <tr>
    <td align="center"><a href="https://github.com/biisairo"><img src="https://avatars.githubusercontent.com/u/105145669?v=4" width="130px; style="vertical-align:top" alt=""/>
    
-   <td align="center"><a href="https://github.com/eunchannam"><img src="https://avatars.githubusercontent.com/u/75837025?v=4" width="130px;" style="vertical-align:top" alt=""/>
+   <td align="center"><a href="https://github.com/chobinee"><img src="https://avatars.githubusercontent.com/u/58325848?v=4" width="130px;" style="vertical-align:top" alt=""/>
 
-   <td align="center"><a href="https://github.com/eofrkam"><img src="https://avatars.githubusercontent.com/u/110297239?v=4" width="130px;" style="vertical-align:top" alt=""/>
+   <td align="center"><a href="https://github.com/Pig30nidaE"><img src="hhttps://avatars.githubusercontent.com/u/79036425?v=44" width="130px;" style="vertical-align:top" alt=""/>
 
    <td align="center"><a href="https://github.com/juhyulee"><img src="https://avatars.githubusercontent.com/u/96496911?v=4" width="130px;" style="vertical-align:top" alt=""/>
   </tr>
@@ -293,17 +293,17 @@
 
    <td align="center"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rlark1224" style="vertical-align:top" width="130px;" />
 
-   <td align="center"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=namhm23" style="vertical-align:top" width="130px;" />
+   <td align="center"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=tnqls991213" style="vertical-align:top" width="130px;" />
 
-   <td align="center"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=eofrka" style="vertical-align:top" width="130px;" />
+   <td align="center"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dltkdgy1129" style="vertical-align:top" width="130px;" />
 
    <td align="center"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=pismire0317" style="vertical-align:top" width="130px;" />
   </tr>
 
   <tr>
-  <td align="center"><a href="https://github.com/h-beeen"><b>Player 5<br/>👿 동윤 👿</b></a></td>
-  <td align="center"><a href="https://github.com/eunchannam"><b>Player 2</br>🐤 은찬 🐤</b></a></td>
-  <td align="center"><a href="https://github.com/eofrkam"><b>Player 3<br/>🐦 원종 🐦</b></br></a></td>
+  <td align="center"><a href="https://github.com/biisairo"><b>Player 5<br/>👿 동윤 👿</b></a></td>
+  <td align="center"><a href="https://github.com/chobinee"><b>Player 2</br>🐤 수빈 🐤</b></a></td>
+  <td align="center"><a href="https://github.com/Pig30nidaE"><b>Player 3<br/>🐦 상효 🐦</b></br></a></td>
   <td align="center"><a href="https://github.com/juhyulee"><b>Player 4<br/>🐺 주현 🐺</b><br/></a></td>
   </tr>
 

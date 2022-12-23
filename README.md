@@ -285,7 +285,7 @@
    
    <td align="center"><a href="https://github.com/chobinee"><img src="https://avatars.githubusercontent.com/u/58325848?v=4" width="130px;" style="vertical-align:top" alt=""/>
 
-   <td align="center"><a href="https://github.com/Pig30nidaE"><img src="hhttps://avatars.githubusercontent.com/u/79036425?v=44" width="130px;" style="vertical-align:top" alt=""/>
+   <td align="center"><a href="https://github.com/Pig30nidaE"><img src="https://avatars.githubusercontent.com/u/79036425?v=44" width="130px;" style="vertical-align:top" alt=""/>
 
    <td align="center"><a href="https://github.com/juhyulee"><img src="https://avatars.githubusercontent.com/u/96496911?v=4" width="130px;" style="vertical-align:top" alt=""/>
   </tr>

@@ -205,19 +205,19 @@
 <td align="center" ><a href="http://naver.com" title="[Embargo] 어렵지~"/>미정</td>
 <td align="center">🌑&nbsp;&nbsp;S4</td>
 <td align="center">Embargo</td>
-<td align="center">소울</td>
-<td align="center">수빈</td>
 <td align="center">동윤</td>
+<td align="center">수빈</td>
 <td align="center">상효</td>
+<td align="center">소울</td>
 </tr>
 <tr>
 <td align="center" ><a href="http://naver.com" title="[Embargo] 어렵지~"/>미정</td>
 <td align="center">🌑&nbsp;&nbsp;S4</td>
 <td align="center">Embargo</td>
-<td align="center">소울</td>
-<td align="center">수빈</td>
 <td align="center">동윤</td>
+<td align="center">수빈</td>
 <td align="center">상효</td>
+<td align="center">소울</td>
 </tr>
 
 
@@ -302,9 +302,9 @@
 
   <tr>
   <td align="center"><a href="https://github.com/biisairo"><b>Player 5<br/>👿 동윤 👿</b></a></td>
-  <td align="center"><a href="https://github.com/chobinee"><b>Player 2</br>🐤 수빈 🐤</b></a></td>
-  <td align="center"><a href="https://github.com/Pig30nidaE"><b>Player 3<br/>🐦 상효 🐦</b></br></a></td>
-  <td align="center"><a href="https://github.com/juhyulee"><b>Player 4<br/>🐺 주현 🐺</b><br/></a></td>
+  <td align="center"><a href="https://github.com/chobinee"><b>Player 6</br>🐤 수빈 🐤</b></a></td>
+  <td align="center"><a href="https://github.com/Pig30nidaE"><b>Player 7<br/>🐦 상효 🐦</b></br></a></td>
+  <td align="center"><a href="https://github.com/juhyulee"><b>Player 8<br/>🐺 소울 🐺</b><br/></a></td>
   </tr>
 
   <tr>

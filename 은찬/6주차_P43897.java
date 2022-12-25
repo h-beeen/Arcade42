@@ -1,6 +1,6 @@
 import java.io.*;
 import java.util.*;
-
+ 
 public class Main {
     public int solution(int[] m) {
         int answer = 0;

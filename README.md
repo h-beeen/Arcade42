@@ -154,7 +154,7 @@
 </tr>
 <tr>
 <td align="center"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/42897" title="[Embargo] 어렵지~"/>도둑질</td>
-<td align="center">❤️‍🔥 Lv.4</td>
+<td align="center">💝 Lv.4</td>
 <td align="center">Embargo</td>
 <td align="center">해빈</td>
 <td align="center">은찬</td>
@@ -164,8 +164,8 @@
 
 <tr>
 <td rowspan='3' align="center">7-1</td>
-<td rowspan='3' align="center">23.01.05</td>
-<td align="center" ><a href="http://naver.com" title="[Embargo] 어렵지~"/>미정</td>
+<td rowspan='3' align="center">23.01.07</td>
+<td align="center" ><a href="https://www.acmicpc.net/problem/10026"/>적록색약</td>
 <td align="center">🌕 G5</td>
 <td align="center">Embargo</td>
 <td align="center">해빈</td>
@@ -174,7 +174,7 @@
 <td align="center">주현</td>
 </tr>
 <tr>
-<td align="center" ><a href="http://naver.com" title="[Embargo] 어렵지~"/>미정</td>
+<td align="center" ><a href="http://naver.com" title="[Embargo] 어렵지~"/>백준(원종)</td>
 <td align="center">🌕 G5</td>
 <td align="center">Embargo</td>
 <td align="center">해빈</td>
@@ -183,7 +183,7 @@
 <td align="center">주현</td>
 </tr>
 <tr>
-<td align="center" ><a href="http://naver.com" title="[Embargo] 어렵지~"/>미정</td>
+<td align="center" ><a href="http://naver.com">프로그래머스</td>
 <td align="center">🌕 G5</td>
 <td align="center">Embargo</td>
 <td align="center">해빈</td>
@@ -202,8 +202,8 @@
 <tr>
 <td rowspan='3' align="center">1-2</td>
 <td rowspan='3' align="center">23.01.05</td>
-<td align="center" ><a href="http://naver.com" title="[Embargo] 어렵지~"/>미정</td>
-<td align="center">🌑&nbsp;&nbsp;S4</td>
+<td align="center" ><a href="https://www.acmicpc.net/problem/17427"/>약수의 합 2</td>
+<td align="center">🌑 S2</td>
 <td align="center">Embargo</td>
 <td align="center">동윤</td>
 <td align="center">수빈</td>
@@ -212,7 +212,7 @@
 </tr>
 <tr>
 <td align="center" ><a href="http://naver.com" title="[Embargo] 어렵지~"/>미정</td>
-<td align="center">🌑&nbsp;&nbsp;S4</td>
+<td align="center">🌑 S4</td>
 <td align="center">Embargo</td>
 <td align="center">동윤</td>
 <td align="center">수빈</td>
@@ -287,7 +287,7 @@
 
    <td align="center"><a href="https://github.com/Pig30nidaE"><img src="https://avatars.githubusercontent.com/u/79036425?v=44" width="130px;" style="vertical-align:top" alt=""/>
 
-   <td align="center"><a href="https://github.com/juhyulee"><img src="https://avatars.githubusercontent.com/u/96496911?v=4" width="130px;" style="vertical-align:top" alt=""/>
+   <td align="center"><a href="https://github.com/soulee-dev"><img src="https://avatars.githubusercontent.com/u/12353597?v=4" width="130px;" style="vertical-align:top" alt=""/>
   </tr>
   <tr>
 
@@ -297,14 +297,14 @@
 
    <td align="center"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dltkdgy1129" style="vertical-align:top" width="130px;" />
 
-   <td align="center"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=pismire0317" style="vertical-align:top" width="130px;" />
+   <td align="center"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=soulee" style="vertical-align:top" width="130px;" />
   </tr>
 
   <tr>
   <td align="center"><a href="https://github.com/biisairo"><b>Player 5<br/>👿 동윤 👿</b></a></td>
   <td align="center"><a href="https://github.com/chobinee"><b>Player 6</br>🐤 수빈 🐤</b></a></td>
   <td align="center"><a href="https://github.com/Pig30nidaE"><b>Player 7<br/>🐦 상효 🐦</b></br></a></td>
-  <td align="center"><a href="https://github.com/juhyulee"><b>Player 8<br/>🐺 소울 🐺</b><br/></a></td>
+  <td align="center"><a href="https://github.com/soulee-dev"><b>Player 8<br/>🐺 소울 🐺</b><br/></a></td>
   </tr>
 
   <tr>

@@ -266,10 +266,10 @@
   </tr>
 
   <tr>
-  <td align="center"><img src="https://progress-bar.dev/10/?scale=11&width=150&color=babaca&suffix=/14" style="vertical-align:top"/></td>
-  <td align="center"><img src="https://progress-bar.dev/11/?scale=11&width=150&color=babaca&suffix=/14" style="vertical-align:top" /></td>
-  <td align="center"><img src="https://progress-bar.dev/9/?scale=11&width=150&color=babaca&suffix=/14" style="vertical-align:top"/></td>
-  <td align="center"><img src="https://progress-bar.dev/8/?scale=11&width=150&color=babaca&suffix=/14" style="vertical-align:top"/></td>
+  <td align="center"><img src="https://progress-bar.dev/10/?scale=14&width=150&color=babaca&suffix=/14" style="vertical-align:top"/></td>
+  <td align="center"><img src="https://progress-bar.dev/11/?scale=14&width=150&color=babaca&suffix=/14" style="vertical-align:top" /></td>
+  <td align="center"><img src="https://progress-bar.dev/9/?scale=14&width=150&color=babaca&suffix=/14" style="vertical-align:top"/></td>
+  <td align="center"><img src="https://progress-bar.dev/8/?scale=14&width=150&color=babaca&suffix=/14" style="vertical-align:top"/></td>
 </tr>
 <tr>
   <td colspan=4 align=center><img src="https://readme-typing-svg.herokuapp.com?font=Rubik+80s+Fade&color=1EBBD7&size=25&center=true&vCenter=true&width=100%&height=35&lines=Team+2" style="vertical-align:top"></td>

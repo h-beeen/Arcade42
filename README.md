@@ -249,13 +249,13 @@
   </tr>
   <tr>
 
-   <td align="center"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=joker7011" style="vertical-align:top" width="130px;" />
+   <td align="center"><a href="https://solved.ac/profile/joker7011"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=joker7011" style="vertical-align:top" width="130px;" /></a></td>
 
-   <td align="center"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=namhm23" style="vertical-align:top" width="130px;" />
+   <td align="center"><a href="https://solved.ac/profile/namhm23"/><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=namhm23" style="vertical-align:top" width="130px;" /></a></td>
 
-   <td align="center"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=eofrka" style="vertical-align:top" width="130px;" />
+   <td align="center"><a href="https://solved.ac/profile/eofrka"/><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=eofrka" style="vertical-align:top" width="130px;" /></a></td>
 
-   <td align="center"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=pismire0317" style="vertical-align:top" width="130px;" />
+   <td align="center"><a href="https://solved.ac/profile/pismire0317"/><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=pismire0317" style="vertical-align:top" width="130px;" /></a></td>
   </tr>
 
   <tr>
@@ -291,13 +291,13 @@
   </tr>
   <tr>
 
-   <td align="center"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rlark1224" style="vertical-align:top" width="130px;" />
+   <td align="center"><a href="https://solved.ac/profile/rlark1224"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rlark1224" style="vertical-align:top" width="130px;" /></a></td>
 
-   <td align="center"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=tnqls991213" style="vertical-align:top" width="130px;" />
+   <td align="center"><a href="https://solved.ac/profile/tnqls991213"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=tnqls991213" style="vertical-align:top" width="130px;" /></a></td>
 
-   <td align="center"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dltkdgy1129" style="vertical-align:top" width="130px;" />
+   <td align="center"><a href="https://solved.ac/profile/dltkdgy1129"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dltkdgy1129" style="vertical-align:top" width="130px;" /></a></td>
 
-   <td align="center"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=soulee" style="vertical-align:top" width="130px;" />
+   <td align="center"><a href="https://solved.ac/profile/soulee"/><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=soulee" style="vertical-align:top" width="130px;" /></a></td>
   </tr>
 
   <tr>

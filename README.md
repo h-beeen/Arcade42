@@ -135,7 +135,7 @@
 <tr>
 <td rowspan='3' align="center">6-1</td>
 <td rowspan='3' align="center">22/12/26</td>
-<td align="center" ><a href="https://www.acmicpc.net/problem/10986" 나머지 합</td>
+<td align="center" ><a href="https://www.acmicpc.net/problem/10986"/>나머지 합</td>
 <td align="center">🌕 G3</td>
 <td align="center">Prefix Sum</td>
 <td align="center">:x:</td>

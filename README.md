@@ -179,7 +179,7 @@
 <td align="center">Embargo</td>
 <td align="center">해빈</td>
 <td align="center">은찬</td>
-<td align="center">원종</td>
+<td align="center"><a href="https://github.com/h-beeen/Arcade42/tree/master/%EC%9B%90%EC%A2%85"/>원종</td>
 <td align="center">주현</td>
 </tr>
 <tr>

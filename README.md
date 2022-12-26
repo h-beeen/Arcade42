@@ -259,10 +259,10 @@
   </tr>
 
   <tr>
-  <td align="center"><a href="https://github.com/h-beeen"><b>Player 1<br/>🐧 해빈 🐧</b></a></td>
-  <td align="center"><a href="https://github.com/eunchannam"><b>Player 2</br>🐤 은찬 🐤</b></a></td>
-  <td align="center"><a href="https://github.com/eofrkam"><b>Player 3<br/>🐦 원종 🐦</b></br></a></td>
-  <td align="center"><a href="https://github.com/juhyulee"><b>Player 4<br/>🐺 주현 🐺</b><br/></a></td>
+  <td align="center"><a href="https://github.com/h-beeen"><b>Player 1<br/>🐧 해빈 </b>(C++) 🐧</a></td>
+  <td align="center"><a href="https://github.com/eunchannam"><b>Player 2</br>🐤 은찬 </b>(Java) 🐤</a></td>
+  <td align="center"><a href="https://github.com/eofrkam"><b>Player 3<br/>🐦 원종 </b>(C) 🐦</br></a></td>
+  <td align="center"><a href="https://github.com/juhyulee"><b>Player 4<br/>🐺 주현 </b>(Python) 🐺<br/></a></td>
   </tr>
 
   <tr>

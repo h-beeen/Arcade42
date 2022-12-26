@@ -175,7 +175,7 @@
 </tr>
 <tr>
 <td align="center" ><a href="https://www.acmicpc.net/problem/12100"/>2048 (Easy)</td>
-<td align="center">🌕 G5</td>
+<td align="center">🌕 G2</td>
 <td align="center">Embargo</td>
 <td align="center">해빈</td>
 <td align="center">은찬</td>

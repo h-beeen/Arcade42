@@ -205,7 +205,7 @@
 
 
 <tr>
-  <td colspan=10 align=center><img src="https://readme-typing-svg.herokuapp.com?font=Rubik+80s+Fade&color=1EBBD7&size=30&center=true&vCenter=true&width=500&height=35&lines=Score+Board+-+" style="vertical-align:top"></td>
+  <td colspan=10 align=center><img src="https://readme-typing-svg.herokuapp.com?font=Rubik+80s+Fade&color=1EBBD7&size=30&center=true&vCenter=true&width=500&height=35&lines=Score+Board+-+2" style="vertical-align:top"></td>
 </tr>
 
 

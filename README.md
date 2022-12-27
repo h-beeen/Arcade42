@@ -191,6 +191,19 @@
 <td align="center">원종</td>
 <td align="center">주현</td>
 </tr>
+
+<tr>
+<td rowspan='1' align="center">8-1</td>
+<td rowspan='1' align="center">23/01/14</td>
+<td colspan='3' align="center" ><b>복습 주간</b></td>
+<td align="center">0/6</td>
+<td align="center">0/6</td>
+<td align="center">0/3</td>
+<td align="center">0/7</td>
+</tr>
+
+
+
 <tr><td colspan=9></td>
 </tr>
 
@@ -200,8 +213,8 @@
 
 
 <tr>
-<td rowspan='3' align="center">7-2</td>
-<td rowspan='3' align="center">23/01/05</td>
+<td rowspan='2' align="center">7-2</td>
+<td rowspan='2' align="center">23/01/05</td>
 <td align="center" ><a href="https://www.acmicpc.net/problem/17427"/>약수의 합 2</td>
 <td align="center">🌑 S2</td>
 <td align="center">Embargo</td>
@@ -214,6 +227,28 @@
 <td align="center" ><a href="https://www.acmicpc.net/problem/10828"/>스택</td>
 <td align="center">🌑 S4</td>
 <td align="center">Embargo</td>
+<td align="center">동윤</td>
+<td align="center">수빈</td>
+<td align="center">상효</td>
+<td align="center">소울</td>
+</tr>
+
+<tr>
+<td rowspan='2' align="center">8-2</td>
+<td rowspan='2' align="center">23/01/12</td>
+<td align="center" >미정</td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center">동윤</td>
+<td align="center">수빈</td>
+<td align="center">상효</td>
+<td align="center">소울</td>
+</tr>
+<tr>
+
+<td align="center" >미정</td>
+<td align="center"></td>
+<td align="center"></td>
 <td align="center">동윤</td>
 <td align="center">수빈</td>
 <td align="center">상효</td>

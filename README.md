@@ -183,7 +183,7 @@
 <td align="center">주현</td>
 </tr>
 <tr>
-<td align="center" ><a href="https://school.programmers.co.kr/learn/courses/30/lessons/43164">여행경로</td>
+<td align="center" ><a href="https://school.programmers.co.kr/learn/courses/30/lessons/43238"/>입국심사</td>
 <td align="center">💝 Lv.3</td>
 <td align="center">BFS / DFS</td>
 <td align="center">해빈</td>

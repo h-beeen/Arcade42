@@ -205,7 +205,7 @@
 <td align="center" ><a href="https://www.acmicpc.net/problem/17427"/>약수의 합 2</td>
 <td align="center">🌑 S2</td>
 <td align="center">Embargo</td>
-<td align="center">동윤</td>
+<td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%EB%8F%99%EC%9C%A4/7%EC%A3%BC%EC%B0%A8_17427.c"/>동윤</td>
 <td align="center">수빈</td>
 <td align="center">상효</td>
 <td align="center">소울</td>
@@ -269,7 +269,7 @@
   <td align="center"><img src="https://progress-bar.dev/11/?scale=17&width=150&color=babaca&suffix=/17" style="vertical-align:top"/></td>
   <td align="center"><img src="https://progress-bar.dev/11/?scale=17&width=150&color=babaca&suffix=/17" style="vertical-align:top" /></td>
   <td align="center"><img src="https://progress-bar.dev/14/?scale=17&width=150&color=babaca&suffix=/17" style="vertical-align:top"/></td>
-  <td align="center"><img src="https://progress-bar.dev/9/?scale=17&width=150&color=babaca&suffix=/17" style="vertical-align:top"/></td>
+  <td align="center"><img src="https://progress-bar.dev/10/?scale=17&width=150&color=babaca&suffix=/17" style="vertical-align:top"/></td>
 </tr>
 <tr>
   <td colspan=4 align=center><img src="https://readme-typing-svg.herokuapp.com?font=Rubik+80s+Fade&color=1EBBD7&size=25&center=true&vCenter=true&width=100%&height=35&lines=Team+2" style="vertical-align:top"></td>
@@ -308,7 +308,7 @@
   </tr>
 
   <tr>
-  <td align="center"><img src="https://progress-bar.dev/0/?scale=2&width=150&color=babaca&suffix=/2" style="vertical-align:top"/></td>
+  <td align="center"><img src="https://progress-bar.dev/1/?scale=2&width=150&color=babaca&suffix=/2" style="vertical-align:top"/></td>
   <td align="center"><img src="https://progress-bar.dev/0/?scale=2&width=150&color=babaca&suffix=/2" style="vertical-align:top" /></td>
   <td align="center"><img src="https://progress-bar.dev/0/?scale=2&width=150&color=babaca&suffix=/2" style="vertical-align:top"/></td>
   <td align="center"><img src="https://progress-bar.dev/0/?scale=2&width=150&color=babaca&suffix=/2" style="vertical-align:top"/></td>

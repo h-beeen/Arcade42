@@ -211,7 +211,7 @@
 <td align="center">소울</td>
 </tr>
 <tr>
-<td align="center" ><a href="http://naver.com" title="[Embargo] 어렵지~"/>미정</td>
+<td align="center" ><a href="https://www.acmicpc.net/problem/10828"/>스택</td>
 <td align="center">🌑 S4</td>
 <td align="center">Embargo</td>
 <td align="center">동윤</td>

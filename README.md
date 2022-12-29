@@ -135,7 +135,7 @@
 <td align="center">🏴‍☠️</td>
 </tr>
 <tr>
-<td align="center">🔍</td>
+<td align="center">BONUS</td>
 <td align="center"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/12913" title="[DP] 점화식만 잘 세우면 쉬웠던!"/>땅따먹기</td>
 <td align="center">💝 Lv.2</td>
 <td align="center">DP</td>
@@ -167,7 +167,7 @@
 <td align="center">🏴‍☠️</td>
 </tr>
 <tr>
-<td align="center">🔍</td>
+<td align="center">BONUS</td>
 <td align="center"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/42897" title="[DP] 점화식..어려웠어.."/>도둑질</td>
 <td align="center">💝 Lv.4</td>
 <td align="center">DP</td>
@@ -199,7 +199,7 @@
 <td align="center">주현</td>
 </tr>
 <tr>
-<td align="center">🔍</td>
+<td align="center">BONUS</td>
 <td align="center" ><a href="https://school.programmers.co.kr/learn/courses/30/lessons/43238"/>입국심사</td>
 <td align="center">💝 Lv.3</td>
 <td align="center">BFS / DFS</td>

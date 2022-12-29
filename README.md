@@ -202,7 +202,7 @@
 <td align="center">BONUS</td>
 <td align="center" ><a href="https://school.programmers.co.kr/learn/courses/30/lessons/43238"/>입국심사</td>
 <td align="center">📙 Lv.3</td>
-<td align="center">BFS / DFS</td>
+<td align="center">Binary-Search</td>
 <td align="center">해빈</td>
 <td align="center">은찬</td>
 <td align="center">원종</td>

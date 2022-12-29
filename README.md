@@ -33,7 +33,7 @@
 </tr>
 <tr>
 <td align="center">해빈 ⚔️</td>
-<td align="center"><a href="https://www.acmicpc.net/problem/1600" algin="center">말이 되고픈 원숭이</a></td>
+<td align="center" title="[BFS] 백트래킹 빙의 BFS"><a href="https://www.acmicpc.net/problem/1600" algin="center">말이 되고픈 원숭이</a></td>
 <td align="center">🌕 G3</td>
 <td align="center">BFS</td>
 <td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%ED%95%B4%EB%B9%88/1%EC%A3%BC%EC%B0%A8_1600.cpp"/>해빈</td>
@@ -44,7 +44,7 @@
 <tr>
 <td rowspan='2' align="center">2-1<br/>22/11/27</td>
 <td align="center">원종 ⚔️</td>
-<td align="center"><a href="https://www.acmicpc.net/problem/1107"/>리모컨</td>
+<td align="center" title="[Bruteforce] 브루트포스 기초 다잡기"><a href="https://www.acmicpc.net/problem/1107"/>리모컨</td>
 <td align="center">🌕 G5</td>
 <td align="center">Bruteforce</td>
 <td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%ED%95%B4%EB%B9%88/2%EC%A3%BC%EC%B0%A8_1107.cpp"/>해빈</td>
@@ -54,7 +54,7 @@
 </tr>
 <tr>
 <td align="center">은찬 ⚔️</td>
-<td align="center"><a href="https://www.acmicpc.net/problem/2332"/>전화번호</td>
+<td align="center" title="[DP] 결국 All-Kill 나버린 악마의 문제"><a href="https://www.acmicpc.net/problem/2332"/>전화번호</td>
 <td align="center">🌕 G5</td>
 <td align="center">DP/DFS/BFS</td>
 <td colspan="4" align="center">All Kill&nbsp;&nbsp;🏴‍☠️</td>
@@ -62,7 +62,7 @@
 <tr>
 <td rowspan='3' align="center">3-1<br/>22/12/03</td>
 <td align="center">해빈 ⚔️</td>
-<td align="center"><a href="https://www.acmicpc.net/problem/2493"/>탑</td>
+<td align="center"  title="[Stack] 마치 왼큰수"><a href="https://www.acmicpc.net/problem/2493"/>탑</td>
 <td align="center">🌕 G5</td>
 <td align="center">Stack</td>
 <td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%ED%95%B4%EB%B9%88/3%EC%A3%BC%EC%B0%A8_2493.cpp"/>해빈</td>

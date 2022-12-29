@@ -137,7 +137,7 @@
 <tr>
 <td align="center">BONUS</td>
 <td align="center"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/12913" title="[DP] 점화식만 잘 세우면 쉬웠던!"/>땅따먹기</td>
-<td align="center">💝 Lv.2</td>
+<td align="center">📗 Lv.2</td>
 <td align="center">DP</td>
 <td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%ED%95%B4%EB%B9%88/5%EC%A3%BC%EC%B0%A8_P12913.cpp"/>해빈</td>
 <td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%EC%9D%80%EC%B0%AC/5%EC%A3%BC%EC%B0%A8_P12913.java"/>은찬</td>
@@ -169,7 +169,7 @@
 <tr>
 <td align="center">BONUS</td>
 <td align="center"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/42897" title="[DP] 점화식..어려웠어.."/>도둑질</td>
-<td align="center">💝 Lv.4</td>
+<td align="center">📕 Lv.4</td>
 <td align="center">DP</td>
 <td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%ED%95%B4%EB%B9%88/6%EC%A3%BC%EC%B0%A8_P42897.cpp"/>해빈</td>
 <td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%EC%9D%80%EC%B0%AC/6%EC%A3%BC%EC%B0%A8_P43897.java"/>은찬</td>
@@ -201,7 +201,7 @@
 <tr>
 <td align="center">BONUS</td>
 <td align="center" ><a href="https://school.programmers.co.kr/learn/courses/30/lessons/43238"/>입국심사</td>
-<td align="center">💝 Lv.3</td>
+<td align="center">📙 Lv.3</td>
 <td align="center">BFS / DFS</td>
 <td align="center">해빈</td>
 <td align="center">은찬</td>

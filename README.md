@@ -23,7 +23,7 @@
 <tr>
 <td rowspan='2' align="center">1-1<br/>22/11/19</td>
 <td align="center">주현 ⚔️</td>
-<td align="center"><a href="https://www.acmicpc.net/problem/17298" algin="center">오큰수</a></td>
+<td align="center"><a href="https://www.acmicpc.net/problem/17298" algin="center" title="[Stack] 스택 기초 다잡기">오큰수</a></td>
 <td align="center">🌕 G4</td>
 <td align="center">Stack</td>
 <td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%ED%95%B4%EB%B9%88/1%EC%A3%BC%EC%B0%A8_17298.cpp"/>해빈</td>

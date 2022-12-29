@@ -148,7 +148,7 @@
 <tr>
 <td rowspan='3' align="center">6-1<br/>22/12/26</td>
 <td align="center">주현 ⚔️</td>
-<td align="center" ><a href="https://www.acmicpc.net/problem/10986"/>나머지 합</td>
+<td align="center" title="[Prefix-Sum] 아직도 잘 모르겠다..너는"><a href="https://www.acmicpc.net/problem/10986"/>나머지 합</td>
 <td align="center">🌕 G3</td>
 <td align="center">Prefix Sum</td>
 <td align="center">🏴‍☠️</td>
@@ -158,7 +158,7 @@
 </tr>
 <tr>
 <td align="center">은찬 ⚔️</td>
-<td align="center"><a href="https://www.acmicpc.net/problem/1826" title="[Embargo] 어렵지~"/>연료 채우기</td>
+<td align="center" title="[Greedy] 기름통 부수고 싶었던..ㅎ"><a href="https://www.acmicpc.net/problem/1826">연료 채우기</td>
 <td align="center">🌕 G2</td>
 <td align="center">Greedy</td>
 <td align="center">🏴‍☠️</td>
@@ -180,7 +180,7 @@
 <tr>
 <td rowspan='3' align="center">7-1<br/>23/01/07</td>
 <td align="center">해빈 ⚔️</td>
-<td align="center" ><a href="https://www.acmicpc.net/problem/10026"/>적록색약</td>
+<td align="center"><a href="https://www.acmicpc.net/problem/10026"/>적록색약</td>
 <td align="center">🌕 G5</td>
 <td align="center">Embargo</td>
 <td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%ED%95%B4%EB%B9%88/7%EC%A3%BC%EC%B0%A8_10026.cpp"/>해빈</td>

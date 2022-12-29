@@ -72,7 +72,7 @@
 </tr>
 
 <td align="center">원종 ⚔️</td>
-<td align="center"><a href="https://www.acmicpc.net/problem/1915"/>가장 큰 정사각형</td>
+<td align="center" title="[DP] Do You Know BSQ?"><a href="https://www.acmicpc.net/problem/1915"/>가장 큰 정사각형</td>
 <td align="center">🌕 G4</td>
 <td align="center">DP</td>
 <td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%ED%95%B4%EB%B9%88/3%EC%A3%BC%EC%B0%A8_1915.cpp"/>해빈</td>
@@ -83,7 +83,7 @@
 <tr>
 
 <td align="center">은찬 ⚔️</td>
-<td align="center"><a href="https://www.acmicpc.net/problem/2473"/>세 용액</td>
+<td align="center" title="[Two-Pointer] Not Two, Use Three!"><a href="https://www.acmicpc.net/problem/2473"/>세 용액</td>
 <td align="center">🌕 G3</td>
 <td align="center">Two-Pointer</td>
 <td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%ED%95%B4%EB%B9%88/3%EC%A3%BC%EC%B0%A8_2473.cpp"/>해빈</td>
@@ -94,7 +94,7 @@
 <tr>
 <td rowspan='2' align="center">4-1<br/>22/12/10</td>
 <td align="center">주현 ⚔️</td>
-<td align="center"><a href="https://www.acmicpc.net/problem/2110"/>공유기 설치</td>
+<td align="center" title="[Binary-Search] 어지러운 이분탐색"><a href="https://www.acmicpc.net/problem/2110"/>공유기 설치</td>
 <td align="center">🌕 G4</td>
 <td align="center">Binary-Search</td>
 <td align="center">🏴‍☠️</td>

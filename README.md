@@ -104,7 +104,7 @@
 </tr>
 <tr>
 <td align="center">은찬 ⚔️</td>
-<td align="center"><a href="https://www.acmicpc.net/problem/16234"/>인구 이동</td>
+<td align="center" title="[BFS] 빡구현 많은 조건 분기 BFS"><a href="https://www.acmicpc.net/problem/16234"/>인구 이동</td>
 <td align="center">🌕 G5</td>
 <td align="center">BFS / DFS</td>
 <td align="center">🏴‍☠️</td>
@@ -116,7 +116,7 @@
 <tr>
 <td rowspan='3' align="center">5-1<br/>22/12/16</td>
 <td align="center">해빈 ⚔️</td>
-<td align="center"><a href="https://www.acmicpc.net/problem/1744"/>수 묶기</td>
+<td align="center" title="[Greedy] 조건 처리만 잘 하면 나름 쉬운?"><a href="https://www.acmicpc.net/problem/1744"/>수 묶기</td>
 <td align="center">🌕 G4</td>
 <td align="center">Greedy</td>
 <td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%ED%95%B4%EB%B9%88/5%EC%A3%BC%EC%B0%A8_1744.cpp"/>해빈</td>
@@ -126,7 +126,7 @@
 </tr>
 <tr>
 <td align="center">원종 ⚔️</td>
-<td align="center"><a href="https://www.acmicpc.net/problem/1987"/>알파벳</td>
+<td align="center" title="[BFS/DFS] 나름 완전탐색"><a href="https://www.acmicpc.net/problem/1987"/>알파벳</td>
 <td align="center">🌕 G4</td>
 <td align="center">BFS / DFS</td>
 <td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%ED%95%B4%EB%B9%88/5%EC%A3%BC%EC%B0%A8_1987.cpp"/>해빈</td>

@@ -211,7 +211,7 @@
 
 <tr>
 <td rowspan='1' align="center">8-1<br/>23/01/14</td>
-<td colspan='4' align="center" ><b>복습 주간</b></td>
+<td colspan='4' align="center" ><b>복습 주간</b><br/>(공방전 준비 기간)</td>
 <td align="center">0/6</td>
 <td align="center">0/6</td>
 <td align="center">0/3</td>

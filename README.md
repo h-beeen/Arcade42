@@ -151,7 +151,7 @@
 <td align="center" title="[Prefix-Sum] 아직도 잘 모르겠다..너는"><a href="https://www.acmicpc.net/problem/10986"/>나머지 합</td>
 <td align="center">🌕 G3</td>
 <td align="center">Prefix Sum</td>
-<td align="center">🏴‍☠️</td>
+<td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%ED%95%B4%EB%B9%88/6%EC%A3%BC%EC%B0%A8_10986.cpp"/>해빈</td>
 <td align="center">🏴‍☠️</td>
 <td align="center">🏴‍☠️</td>
 <td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%EC%A3%BC%ED%98%84/6%EC%A3%BC%EC%B0%A8_10986.py"/>주현</td>
@@ -212,10 +212,10 @@
 <tr>
 <td rowspan='1' align="center">8-1<br/>23/01/14</td>
 <td colspan='4' align="center" ><b>복습 주간</b><br/>(공방전 준비 기간)</td>
-<td align="center">0/6</td>
-<td align="center">0/6</td>
+<td align="center">1/5</td>
+<td align="center">0/4</td>
 <td align="center">0/3</td>
-<td align="center">0/7</td>
+<td align="center">0/5</td>
 </tr>
 
 
@@ -287,7 +287,7 @@
   </tr> 
   <tr>
   <td align="center">2nd</td>
-<td align="center">2nd</td>
+<td align="center">3rd</td>
 <td align="center">👑</td>
 <td align="center">4th</td>
   </tr>
@@ -326,10 +326,10 @@
   
 
   <tr>
-  <td align="center"><img src="https://progress-bar.dev/11/?scale=17&width=150&color=babaca&suffix=/17" style="vertical-align:top"/></td>
-  <td align="center"><img src="https://progress-bar.dev/11/?scale=17&width=150&color=babaca&suffix=/17" style="vertical-align:top" /></td>
-  <td align="center"><img src="https://progress-bar.dev/14/?scale=17&width=150&color=babaca&suffix=/17" style="vertical-align:top"/></td>
-  <td align="center"><img src="https://progress-bar.dev/10/?scale=17&width=150&color=babaca&suffix=/17" style="vertical-align:top"/></td>
+  <td align="center"><img src="https://progress-bar.dev/12/?scale=18&width=150&color=babaca&suffix=/18" style="vertical-align:top"/></td>
+  <td align="center"><img src="https://progress-bar.dev/11/?scale=18&width=150&color=babaca&suffix=/18" style="vertical-align:top" /></td>
+  <td align="center"><img src="https://progress-bar.dev/14/?scale=18&width=150&color=babaca&suffix=/18" style="vertical-align:top"/></td>
+  <td align="center"><img src="https://progress-bar.dev/10/?scale=18&width=150&color=babaca&suffix=/18" style="vertical-align:top"/></td>
 </tr>
 <tr>
   <td colspan=4 align=center><img src="https://readme-typing-svg.herokuapp.com?font=Rubik+80s+Fade&color=1EBBD7&size=25&center=true&vCenter=true&width=100%&height=35&lines=Team+2" style="vertical-align:top"></td>

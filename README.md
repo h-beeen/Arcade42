@@ -318,10 +318,10 @@
   <td align="center"><a href="https://github.com/juhyulee"><b>Player 4<br/>🐺 주현 </b>🐺<br/></a></td>
   </tr>
     <tr>
-  <td align="center">C++20</td>
-    <td align="center">Java11</td>
-      <td align="center">C99</td>
-        <td align="center">Python 3</td>
+  <td align="center"><img src="https://user-images.githubusercontent.com/112257466/210312032-b647efa0-edc1-4ecd-b7c1-268e102e7433.png" width="15px"/> C++20</td>
+    <td align="center"><img src="https://user-images.githubusercontent.com/112257466/210312477-2c0ad52d-dc9a-4d1a-9d4e-b40f5088d1cb.png" width="12px"/>&nbsp;Java11</td>
+    <td align="center"><img src="https://user-images.githubusercontent.com/112257466/210311133-8acbdfe1-b713-4506-828d-e9f7370c5300.png" width="15px"> C99</td>
+            <td align="center"><img src="https://user-images.githubusercontent.com/112257466/210311699-6c37f4db-d683-4b2f-8ff0-7d1354d32c61.png" width="15px"/> Python 3</td>
   </tr>
   
 
@@ -367,10 +367,10 @@
   <td align="center"><a href="https://github.com/soulee-dev"><b>Player 8<br/>🐬 소울 🐬</b><br/></a></td>
   </tr>
   <tr>
-    <td align="center">C99</td>
-    <td align="center">Python 3</td>
-      <td align="center">Python 3</td>
-        <td align="center">Python 3</td>
+    <td align="center"><img src="https://user-images.githubusercontent.com/112257466/210311133-8acbdfe1-b713-4506-828d-e9f7370c5300.png" width="15px"> C99</td>
+    <td align="center"><img src="https://user-images.githubusercontent.com/112257466/210311699-6c37f4db-d683-4b2f-8ff0-7d1354d32c61.png" width="15px"/> Python 3</td>
+    <td align="center"><img src="https://user-images.githubusercontent.com/112257466/210311699-6c37f4db-d683-4b2f-8ff0-7d1354d32c61.png" width="15px"/> Python 3</td>
+    <td align="center"><img src="https://user-images.githubusercontent.com/112257466/210311699-6c37f4db-d683-4b2f-8ff0-7d1354d32c61.png" width="15px"/> Python 3</td>
   </tr>
   <tr>
   <td align="center"><img src="https://progress-bar.dev/1/?scale=2&width=150&color=babaca&suffix=/2" style="vertical-align:top"/></td>

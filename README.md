@@ -57,7 +57,10 @@
 <td align="center" title="[DP] 결국 All-Kill 나버린 악마의 문제"><a href="https://www.acmicpc.net/problem/2332"/>전화번호</td>
 <td align="center">🌕 G5</td>
 <td align="center">DP/DFS/BFS</td>
-<td colspan="4" align="center">All Kill&nbsp;&nbsp;🏴‍☠️</td>
+<td align="center">🏴‍☠️</td>
+<td align="center">🏴‍☠️</td>
+<td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%EC%9B%90%EC%A2%85/2%EC%A3%BC%EC%B0%A8_1107.c"/>원종</td>
+<td align="center">🏴‍☠️</td>
 </tr>
 <tr>
 <td rowspan='3' align="center">3-1<br/>22/12/03</td>
@@ -184,7 +187,7 @@
 <td align="center">🌕 G5</td>
 <td align="center">Embargo</td>
 <td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%ED%95%B4%EB%B9%88/7%EC%A3%BC%EC%B0%A8_10026.cpp"/>해빈</td>
-<td align="center">은찬</td>
+<td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%EC%9D%80%EC%B0%AC/7%EC%A3%BC%EC%B0%A8_10026.java"/>은찬</td>
 <td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%EC%9B%90%EC%A2%85/7%EC%A3%BC%EC%B0%A8_10026.c"/>원종</td>
 <td align="center">🏴‍☠️</td>
 </tr>
@@ -194,7 +197,7 @@
 <td align="center">🌕 G2</td>
 <td align="center">Embargo</td>
 <td align="center">🏴‍☠️</td>
-<td align="center">은찬</td>
+<td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%EC%9D%80%EC%B0%AC/7%EC%A3%BC%EC%B0%A8_12100.java"/>은찬</td>
 <td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%EC%9B%90%EC%A2%85/7%EC%A3%BC%EC%B0%A8_12100.c"/>원종</td>
 <td align="center">🏴‍☠️</td>
 </tr>
@@ -204,9 +207,30 @@
 <td align="center">📙 Lv.3</td>
 <td align="center">Binary-Search</td>
 <td align="center">🏴‍☠️</td>
-<td align="center">은찬</td>
+<td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%EC%9D%80%EC%B0%AC/7%EC%A3%BC%EC%B0%A8_P43238.java">은찬</td>
 <td align="center">🏴‍☠️</td>
 <td align="center">🏴‍☠️</td>
+</tr>
+
+<tr>
+<td rowspan='3' align="center">8-1<br/>23/01/14</td>
+<td align="center">은찬 ⚔️</td>
+<td align="center"><a href="https://www.acmicpc.net/problem/1937"/>욕심쟁이 판다</td>
+<td align="center">🌕 G3</td>
+<td align="center">Embargo</td>
+<td align="center" colspan="4">On Going!</td>
+</tr>
+<td align="center">원종 ⚔️</td>
+<td align="center"><a href="https://www.acmicpc.net/problem/1937"/>미정</td>
+<td align="center">🌕 EMB</td>
+<td align="center">Embargo</td>
+<td align="center" colspan="4">On Going!</td>
+</tr>
+<td align="center">BONUS</td>
+<td align="center"><a href="https://www.acmicpc.net/problem/26142"/>꺾이지 않는 마음 1</td>
+<td align="center">🌕 G2</td>
+<td align="center">Greedy & DP</td>
+<td align="center" colspan="4">On Going!</td>
 </tr>
 
 
@@ -277,8 +301,8 @@
   <td colspan=4 align=center><img src="https://readme-typing-svg.herokuapp.com?font=Rubik+80s+Fade&color=1EBBD7&size=25&center=true&vCenter=true&width=100%&height=35&lines=Team+1" style="vertical-align:top"></td>
   </tr> 
   <tr>
-  <td align="center">2nd</td>
-<td align="center">3rd</td>
+  <td align="center">3rd</td>
+<td align="center">2nd</td>
 <td align="center">👑</td>
 <td align="center">4th</td>
   </tr>
@@ -318,8 +342,8 @@
 
   <tr>
   <td align="center"><img src="https://progress-bar.dev/12/?scale=18&width=150&color=babaca&suffix=/18" style="vertical-align:top"/></td>
-  <td align="center"><img src="https://progress-bar.dev/11/?scale=18&width=150&color=babaca&suffix=/18" style="vertical-align:top" /></td>
-  <td align="center"><img src="https://progress-bar.dev/14/?scale=18&width=150&color=babaca&suffix=/18" style="vertical-align:top"/></td>
+  <td align="center"><img src="https://progress-bar.dev/14/?scale=18&width=150&color=babaca&suffix=/18" style="vertical-align:top" /></td>
+  <td align="center"><img src="https://progress-bar.dev/15/?scale=18&width=150&color=babaca&suffix=/18" style="vertical-align:top"/></td>
   <td align="center"><img src="https://progress-bar.dev/10/?scale=18&width=150&color=babaca&suffix=/18" style="vertical-align:top"/></td>
 </tr>
 <tr>

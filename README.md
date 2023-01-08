@@ -266,6 +266,7 @@
 <td align="center">소울</td>
 </tr>
 
+
 <tr>
 <td rowspan='2' align="center">8-2<br/>23/01/17</td>
 <td align="center">⚔️</td>

@@ -350,7 +350,7 @@
 
   <tr>
   <td align="center"><a href="https://github.com/biisairo"><b>Player 5<br/>👿 동윤 👿</b></a></td>
-  <td align="center"><a href="https://github.com/chobinee"><b>Player 6</br>🦢 수빈 🦢</b></a></td>
+  <td align="center"><a href="https://github.com/chobinee"><b>Player 6</br>🐰 수빈 🐰</b></a></td>
   <td align="center"><a href="https://github.com/Pig30nidaE"><b>Player 7<br/>👀 상효 👀</b></br></a></td>
   <td align="center"><a href="https://github.com/soulee-dev"><b>Player 8<br/>🐬 소울 🐬</b><br/></a></td>
   </tr>

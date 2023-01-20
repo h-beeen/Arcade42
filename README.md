@@ -11,8 +11,7 @@
   <td colspan=10 align=center><img src="https://readme-typing-svg.herokuapp.com?font=Rubik+80s+Fade&color=1EBBD7&size=30&center=true&vCenter=true&width=500&height=35&lines=Score+Board+-+1" style="vertical-align:top"></td>
 </tr>
 <tr>
-<th colspan='1' align="center">📅</th>
-<th align="center">⚔️</th>
+<th colspan='2' align="center">📅</th>
 <th align="center">문제</th>
 <th align="center">티어</th>
 <th align="center">분류</th>
@@ -263,7 +262,7 @@
 
 
 <tr>
-<td rowspan='1' align="center">Rush00<br/>23/01/20</td>
+<td rowspan='1' align="center">23/01/20</td>
 <td align="center">동윤 ⚔️</td>
 <td align="center" ><a href="https://www.acmicpc.net/problem/17427"/>Rush00</td>
 <td align="center">🟡 G5</td>

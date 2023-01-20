@@ -293,7 +293,7 @@
 
    <td align="center"><a href="https://github.com/eofrkam"><img src="https://avatars.githubusercontent.com/u/110297239?v=4" width="130px;" style="vertical-align:top" alt=""/>
 
-   <td align="center"><a href="https://github.com/juhyulee"><img src="https://avatars.githubusercontent.com/u/96496911?v=4" width="130px;" style="vertical-align:top" alt=""/>
+   <td align="center"><a href="https://github.com/sjiwon"><img src="https://avatars.githubusercontent.com/u/51479381?v=4" width="130px;" style="vertical-align:top" alt=""/>
   </tr>
   <tr>
 
@@ -303,20 +303,20 @@
 
    <td align="center"><a href="https://solved.ac/profile/eofrka"/><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=eofrka" style="vertical-align:top" width="130px;" /></a></td>
 
-   <td align="center"><a href="https://solved.ac/profile/pismire0317"/><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=pismire0317" style="vertical-align:top" width="130px;" /></a></td>
+   <td align="center"><a href="https://solved.ac/profile/sjiwon"/><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=sjiwon" style="vertical-align:top" width="130px;" /></a></td>
   </tr>
 
   <tr>
   <td align="center"><a href="https://github.com/h-beeen"><b>Player 1<br/>🐧 해빈 </b>🐧</a></td>
   <td align="center"><a href="https://github.com/eunchannam"><b>Player 2</br>🐤 은찬 🐤</b></a></td>
   <td align="center"><a href="https://github.com/eofrkam"><b>Player 3<br/>🐦 원종 🐦</b></a></td>
-  <td align="center"><a href="https://github.com/juhyulee"><b>Player 4<br/>🐺 지원 </b>🐺<br/></a></td>
+  <td align="center"><a href="https://github.com/sjiwon"><b>Player 4<br/>🐺 지원 </b>🐺<br/></a></td>
   </tr>
     <tr>
   <td align="center"><img src="https://user-images.githubusercontent.com/112257466/210312032-b647efa0-edc1-4ecd-b7c1-268e102e7433.png" width="15px"/> C++20</td>
     <td align="center"><img src="https://user-images.githubusercontent.com/112257466/210312477-2c0ad52d-dc9a-4d1a-9d4e-b40f5088d1cb.png" width="12px"/>&nbsp;Java11</td>
     <td align="center"><img src="https://user-images.githubusercontent.com/112257466/210311133-8acbdfe1-b713-4506-828d-e9f7370c5300.png" width="15px"> C99</td>
-            <td align="center"><img src="https://user-images.githubusercontent.com/112257466/210311699-6c37f4db-d683-4b2f-8ff0-7d1354d32c61.png" width="15px"/> Python 3</td>
+    <td align="center"><img src="https://user-images.githubusercontent.com/112257466/210312477-2c0ad52d-dc9a-4d1a-9d4e-b40f5088d1cb.png" width="12px"/>&nbsp;Java11</td>
   </tr>
   
 <tr>

@@ -217,9 +217,9 @@
 <td align="center">은찬 ⚔️</td>
 <td align="center"><a href="https://www.acmicpc.net/problem/1937"/>욕심쟁이 판다</td>
 <td align="center">🌕 G3</td>
-<td align="center">Stack</td>
+<td align="center">Greedy & DP</td>
 <td align="center">🏴‍☠️</td>
-<td align="center">은찬</td>
+<td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%EC%9D%80%EC%B0%AC/8%EC%A3%BC%EC%B0%A8_1937.java"/>은찬</td>
 <td align="center">🏴‍☠️</td>
 <td align="center">🏴‍☠️</td>
 </tr>

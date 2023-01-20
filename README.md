@@ -272,10 +272,7 @@
 <td align="center" ><a href="https://www.acmicpc.net/problem/17427"/>Rush00</td>
 <td align="center">🌕 G5</td>
 <td align="center">Embargo</td>
-<td align="center">동윤</td>
-<td align="center">수빈</td>
-<td align="center">상효</td>
-<td align="center">소울</td>
+<td align="center" colspan=4>Team Repository</td>
 </tr>
 
 

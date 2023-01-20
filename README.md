@@ -189,7 +189,7 @@
 <td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%ED%95%B4%EB%B9%88/7%EC%A3%BC%EC%B0%A8_10026.cpp"/>해빈</td>
 <td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%EC%9D%80%EC%B0%AC/7%EC%A3%BC%EC%B0%A8_10026.java"/>은찬</td>
 <td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%EC%9B%90%EC%A2%85/7%EC%A3%BC%EC%B0%A8_10026.c"/>원종</td>
-<td align="center">🏴‍☠️</td>
+<td align="center" rowspan=5>🔥</td>
 </tr>
 <tr>
 <td align="center">원종 ⚔️</td>
@@ -199,7 +199,6 @@
 <td align="center">🏴‍☠️</td>
 <td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%EC%9D%80%EC%B0%AC/7%EC%A3%BC%EC%B0%A8_12100.java"/>은찬</td>
 <td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%EC%9B%90%EC%A2%85/7%EC%A3%BC%EC%B0%A8_12100.c"/>원종</td>
-<td align="center">🏴‍☠️</td>
 </tr>
 <tr>
 <td align="center">BONUS</td>
@@ -209,7 +208,6 @@
 <td align="center">🏴‍☠️</td>
 <td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%EC%9D%80%EC%B0%AC/7%EC%A3%BC%EC%B0%A8_P43238.java">은찬</td>
 <td align="center">🏴‍☠️</td>
-<td align="center">🏴‍☠️</td>
 </tr>
 
 <tr>
@@ -217,10 +215,9 @@
 <td align="center">은찬 ⚔️</td>
 <td align="center"><a href="https://www.acmicpc.net/problem/1937"/>욕심쟁이 판다</td>
 <td align="center">🌕 G3</td>
-<td align="center">Greedy & DP</td>
+<td align="center">Stack</td>
 <td align="center">🏴‍☠️</td>
-<td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%EC%9D%80%EC%B0%AC/8%EC%A3%BC%EC%B0%A8_1937.java"/>은찬</td>
-<td align="center">🏴‍☠️</td>
+<td align="center">은찬</td>
 <td align="center">🏴‍☠️</td>
 </tr>
 <td align="center">원종 ⚔️</td>
@@ -230,7 +227,6 @@
 <td align="center">🏴‍☠️</td>
 <td align="center">🏴‍☠️</td>
 <td align="center">원종</td>
-<td align="center">🏴‍☠️</td>
 
 </tr>
 
@@ -243,7 +239,7 @@
 <td align="center">해빈</td>
 <td align="center">은찬</td>
 <td align="center">원종</td>
-<td align="center">🏴‍☠️</td>
+<td align="center">지원</td>
 </tr>
 
 <tr>
@@ -254,7 +250,7 @@
 <td align="center">해빈</td>
 <td align="center">은찬</td>
 <td align="center">원종</td>
-<td align="center">🏴‍☠️</td>
+<td align="center">지원</td>
 </tr>
 
 <tr>
@@ -272,7 +268,10 @@
 <td align="center" ><a href="https://www.acmicpc.net/problem/17427"/>Rush00</td>
 <td align="center">🌕 G5</td>
 <td align="center">Embargo</td>
-<td align="center" colspan=4>Team Repository</td>
+<td align="center">동윤</td>
+<td align="center">수빈</td>
+<td align="center">상효</td>
+<td align="center">소울</td>
 </tr>
 
 
@@ -312,7 +311,7 @@
   <td align="center"><a href="https://github.com/h-beeen"><b>Player 1<br/>🐧 해빈 </b>🐧</a></td>
   <td align="center"><a href="https://github.com/eunchannam"><b>Player 2</br>🐤 은찬 🐤</b></a></td>
   <td align="center"><a href="https://github.com/eofrkam"><b>Player 3<br/>🐦 원종 🐦</b></a></td>
-  <td align="center"><a href="https://github.com/juhyulee"><b>Player 4<br/>🐺 주현 </b>🐺<br/></a></td>
+  <td align="center"><a href="https://github.com/juhyulee"><b>Player 4<br/>🐺 지원 </b>🐺<br/></a></td>
   </tr>
     <tr>
   <td align="center"><img src="https://user-images.githubusercontent.com/112257466/210312032-b647efa0-edc1-4ecd-b7c1-268e102e7433.png" width="15px"/> C++20</td>
@@ -357,7 +356,6 @@
     <td align="center"><img src="https://user-images.githubusercontent.com/112257466/210311699-6c37f4db-d683-4b2f-8ff0-7d1354d32c61.png" width="15px"/> Python 3</td>
     <td align="center"><img src="https://user-images.githubusercontent.com/112257466/210311699-6c37f4db-d683-4b2f-8ff0-7d1354d32c61.png" width="15px"/> Python 3</td>
   </tr>
-
 
 </table>
 

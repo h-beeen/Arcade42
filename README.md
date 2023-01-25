@@ -235,10 +235,10 @@
 <td align="center"><a href="https://www.acmicpc.net/problem/21608"/>상어 초등학교</td>
 <td align="center">🟡 G5</td>
 <td align="center">Simulation</td>
-<td align="center">해빈</td>
+<td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%ED%95%B4%EB%B9%88/9%EC%A3%BC%EC%B0%A8_21608.cpp"/>해빈</td>
 <td align="center">은찬</td>
 <td align="center">원종</td>
-<td align="center">지원</td>
+<td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%EC%A7%80%EC%9B%90/9%EC%A3%BC%EC%B0%A8_21608.java"/>지원</td>
 </tr>
 
 <tr>
@@ -246,10 +246,10 @@
 <td align="center"><a href="https://www.acmicpc.net/problem/26142"/>꺾이지 않는 마음 1</td>
 <td align="center">🟡 G1</td>
 <td align="center">Greedy & DP</td>
-<td align="center">해빈</td>
-<td align="center">은찬</td>
-<td align="center">원종</td>
-<td align="center">지원</td>
+<td align="center">🏴‍☠️</td>
+<td align="center">🏴‍☠️</td>
+<td align="center">🏴‍☠️</td>
+<td align="center">🏴‍☠️</td>
 </tr>
 
 <tr>

@@ -96,7 +96,7 @@ public class Main {
                 for (int i = 0; i < 4; i++) {
                     int nx = cx + dx[i];
                     int ny = cy + dy[i];
-                    
+
                     // (nx, ny)가 map 범위 조건을 만족하면
                     if (isRange(nx, ny)) {
                         // 비어있는 자리면
@@ -125,7 +125,6 @@ public class Main {
 
     private static boolean existsFavoriteFriend(Integer student, int x, int y) {
         return favoriteMap.get(student).contains(map[x][y]);
-
     }
 
     private static int getResult() {

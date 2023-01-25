@@ -16,7 +16,7 @@ bool love[400][400];
 int visited[20][20];
 int dir[4][2] = { {0,1},{1,0},{0,-1},{-1,0} };
 
-bool cmp(pair<pair<int,int>,pair<int,int>> &a, pair<pair<int, int>, pair<int, int>> &b) {
+bool cmp(pair<pair<int,int>,pair<int,int> > &a, pair<pair<int, int>, pair<int, int> > &b) {
 	if (a.first.first == b.first.first) {
 		if (a.first.second == b.first.second) {
 			if (a.second.first == b.second.first) {

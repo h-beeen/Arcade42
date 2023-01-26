@@ -258,7 +258,7 @@
 <td align="center"><a href="https://www.acmicpc.net/problem/20040"/>사이클 게임</td>
 <td align="center">🟡 G4</td>
 <td align="center">Disjoint Set</td>
-<td align="center">해빈</td>
+<td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%ED%95%B4%EB%B9%88/10%EC%A3%BC%EC%B0%A8_20040.cpp"/>해빈</td>
 <td align="center">은찬</td>
 <td align="center">원종</td>
 <td align="center">지원</td>

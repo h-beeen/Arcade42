@@ -253,6 +253,29 @@
 </tr>
 
 <tr>
+<td rowspan='2' align="center">Week 10<br/>23/02/03</td>
+<td align="center">은찬 ⚔️</td>
+<td align="center"><a href="https://www.acmicpc.net/problem/20040"/>고민 중</td>
+<td align="center">🟡 G4</td>
+<td align="center">Union & Find</td>
+<td align="center">해빈</td>
+<td align="center">은찬</td>
+<td align="center">원종</td>
+<td align="center">지원</td>
+</tr>
+
+<tr>
+<td align="center">해빈 ⚔️</td>
+<td align="center"><a href="https://www.acmicpc.net/problem/2140"/>지뢰찾기</td>
+<td align="center">🟡 G4</td>
+<td align="center">Simulation</td>
+<td align="center">해빈</td>
+<td align="center">은찬</td>
+<td align="center">원종</td>
+<td align="center">지원</td>
+</tr>
+
+<tr>
   <td colspan=10 align=center><img src="https://readme-typing-svg.herokuapp.com?font=Rubik+80s+Fade&color=1EBBD7&size=30&center=true&vCenter=true&width=500&height=35&lines=Score+Board+-+2" style="vertical-align:top"></td>
 </tr>
 

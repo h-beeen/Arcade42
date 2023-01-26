@@ -36,6 +36,7 @@ bool cmp(pair<pair<int,int>,pair<int,int> > &a, pair<pair<int, int>, pair<int, i
 
 void sit(int idx)
 {
+    vector <int, int, int, int>
     int student_num = student[idx];
     vector<pair<pair<int, int>, pair<int, int> > > promising;
 

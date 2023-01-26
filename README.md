@@ -255,7 +255,7 @@
 <tr>
 <td rowspan='2' align="center">Week 10<br/>23/02/03</td>
 <td align="center">은찬 ⚔️</td>
-<td align="center"><a href="https://www.acmicpc.net/problem/20040"/>고민 중</td>
+<td align="center"><a href="https://www.acmicpc.net/problem/20040"/>사이클 게임</td>
 <td align="center">🟡 G4</td>
 <td align="center">Union & Find</td>
 <td align="center">해빈</td>

@@ -292,7 +292,7 @@
 <td align="center">Stack</td>
 <td align="center">동윤</td>
 <td align="center">수빈</td>
-<td align="center">상효</td>
+<td align="center"><a href="https://github.com/h-beeen/Arcade42/tree/master/%EC%83%81%ED%9A%A8"/>상효</td>
 <td align="center">소울</td>
 </tr>
 

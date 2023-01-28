@@ -8,7 +8,7 @@
 <table align="center">
 <thead>
 <tr>
-  <td colspan=10 align=center><img src="https://readme-typing-svg.herokuapp.com?font=Rubik+80s+Fade&color=1EBBD7&size=30&center=true&vCenter=true&width=500&height=35&lines=Score+Board+-+1" style="vertical-align:top"></td>
+  <td colspan=10 align=center><img src="https://readme-typing-svg.herokuapp.com?font=Rubik+80s+Fade&color=F70000FF&size=30&center=true&vCenter=true&width=500&height=35&lines=ScoreBoard+-+1&duration=1&pause=1000" style="vertical-align:top" width=65%></td>
 </tr>
 <tr>
 <th align="center">📅</th>
@@ -276,14 +276,11 @@
 <td align="center">지원</td>
 </tr>
 
-<tr>
-  <td colspan=10 align=center><img src="https://readme-typing-svg.herokuapp.com?font=Rubik+80s+Fade&color=1EBBD7&size=30&center=true&vCenter=true&width=500&height=35&lines=Score+Board+-+2" style="vertical-align:top"></td>
-</tr>
-
-
 
 <!-- 여기부터 2팀 -->
-
+<tr>
+  <td colspan=10 align=center><img src="https://readme-typing-svg.herokuapp.com?font=Rubik+80s+Fade&color=4EADF7FF&size=30&center=true&vCenter=true&width=500&height=35&lines=ScoreBoard+-+2&duration=1&pause=1000" style="vertical-align:top" width=65%></td>
+</tr>
 
 <tr>
 <td rowspan='1' align="center">Rush00</td>
@@ -296,6 +293,33 @@
 <td align="center">소울</td>
 </tr>
 
+<!-- 여기부터 3팀 -->
+<tr>
+  <td colspan=10 align=center><img src="https://readme-typing-svg.herokuapp.com?font=Rubik+80s+Fade&color=62F724FF&size=30&center=true&vCenter=true&width=500&height=35&lines=ScoreBoard+-+3&duration=1&pause=1000" style="vertical-align:top" width=65%></td>
+</tr>
+
+<tr>
+<td rowspan='2' align="center">Temp 01<br/>23/04/04</td>
+<td align="center">현호 ⚔️</td>
+<td align="center"><a href="http://github.com/h-beeen"/>Welcome Team 3</td>
+<td align="center">🟡 G5</td>
+<td align="center">Computer</td>
+<td align="center">현호</td>
+<td align="center">현정</td>
+<td align="center">동현</td>
+<td align="center">백수</td>
+</tr>
+
+<tr>
+<td align="center">현호 ⚔️</td>
+<td align="center"><a href="http://github.com/h-beeen"/>Welcome Team 3</td>
+<td align="center">🟡 G5</td>
+<td align="center">Computer</td>
+<td align="center">현호</td>
+<td align="center">현정</td>
+<td align="center">동현</td>
+<td align="center">백수</td>
+</tr>
 
 </tbody>
 </table>
@@ -306,7 +330,9 @@
 
 <table align ="center">
   <tr>
-  <td colspan=4 align=center><img src="https://readme-typing-svg.herokuapp.com?font=Rubik+80s+Fade&color=1EBBD7&size=25&center=true&vCenter=true&width=100%&height=35&lines=Team+1" style="vertical-align:top"></td>
+<tr>
+  <td colspan=10 align=center><img src="https://readme-typing-svg.herokuapp.com?font=Rubik+80s+Fade&color=F70000FF&size=30&center=true&vCenter=true&width=500&height=35&lines=Team+-+1&duration=1&pause=1000" style="vertical-align:top" width=65%></td>
+</tr>
   </tr> 
 
   <tr>
@@ -330,10 +356,10 @@
   </tr>
 
   <tr>
-  <td align="center"><a href="https://github.com/h-beeen"><b>Player 1<br/>🐧 해빈 </b>🐧</a></td>
-  <td align="center"><a href="https://github.com/eunchannam"><b>Player 2</br>🐤 은찬 🐤</b></a></td>
-  <td align="center"><a href="https://github.com/eofrkam"><b>Player 3<br/>🐦 원종 🐦</b></a></td>
-  <td align="center"><a href="https://github.com/sjiwon"><b>Player 4<br/>🐺 지원 </b>🐺<br/></a></td>
+  <td align="center"><a href="https://github.com/h-beeen"><b>Player 01<br/>🐧 해빈 </b>🐧</a></td>
+  <td align="center"><a href="https://github.com/eunchannam"><b>Player 02</br>🐤 은찬 🐤</b></a></td>
+  <td align="center"><a href="https://github.com/eofrkam"><b>Player 03<br/>🐦 원종 🐦</b></a></td>
+  <td align="center"><a href="https://github.com/sjiwon"><b>Player 04<br/>🐺 지원 </b>🐺<br/></a></td>
   </tr>
     <tr>
   <td align="center"><img src="https://user-images.githubusercontent.com/112257466/210312032-b647efa0-edc1-4ecd-b7c1-268e102e7433.png" width="15px"/> C++20</td>
@@ -343,8 +369,8 @@
   </tr>
   
 <tr>
-  <td colspan=4 align=center><img src="https://readme-typing-svg.herokuapp.com?font=Rubik+80s+Fade&color=1EBBD7&size=25&center=true&vCenter=true&width=100%&height=35&lines=Team+2" style="vertical-align:top"></td>
-  </tr> 
+  <td colspan=10 align=center><img src="https://readme-typing-svg.herokuapp.com?font=Rubik+80s+Fade&color=4EADF7FF&size=30&center=true&vCenter=true&width=500&height=35&lines=Team+-+2&duration=1&pause=1000" style="vertical-align:top" width=65%></td>
+</tr>
 
   <tr>
    <td align="center"><a href="https://github.com/biisairo"><img src="https://avatars.githubusercontent.com/u/105145669?v=4" width="130px; style="vertical-align:top" alt=""/>
@@ -367,15 +393,55 @@
   </tr>
 
   <tr>
-  <td align="center"><a href="https://github.com/biisairo"><b>Player 5<br/>👿 동윤 👿</b></a></td>
-  <td align="center"><a href="https://github.com/chobinee"><b>Player 6</br>🐰 수빈 🐰</b></a></td>
-  <td align="center"><a href="https://github.com/Pig30nidaE"><b>Player 7<br/>👀 상효 👀</b></br></a></td>
-  <td align="center"><a href="https://github.com/soulee-dev"><b>Player 8<br/>🐬 소울 🐬</b><br/></a></td>
+  <td align="center"><a href="https://github.com/biisairo"><b>Player 05<br/>👿 동윤 👿</b></a></td>
+  <td align="center"><a href="https://github.com/chobinee"><b>Player 06</br>🐰 수빈 🐰</b></a></td>
+  <td align="center"><a href="https://github.com/Pig30nidaE"><b>Player 07<br/>👀 상효 👀</b></br></a></td>
+  <td align="center"><a href="https://github.com/soulee-dev"><b>Player 08<br/>🐬 소울 🐬</b><br/></a></td>
   </tr>
   <tr>
     <td align="center"><img src="https://user-images.githubusercontent.com/112257466/210311133-8acbdfe1-b713-4506-828d-e9f7370c5300.png" width="15px"> C99</td>
     <td align="center"><img src="https://user-images.githubusercontent.com/112257466/210311699-6c37f4db-d683-4b2f-8ff0-7d1354d32c61.png" width="15px"/> Python 3</td>
     <td align="center"><img src="https://user-images.githubusercontent.com/112257466/210311699-6c37f4db-d683-4b2f-8ff0-7d1354d32c61.png" width="15px"/> Python 3</td>
+    <td align="center"><img src="https://user-images.githubusercontent.com/112257466/210311699-6c37f4db-d683-4b2f-8ff0-7d1354d32c61.png" width="15px"/> Python 3</td>
+  </tr>
+
+
+<tr>
+  <td colspan=10 align=center><img src="https://readme-typing-svg.herokuapp.com?font=Rubik+80s+Fade&color=62F724FF&size=30&center=true&vCenter=true&width=500&height=35&lines=Team+-+3&duration=1&pause=1000" style="vertical-align:top" width=65%></td>
+</tr>
+
+  <tr>
+   <td align="center"><a href="https://github.com/biisairo"><img src="https://user-images.githubusercontent.com/112257466/214565670-9aaf84d6-44d0-42d8-bf36-26ee5b901cf1.png" width="130px; style="vertical-align:top" alt=""/></td>
+
+   <td align="center"><a href="https://github.com/biisairo"><img src="https://user-images.githubusercontent.com/112257466/214565670-9aaf84d6-44d0-42d8-bf36-26ee5b901cf1.png" width="130px; style="vertical-align:top" alt=""/></td>
+
+   <td align="center"><a href="https://github.com/biisairo"><img src="https://user-images.githubusercontent.com/112257466/214565670-9aaf84d6-44d0-42d8-bf36-26ee5b901cf1.png" width="130px; style="vertical-align:top" alt=""/></td>
+
+   <td align="center"><a href="https://github.com/biisairo"><img src="https://user-images.githubusercontent.com/112257466/214565670-9aaf84d6-44d0-42d8-bf36-26ee5b901cf1.png" width="130px; style="vertical-align:top" alt=""/></td>
+  
+  </tr>
+  <tr>
+
+   <td align="center"><a href="https://solved.ac/profile/joker7011"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=joker7011" style="vertical-align:top" width="130px;" /></a></td>
+
+   <td align="center"><a href="https://solved.ac/profile/joker7011"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=joker7011" style="vertical-align:top" width="130px;" /></a></td>
+
+   <td align="center"><a href="https://solved.ac/profile/joker7011"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=joker7011" style="vertical-align:top" width="130px;" /></a></td>
+
+   <td align="center"><a href="https://solved.ac/profile/joker7011"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=joker7011" style="vertical-align:top" width="130px;" /></a></td>
+
+  </tr>
+
+  <tr>
+  <td align="center"><a href="https://github.com/biisairo"><b>Player 09<br/>🐶 현호 🐶</b></a></td>
+  <td align="center"><a href="https://github.com/chobinee"><b>Player 10</br>🦊 현정 🦊</b></a></td>
+  <td align="center"><a href="https://github.com/Pig30nidaE"><b>Player 11<br/>🐹 동현 🐹</b></br></a></td>
+  <td align="center"><a href="https://github.com/soulee-dev"><b>Player 12<br/>🐼 백수 🐼</b><br/></a></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://user-images.githubusercontent.com/112257466/215278105-06ab07f1-ee1e-48e9-af62-0a02cc6d6039.png" width="15px"> node.js</td>
+    <td align="center"><img src="https://user-images.githubusercontent.com/112257466/210312477-2c0ad52d-dc9a-4d1a-9d4e-b40f5088d1cb.png" width="12px"/>&nbsp;Java11</td>
+    <td align="center"><img src="https://user-images.githubusercontent.com/112257466/215278105-06ab07f1-ee1e-48e9-af62-0a02cc6d6039.png" width="15px"> node.js</td>
     <td align="center"><img src="https://user-images.githubusercontent.com/112257466/210311699-6c37f4db-d683-4b2f-8ff0-7d1354d32c61.png" width="15px"/> Python 3</td>
   </tr>
 

@@ -287,11 +287,11 @@
 
 <tr>
 <td rowspan='1' align="center">Rush00</td>
-<td align="center" colspan=2><a href="https://www.acmicpc.net/problem/17427"/>후위 표기식</td>
+<td align="center" colspan=2><a href="https://www.acmicpc.net/problem/1918"/>후위 표기식</td>
 <td align="center">🟡 G2</td>
 <td align="center">Stack</td>
 <td align="center">동윤</td>
-<td align="center">수빈</td>
+<td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%EC%88%98%EB%B9%88/Rush00_1918.py"/>수빈</td>
 <td align="center"><a href="https://github.com/h-beeen/Arcade42/tree/master/%EC%83%81%ED%9A%A8"/>상효</td>
 <td align="center">소울</td>
 </tr>

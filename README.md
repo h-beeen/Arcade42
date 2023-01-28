@@ -336,23 +336,23 @@
   </tr> 
 
   <tr>
-   <td align="center"><a href="https://github.com/h-beeen"><img src="https://avatars.githubusercontent.com/u/112257466?v=4" width="130px; style="vertical-align:top" alt=""/>
+   <td align="center"><a href="https://github.com/h-beeen"><img src="https://avatars.githubusercontent.com/u/112257466?v=4" width="163px; style="vertical-align:top" alt=""/>
    
-   <td align="center"><a href="https://github.com/eunchannam"><img src="https://avatars.githubusercontent.com/u/75837025?v=4" width="130px;" style="vertical-align:top" alt=""/>
+   <td align="center"><a href="https://github.com/eunchannam"><img src="https://avatars.githubusercontent.com/u/75837025?v=4" width="163px;" style="vertical-align:top" alt=""/>
 
-   <td align="center"><a href="https://github.com/eofrkam"><img src="https://avatars.githubusercontent.com/u/110297239?v=4" width="130px;" style="vertical-align:top" alt=""/>
+   <td align="center"><a href="https://github.com/eofrkam"><img src="https://avatars.githubusercontent.com/u/110297239?v=4" width="163px;" style="vertical-align:top" alt=""/>
 
-   <td align="center"><a href="https://github.com/sjiwon"><img src="https://avatars.githubusercontent.com/u/51479381?v=4" width="130px;" style="vertical-align:top" alt=""/>
+   <td align="center"><a href="https://github.com/sjiwon"><img src="https://avatars.githubusercontent.com/u/51479381?v=4" width="163px;" style="vertical-align:top" alt=""/>
   </tr>
   <tr>
 
-   <td align="center"><a href="https://solved.ac/profile/joker7011"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=joker7011" style="vertical-align:top" width="130px;" /></a></td>
+   <td align="center"><a href="https://solved.ac/profile/joker7011"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=joker7011" style="vertical-align:top" width="163px;" /></a></td>
 
-   <td align="center"><a href="https://solved.ac/profile/namhm23"/><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=namhm23" style="vertical-align:top" width="130px;" /></a></td>
+   <td align="center"><a href="https://solved.ac/profile/namhm23"/><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=namhm23" style="vertical-align:top" width="163px;" /></a></td>
 
-   <td align="center"><a href="https://solved.ac/profile/eofrka"/><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=eofrka" style="vertical-align:top" width="130px;" /></a></td>
+   <td align="center"><a href="https://solved.ac/profile/eofrka"/><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=eofrka" style="vertical-align:top" width="163px;" /></a></td>
 
-   <td align="center"><a href="https://solved.ac/profile/sjiwon"/><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=sjiwon" style="vertical-align:top" width="130px;" /></a></td>
+   <td align="center"><a href="https://solved.ac/profile/sjiwon"/><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=sjiwon" style="vertical-align:top" width="163px;" /></a></td>
   </tr>
 
   <tr>
@@ -373,23 +373,23 @@
 </tr>
 
   <tr>
-   <td align="center"><a href="https://github.com/biisairo"><img src="https://avatars.githubusercontent.com/u/105145669?v=4" width="130px; style="vertical-align:top" alt=""/>
+   <td align="center"><a href="https://github.com/biisairo"><img src="https://avatars.githubusercontent.com/u/105145669?v=4" width="163px; style="vertical-align:top" alt=""/>
    
-   <td align="center"><a href="https://github.com/chobinee"><img src="https://avatars.githubusercontent.com/u/58325848?v=4" width="130px;" style="vertical-align:top" alt=""/>
+   <td align="center"><a href="https://github.com/chobinee"><img src="https://avatars.githubusercontent.com/u/58325848?v=4" width="163px;" style="vertical-align:top" alt=""/>
 
-   <td align="center"><a href="https://github.com/Pig30nidaE"><img src="https://avatars.githubusercontent.com/u/79036425?v=44" width="130px;" style="vertical-align:top" alt=""/>
+   <td align="center"><a href="https://github.com/Pig30nidaE"><img src="https://avatars.githubusercontent.com/u/79036425?v=44" width="163px;" style="vertical-align:top" alt=""/>
 
-   <td align="center"><a href="https://github.com/soulee-dev"><img src="https://avatars.githubusercontent.com/u/12353597?v=4" width="130px;" style="vertical-align:top" alt=""/>
+   <td align="center"><a href="https://github.com/soulee-dev"><img src="https://avatars.githubusercontent.com/u/12353597?v=4" width="163px;" style="vertical-align:top" alt=""/>
   </tr>
   <tr>
 
-   <td align="center"><a href="https://solved.ac/profile/rlark1224"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rlark1224" style="vertical-align:top" width="130px;" /></a></td>
+   <td align="center"><a href="https://solved.ac/profile/rlark1224"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rlark1224" style="vertical-align:top" width="163px;" /></a></td>
 
-   <td align="center"><a href="https://solved.ac/profile/tnqls991213"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=tnqls991213" style="vertical-align:top" width="130px;" /></a></td>
+   <td align="center"><a href="https://solved.ac/profile/tnqls991213"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=tnqls991213" style="vertical-align:top" width="163px;" /></a></td>
 
-   <td align="center"><a href="https://solved.ac/profile/dltkdgy1129"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dltkdgy1129" style="vertical-align:top" width="130px;" /></a></td>
+   <td align="center"><a href="https://solved.ac/profile/dltkdgy1129"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dltkdgy1129" style="vertical-align:top" width="163px;" /></a></td>
 
-   <td align="center"><a href="https://solved.ac/profile/soulee"/><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=soulee" style="vertical-align:top" width="130px;" /></a></td>
+   <td align="center"><a href="https://solved.ac/profile/soulee"/><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=soulee" style="vertical-align:top" width="163px;" /></a></td>
   </tr>
 
   <tr>
@@ -411,24 +411,24 @@
 </tr>
 
   <tr>
-   <td align="center"><a href="https://github.com/SWARVY"><img src="https://avatars.githubusercontent.com/u/53262430?v=4" width="130px; style="vertical-align:top" alt=""/></td>
+   <td align="center"><a href="https://github.com/SWARVY"><img src="https://avatars.githubusercontent.com/u/53262430?v=4" width="163px; style="vertical-align:top" alt=""/></td>
 
-   <td align="center"><a href="https://github.com/HyeonJeong519"><img src="https://avatars.githubusercontent.com/u/58041212?v=4" width="130px; style="vertical-align:top" alt=""/></td>
+   <td align="center"><a href="https://github.com/HyeonJeong519"><img src="https://avatars.githubusercontent.com/u/58041212?v=4" width="163px; style="vertical-align:top" alt=""/></td>
 
-   <td align="center"><a href="https://github.com/rheefine"><img src="https://avatars.githubusercontent.com/u/109448186?v=4" width="130px; style="vertical-align:top" alt=""/></td>
+   <td align="center"><a href="https://github.com/rheefine"><img src="https://avatars.githubusercontent.com/u/109448186?v=4" width="163px; style="vertical-align:top" alt=""/></td>
 
-   <td align="center"><a href="https://github.com/biisairo"><img src="https://user-images.githubusercontent.com/112257466/214565670-9aaf84d6-44d0-42d8-bf36-26ee5b901cf1.png" width="130px; style="vertical-align:top" alt=""/></td>
+   <td align="center"><a href="https://github.com/biisairo"><img src="https://user-images.githubusercontent.com/112257466/214565670-9aaf84d6-44d0-42d8-bf36-26ee5b901cf1.png" width="163px; style="vertical-align:top" alt=""/></td>
   
   </tr>
   <tr>
 
-   <td align="center"><a href="https://solved.ac/profile/joker7011"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=joker7011" style="vertical-align:top" width="130px;" /></a></td>
+   <td align="center"><a href="https://solved.ac/profile/joker7011"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=joker7011" style="vertical-align:top" width="163px;" /></a></td>
 
-   <td align="center"><a href="https://solved.ac/profile/joker7011"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=joker7011" style="vertical-align:top" width="130px;" /></a></td>
+   <td align="center"><a href="https://solved.ac/profile/joker7011"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=joker7011" style="vertical-align:top" width="163px;" /></a></td>
 
-   <td align="center"><a href="https://solved.ac/profile/joker7011"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=joker7011" style="vertical-align:top" width="130px;" /></a></td>
+   <td align="center"><a href="https://solved.ac/profile/joker7011"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=joker7011" style="vertical-align:top" width="163px;" /></a></td>
 
-   <td align="center"><a href="https://solved.ac/profile/joker7011"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=joker7011" style="vertical-align:top" width="130px;" /></a></td>
+   <td align="center"><a href="https://solved.ac/profile/joker7011"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=joker7011" style="vertical-align:top" width="163px;" /></a></td>
 
   </tr>
 

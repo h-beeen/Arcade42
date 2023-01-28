@@ -301,7 +301,7 @@
 <tr>
 <td rowspan='2' align="center">Temp 01<br/>23/04/04</td>
 <td align="center">현호 ⚔️</td>
-<td align="center"><a href="http://github.com/h-beeen"/>Welcome Team 3</td>
+<td align="center"><a href="http://github.com/h-beeen"/>InQ To Arcade42</td>
 <td align="center">🟡 G5</td>
 <td align="center">Computer</td>
 <td align="center">현호</td>
@@ -311,7 +311,7 @@
 </tr>
 
 <tr>
-<td align="center">현호 ⚔️</td>
+<td align="center">현정 ⚔️</td>
 <td align="center"><a href="http://github.com/h-beeen"/>Welcome Team 3</td>
 <td align="center">🟡 G5</td>
 <td align="center">Computer</td>

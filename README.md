@@ -356,7 +356,7 @@
   </tr>
 
   <tr>
-  <td align="center"><a href="https://github.com/h-beeen"><b>Player 01<br/>🐧 해빈 </b>🐧</a></td>
+  <td align="center"><a href="https://github.com/h-beeen"><b>Player 01<br/>🌼 해빈 🌼</b>🐧</a></td>
   <td align="center"><a href="https://github.com/eunchannam"><b>Player 02</br>🐤 은찬 🐤</b></a></td>
   <td align="center"><a href="https://github.com/eofrkam"><b>Player 03<br/>🐦 원종 🐦</b></a></td>
   <td align="center"><a href="https://github.com/sjiwon"><b>Player 04<br/>🐺 지원 </b>🐺<br/></a></td>

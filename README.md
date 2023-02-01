@@ -311,7 +311,7 @@
 <td align="center">현호</td>
 <td align="center">현정</td>
 <td align="center">동현</td>
-<td align="center">백수</td>
+<td align="center">주현</td>
 </tr>
 
 <tr>
@@ -322,7 +322,7 @@
 <td align="center">현호</td>
 <td align="center">현정</td>
 <td align="center">동현</td>
-<td align="center">백수</td>
+<td align="center">주현</td>
 </tr>
 
 </tbody>

@@ -456,7 +456,7 @@
 </tr>
 <tr>
 <td align=center><a href="https://github.com/juhyulee"/>Player 04</td>
-<td align=center><a href="https://github.com/juhyulee"/>Juhyulee</td>
+<td align=center><a href="https://github.com/juhyulee"/>주현</td>
 <td align=center>2022/11/19 ~ 2023/01/08 (51 Days)</td>
 </tr>
 </table>

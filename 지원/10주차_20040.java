@@ -4,6 +4,7 @@ import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
 // 백준 20040번 사이클 게임 : https://www.acmicpc.net/problem/20040
+
 public class Main {
     static StringTokenizer st;
     static BufferedReader br = new BufferedReader(new InputStreamReader(System.in));

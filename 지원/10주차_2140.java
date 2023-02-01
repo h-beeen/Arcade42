@@ -5,6 +5,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 // 백준 2140번 지뢰 찾기 : https://www.acmicpc.net/problem/2140
+
 public class Main {
     static BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 

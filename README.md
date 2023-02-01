@@ -366,10 +366,10 @@
   <td align="center"><a href="https://github.com/sjiwon"><b>Player 04<br/>🐺 지원 🐺</b><br/></a></td>
   </tr>
     <tr>
-  <td align="center"><img src="https://user-images.githubusercontent.com/112257466/210312032-b647efa0-edc1-4ecd-b7c1-268e102e7433.png" width="15px"/> C++20</td>
-    <td align="center"><img src="https://user-images.githubusercontent.com/112257466/210312477-2c0ad52d-dc9a-4d1a-9d4e-b40f5088d1cb.png" width="12px"/>&nbsp;Java11</td>
-    <td align="center"><img src="https://user-images.githubusercontent.com/112257466/210311133-8acbdfe1-b713-4506-828d-e9f7370c5300.png" width="15px"> C99</td>
-    <td align="center"><img src="https://user-images.githubusercontent.com/112257466/210312477-2c0ad52d-dc9a-4d1a-9d4e-b40f5088d1cb.png" width="12px"/>&nbsp;Java11</td>
+  <td align="center"><img src="https://user-images.githubusercontent.com/112257466/210312032-b647efa0-edc1-4ecd-b7c1-268e102e7433.png" width="15px"/> C++</td>
+    <td align="center"><img src="https://user-images.githubusercontent.com/112257466/210312477-2c0ad52d-dc9a-4d1a-9d4e-b40f5088d1cb.png" width="12px"/>&nbsp;Java</td>
+    <td align="center"><img src="https://user-images.githubusercontent.com/112257466/210311133-8acbdfe1-b713-4506-828d-e9f7370c5300.png" width="15px"> C</td>
+    <td align="center"><img src="https://user-images.githubusercontent.com/112257466/210312477-2c0ad52d-dc9a-4d1a-9d4e-b40f5088d1cb.png" width="12px"/>&nbsp;Java</td>
   </tr>
   
 <tr>
@@ -403,10 +403,10 @@
   <td align="center"><a href="https://github.com/soulee-dev"><b>Player 08<br/>🐬 소울 🐬</b><br/></a></td>
   </tr>
   <tr>
-    <td align="center"><img src="https://user-images.githubusercontent.com/112257466/210311133-8acbdfe1-b713-4506-828d-e9f7370c5300.png" width="15px"> C99</td>
-    <td align="center"><img src="https://user-images.githubusercontent.com/112257466/210311699-6c37f4db-d683-4b2f-8ff0-7d1354d32c61.png" width="15px"/> Python 3</td>
-    <td align="center"><img src="https://user-images.githubusercontent.com/112257466/210311699-6c37f4db-d683-4b2f-8ff0-7d1354d32c61.png" width="15px"/> Python 3</td>
-    <td align="center"><img src="https://user-images.githubusercontent.com/112257466/210311699-6c37f4db-d683-4b2f-8ff0-7d1354d32c61.png" width="15px"/> Python 3</td>
+    <td align="center"><img src="https://user-images.githubusercontent.com/112257466/210311133-8acbdfe1-b713-4506-828d-e9f7370c5300.png" width="15px"> C</td>
+    <td align="center"><img src="https://user-images.githubusercontent.com/112257466/210311699-6c37f4db-d683-4b2f-8ff0-7d1354d32c61.png" width="15px"/> Python</td>
+    <td align="center"><img src="https://user-images.githubusercontent.com/112257466/210311699-6c37f4db-d683-4b2f-8ff0-7d1354d32c61.png" width="15px"/> Python</td>
+    <td align="center"><img src="https://user-images.githubusercontent.com/112257466/210311699-6c37f4db-d683-4b2f-8ff0-7d1354d32c61.png" width="15px"/> Python</td>
   </tr>
 
 
@@ -421,32 +421,32 @@
 
    <td align="center"><a href="https://github.com/rheefine"><img src="https://avatars.githubusercontent.com/u/109448186?v=4" width="163px; style="vertical-align:top" alt=""/></td>
 
-   <td align="center"><a href="https://github.com/biisairo"><img src="https://user-images.githubusercontent.com/112257466/214565670-9aaf84d6-44d0-42d8-bf36-26ee5b901cf1.png" width="163px; style="vertical-align:top" alt=""/></td>
+   <td align="center"><a href="https://github.com/rnawlsgk"><img src="https://avatars.githubusercontent.com/u/78858272?v=4" width="163px; style="vertical-align:top" alt=""/></td>
   
   </tr>
   <tr>
 
-   <td align="center"><a href="https://solved.ac/profile/joker7011"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=joker7011" style="vertical-align:top" width="163px;" /></a></td>
+   <td align="center"><a href="https://solved.ac/profile/alwaysawake0083"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=alwaysawake0083" style="vertical-align:top" width="163px;" /></a></td>
 
-   <td align="center"><a href="https://solved.ac/profile/joker7011"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=joker7011" style="vertical-align:top" width="163px;" /></a></td>
+   <td align="center"><a href="https://solved.ac/profile/blockb7929"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=blockb7929" style="vertical-align:top" width="163px;" /></a></td>
 
-   <td align="center"><a href="https://solved.ac/profile/joker7011"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=joker7011" style="vertical-align:top" width="163px;" /></a></td>
+   <td align="center"><a href="https://solved.ac/profile/rheefine"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rheefine" style="vertical-align:top" width="163px;" /></a></td>
 
-   <td align="center"><a href="https://solved.ac/profile/joker7011"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=joker7011" style="vertical-align:top" width="163px;" /></a></td>
+   <td align="center"><a href="https://solved.ac/profile/최주현"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=최주현" style="vertical-align:top" width="163px;" /></a></td>
 
   </tr>
 
   <tr>
-  <td align="center"><a href="https://github.com/biisairo"><b>Player 09<br/>🐶 현호 🐶</b></a></td>
-  <td align="center"><a href="https://github.com/chobinee"><b>Player 10</br>🦊 현정 🦊</b></a></td>
-  <td align="center"><a href="https://github.com/Pig30nidaE"><b>Player 11<br/>🐹 동현 🐹</b></br></a></td>
-  <td align="center"><a href="https://github.com/soulee-dev"><b>Player 12<br/>🐼 백수 🐼</b><br/></a></td>
+  <td align="center"><a href="https://github.com/SWARVY"><b>Player 09<br/>🐶 현호 🐶</b></a></td>
+  <td align="center"><a href="https://github.com/HyeonJeong519"><b>Player 10</br>🦊 현정 🦊</b></a></td>
+  <td align="center"><a href="https://github.com/rheefine"><b>Player 11<br/>🐹 동현 🐹</b></br></a></td>
+  <td align="center"><a href="https://github.com/rnawlsgk"><b>Player 12<br/>🐼 주현 🐼</b><br/></a></td>
   </tr>
   <tr>
-    <td align="center"><img src="https://user-images.githubusercontent.com/112257466/215278105-06ab07f1-ee1e-48e9-af62-0a02cc6d6039.png" width="15px"> node.js</td>
-    <td align="center"><img src="https://user-images.githubusercontent.com/112257466/210312477-2c0ad52d-dc9a-4d1a-9d4e-b40f5088d1cb.png" width="12px"/>&nbsp;Java11</td>
-    <td align="center"><img src="https://user-images.githubusercontent.com/112257466/215278105-06ab07f1-ee1e-48e9-af62-0a02cc6d6039.png" width="15px"> node.js</td>
-    <td align="center"><img src="https://user-images.githubusercontent.com/112257466/210311699-6c37f4db-d683-4b2f-8ff0-7d1354d32c61.png" width="15px"/> Python 3</td>
+    <td align="center"><img src="https://user-images.githubusercontent.com/112257466/215278105-06ab07f1-ee1e-48e9-af62-0a02cc6d6039.png" width="15px"> JavaScript</td>
+    <td align="center"><img src="https://user-images.githubusercontent.com/112257466/210312477-2c0ad52d-dc9a-4d1a-9d4e-b40f5088d1cb.png" width="12px"/>&nbsp;Java</td>
+    <td align="center"><img src="https://user-images.githubusercontent.com/112257466/215278105-06ab07f1-ee1e-48e9-af62-0a02cc6d6039.png" width="15px"> JavaScript</td>
+    <td align="center"><img src="https://user-images.githubusercontent.com/112257466/210312477-2c0ad52d-dc9a-4d1a-9d4e-b40f5088d1cb.png" width="12px"/>&nbsp;Java</td>
   </tr>
 
 </table>

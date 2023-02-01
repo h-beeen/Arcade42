@@ -431,7 +431,7 @@
 
    <td align="center"><a href="https://solved.ac/profile/rheefine"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rheefine" style="vertical-align:top" width="163px;" /></a></td>
 
-   <td align="center"><a href="https://solved.ac/profile/최주현"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=최주현" style="vertical-align:top" width="163px;" /></a></td>
+   <td align="center"><a href="https://solved.ac/profile/wngus888"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wngus888" style="vertical-align:top" width="163px;" /></a></td>
 
   </tr>
 

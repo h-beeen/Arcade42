@@ -6,7 +6,6 @@
 <div align="center">
 </br>
 <table align="center">
-<thead>
 <tr>
   <td colspan=10 align=center><img src="https://readme-typing-svg.herokuapp.com?font=Rubik+80s+Fade&color=F70000FF&size=30&center=true&vCenter=true&width=500&height=35&lines=ScoreBoard+-+1&duration=1&pause=1000" style="vertical-align:top" width=65%></td>
 </tr>
@@ -29,7 +28,7 @@
 <td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%ED%95%B4%EB%B9%88/1%EC%A3%BC%EC%B0%A8_17298.cpp"/>해빈</td>
 <td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%EC%9D%80%EC%B0%AC/1%EC%A3%BC%EC%B0%A8_17298.java"/>은찬</td>
 <td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%EC%9B%90%EC%A2%85/1%EC%A3%BC%EC%B0%A8_17298.c"/>원종</td>
-<td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%EC%A3%BC%ED%98%84/1%EC%A3%BC%EC%B0%A8_17298.py"/>주현</td>
+<td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%EC%9D%B4%EC%A3%BC%ED%98%84/1%EC%A3%BC%EC%B0%A8_17298.py"/>주현</td>
 </tr>
 <tr>
 <td align="center">해빈 ⚔️</td>
@@ -39,7 +38,7 @@
 <td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%ED%95%B4%EB%B9%88/1%EC%A3%BC%EC%B0%A8_1600.cpp"/>해빈</td>
 <td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%EC%9D%80%EC%B0%AC/1%EC%A3%BC%EC%B0%A8_1600.java"/>은찬</td>
 <td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%EC%9B%90%EC%A2%85/1%EC%A3%BC%EC%B0%A8_1600.c"/>원종</td>
-<td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%EC%A3%BC%ED%98%84/1%EC%A3%BC%EC%B0%A8_1600.py"/>주현</td>
+<td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%EC%9D%B4%EC%A3%BC%ED%98%84/1%EC%A3%BC%EC%B0%A8_1600.py"/>주현</td>
 </tr>
 <tr>
 <td rowspan='2' align="center">Week 2<br/>22/11/27</td>
@@ -50,7 +49,7 @@
 <td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%ED%95%B4%EB%B9%88/2%EC%A3%BC%EC%B0%A8_1107.cpp"/>해빈</td>
 <td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%EC%9D%80%EC%B0%AC/2%EC%A3%BC%EC%B0%A8_1107.cpp"/>은찬</td>
 <td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%EC%9B%90%EC%A2%85/2%EC%A3%BC%EC%B0%A8_1107.c"/>원종</td>
-<td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%EC%A3%BC%ED%98%84/2%EC%A3%BC%EC%B0%A8_1107.py"/>주현</td>
+<td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%EC%9D%B4%EC%A3%BC%ED%98%84/2%EC%A3%BC%EC%B0%A8_1107.py"/>주현</td>
 </tr>
 <tr>
 <td align="center">은찬 ⚔️</td>
@@ -71,7 +70,7 @@
 <td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%ED%95%B4%EB%B9%88/3%EC%A3%BC%EC%B0%A8_2493.cpp"/>해빈</td>
 <td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%EC%9D%80%EC%B0%AC/3%EC%A3%BC%EC%B0%A8_2493.java"/>은찬</td>
 <td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%EC%9B%90%EC%A2%85/3%EC%A3%BC%EC%B0%A8_2493.c"/>원종</td>
-<td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%EC%A3%BC%ED%98%84/3%EC%A3%BC%EC%B0%A8_2493.py"/>주현</td>
+<td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%EC%9D%B4%EC%A3%BC%ED%98%84/3%EC%A3%BC%EC%B0%A8_2493.py"/>주현</td>
 </tr>
 
 <td align="center">원종 ⚔️</td>
@@ -81,7 +80,7 @@
 <td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%ED%95%B4%EB%B9%88/3%EC%A3%BC%EC%B0%A8_1915.cpp"/>해빈</td>
 <td align="center">🏴‍☠️</td>
 <td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%EC%9B%90%EC%A2%85/3%EC%A3%BC%EC%B0%A8_1915.c"/>원종</td>
-<td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%EC%A3%BC%ED%98%84/3%EC%A3%BC%EC%B0%A8_1915.py"/>주현</td>
+<td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%EC%9D%B4%EC%A3%BC%ED%98%84/3%EC%A3%BC%EC%B0%A8_1915.py"/>주현</td>
 </tr>
 <tr>
 
@@ -92,7 +91,7 @@
 <td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%ED%95%B4%EB%B9%88/3%EC%A3%BC%EC%B0%A8_2473.cpp"/>해빈</td>
 <td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%EC%9D%80%EC%B0%AC/3%EC%A3%BC%EC%B0%A8_2473.java"/>은찬</td>
 <td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%EC%9B%90%EC%A2%85/3%EC%A3%BC%EC%B0%A8_2473.c"/>원종</td>
-<td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%EC%A3%BC%ED%98%84/3%EC%A3%BC%EC%B0%A8_2473.py"/>주현</td>
+<td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%EC%9D%B4%EC%A3%BC%ED%98%84/3%EC%A3%BC%EC%B0%A8_2473.py"/>주현</td>
 </tr>
 <tr>
 <td rowspan='2' align="center">Week 4<br/>22/12/10</td>
@@ -103,7 +102,7 @@
 <td align="center">🏴‍☠️</td>
 <td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%EC%9D%80%EC%B0%AC/4%EC%A3%BC%EC%B0%A8_2210.java"/>은찬</td>
 <td align="center">🏴‍☠️</td>
-<td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%EC%A3%BC%ED%98%84/4%EC%A3%BC%EC%B0%A8_2110.py"/>주현</td>
+<td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%EC%9D%B4%EC%A3%BC%ED%98%84/4%EC%A3%BC%EC%B0%A8_2110.py"/>주현</td>
 </tr>
 <tr>
 <td align="center">은찬 ⚔️</td>
@@ -125,7 +124,7 @@
 <td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%ED%95%B4%EB%B9%88/5%EC%A3%BC%EC%B0%A8_1744.cpp"/>해빈</td>
 <td align="center">🏴‍☠️</td>
 <td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%EC%9B%90%EC%A2%85/5%EC%A3%BC%EC%B0%A8_1744.c"/>원종</td>
-<td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%EC%A3%BC%ED%98%84/5%EC%A3%BC%EC%B0%A8_1744.py"/>주현</td>
+<td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%EC%9D%B4%EC%A3%BC%ED%98%84/5%EC%A3%BC%EC%B0%A8_1744.py"/>주현</td>
 </tr>
 <tr>
 <td align="center">원종 ⚔️</td>
@@ -145,7 +144,7 @@
 <td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%ED%95%B4%EB%B9%88/5%EC%A3%BC%EC%B0%A8_P12913.cpp"/>해빈</td>
 <td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%EC%9D%80%EC%B0%AC/5%EC%A3%BC%EC%B0%A8_P12913.java"/>은찬</td>
 <td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%EC%9B%90%EC%A2%85/5%EC%A3%BC%EC%B0%A8_P12913.cpp"/>원종</td>
-<td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%EC%A3%BC%ED%98%84/5%EC%A3%BC%EC%B0%A8_P12913.py"/>주현</td>
+<td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%EC%9D%B4%EC%A3%BC%ED%98%84/5%EC%A3%BC%EC%B0%A8_P12913.py"/>주현</td>
 </tr>
 
 <tr>
@@ -157,7 +156,7 @@
 <td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%ED%95%B4%EB%B9%88/6%EC%A3%BC%EC%B0%A8_10986.cpp"/>해빈</td>
 <td align="center">🏴‍☠️</td>
 <td align="center">🏴‍☠️</td>
-<td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%EC%A3%BC%ED%98%84/6%EC%A3%BC%EC%B0%A8_10986.py"/>주현</td>
+<td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%EC%9D%B4%EC%A3%BC%ED%98%84/6%EC%A3%BC%EC%B0%A8_10986.py"/>주현</td>
 </tr>
 <tr>
 <td align="center">은찬 ⚔️</td>
@@ -449,6 +448,17 @@
     <td align="center"><img src="https://user-images.githubusercontent.com/112257466/210312477-2c0ad52d-dc9a-4d1a-9d4e-b40f5088d1cb.png" width="12px"/>&nbsp;Java</td>
   </tr>
 
+</table>
+<br>
+<table align="center">
+<tr>
+  <td colspan=10 align=center>BlackHole</td>
+</tr>
+<tr>
+<td align=center><a href="https://github.com/juhyulee"/>Player 04</td>
+<td align=center><a href="https://github.com/juhyulee"/>Juhyulee</td>
+<td align=center>2022/11/19 ~ 2023/01/08 (51 Days)</td>
+</tr>
 </table>
 
 </div>

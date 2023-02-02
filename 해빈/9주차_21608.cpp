@@ -9,6 +9,7 @@ int dy[4] = {0, 0, -1, 1};
 
 int n;
 
+
 // student[i] : i번째 앉힐 학생
 int student[405];
 
@@ -36,6 +37,7 @@ bool cmp(pair<pair<int,int>,pair<int,int> > &a, pair<pair<int, int>, pair<int, i
 
 void sit(int idx)
 {
+    vector <int, int, int, int>
     int student_num = student[idx];
     vector<pair<pair<int, int>, pair<int, int> > > promising;
 

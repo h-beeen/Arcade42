@@ -319,6 +319,16 @@
 <td align="center"><a href="https://github.com/h-beeen/Arcade42/tree/master/%EC%83%81%ED%9A%A8"/>상효</td>
 <td align="center">소울</td>
 </tr>
+<tr>
+<td rowspan='1' align="center">Rush01</td>
+<td align="center" colspan=2><a href="https://www.acmicpc.net/problem/"/>미정</td>
+<td align="center">🟡 G5</td>
+<td align="center">Embargo</td>
+<td align="center">동윤</td>
+<td align="center">수빈</td>
+<td align="center">상효</td>
+<td align="center">소울</td>
+</tr>
 
 <!-- 여기부터 3팀 -->
 <tr>

@@ -295,7 +295,7 @@
 <td align="center">원종 ⚔️</td>
 <td align="center"><a href="https://www.acmicpc.net/problem/5430"/>AC</td>
 <td align="center">🟡 G5</td>
-<td align="center">Embargo</td>
+<td align="center">Parsing</td>
 <td align="center">해빈</td>
 <td align="center">은찬</td>
 <td align="center">원종</td>

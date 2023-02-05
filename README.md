@@ -184,7 +184,7 @@
 <td align="center">해빈 ⚔️</td>
 <td align="center"><a href="https://www.acmicpc.net/problem/10026"/>적록색약</td>
 <td align="center">🟡 G5</td>
-<td align="center">Embargo</td>
+<td align="center">BFS</td>
 <td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%ED%95%B4%EB%B9%88/7%EC%A3%BC%EC%B0%A8_10026.cpp"/>해빈</td>
 <td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%EC%9D%80%EC%B0%AC/7%EC%A3%BC%EC%B0%A8_10026.java"/>은찬</td>
 <td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%EC%9B%90%EC%A2%85/7%EC%A3%BC%EC%B0%A8_10026.c"/>원종</td>
@@ -194,7 +194,7 @@
 <td align="center">원종 ⚔️</td>
 <td align="center" ><a href="https://www.acmicpc.net/problem/12100"/>2048 (Easy)</td>
 <td align="center">🟡 G2</td>
-<td align="center">Embargo</td>
+<td align="center">Simulation</td>
 <td align="center">🏴‍☠️</td>
 <td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%EC%9D%80%EC%B0%AC/7%EC%A3%BC%EC%B0%A8_12100.java"/>은찬</td>
 <td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%EC%9B%90%EC%A2%85/7%EC%A3%BC%EC%B0%A8_12100.c"/>원종</td>

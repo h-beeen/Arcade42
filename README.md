@@ -20,7 +20,7 @@
 </thead>
 <tbody>
 <tr>
-<td rowspan='2' align="center">Week 1<br/>22/11/19</td>
+<td rowspan='2' align="center">Week 01<br/>22/11/19</td>
 <td align="center">주현 ⚔️</td>
 <td align="center"><a href="https://www.acmicpc.net/problem/17298" algin="center" title="[Stack] 스택 기초 다잡기">오큰수</a></td>
 <td align="center">🟡 G4</td>
@@ -41,7 +41,7 @@
 <td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%EC%9D%B4%EC%A3%BC%ED%98%84/1%EC%A3%BC%EC%B0%A8_1600.py"/>주현</td>
 </tr>
 <tr>
-<td rowspan='2' align="center">Week 2<br/>22/11/27</td>
+<td rowspan='2' align="center">Week 02<br/>22/11/27</td>
 <td align="center">원종 ⚔️</td>
 <td align="center" title="[Bruteforce] 브루트포스 기초 다잡기"><a href="https://www.acmicpc.net/problem/1107"/>리모컨</td>
 <td align="center">🟡 G5</td>
@@ -62,7 +62,7 @@
 <td align="center">🏴‍☠️</td>
 </tr>
 <tr>
-<td rowspan='3' align="center">Week 3<br/>22/12/03</td>
+<td rowspan='3' align="center">Week 03<br/>22/12/03</td>
 <td align="center">해빈 ⚔️</td>
 <td align="center"  title="[Stack] 마치 왼큰수"><a href="https://www.acmicpc.net/problem/2493"/>탑</td>
 <td align="center">🟡 G5</td>
@@ -94,7 +94,7 @@
 <td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%EC%9D%B4%EC%A3%BC%ED%98%84/3%EC%A3%BC%EC%B0%A8_2473.py"/>주현</td>
 </tr>
 <tr>
-<td rowspan='2' align="center">Week 4<br/>22/12/10</td>
+<td rowspan='2' align="center">Week 04<br/>22/12/10</td>
 <td align="center">주현 ⚔️</td>
 <td align="center" title="[Binary-Search] 어지러운 이분탐색"><a href="https://www.acmicpc.net/problem/2110"/>공유기 설치</td>
 <td align="center">🟡 G4</td>
@@ -116,7 +116,7 @@
 </tr>
 
 <tr>
-<td rowspan='3' align="center">Week 5<br/>22/12/16</td>
+<td rowspan='3' align="center">Week 05<br/>22/12/16</td>
 <td align="center">해빈 ⚔️</td>
 <td align="center" title="[Greedy] 조건 처리만 잘 하면 나름 쉬운?"><a href="https://www.acmicpc.net/problem/1744"/>수 묶기</td>
 <td align="center">🟡 G4</td>
@@ -137,7 +137,7 @@
 <td align="center">🏴‍☠️</td>
 </tr>
 <tr>
-<td align="center">BONUS</td>
+<td align="center">Bonus</td>
 <td align="center"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/12913" title="[DP] 점화식만 잘 세우면 쉬웠던!"/>땅따먹기</td>
 <td align="center">🟢 Lv.2</td>
 <td align="center">DP</td>
@@ -148,7 +148,7 @@
 </tr>
 
 <tr>
-<td rowspan='3' align="center">Week 6<br/>22/12/26</td>
+<td rowspan='3' align="center">Week 06<br/>22/12/26</td>
 <td align="center">주현 ⚔️</td>
 <td align="center" title="[Prefix-Sum] 아직도 잘 모르겠다..너는"><a href="https://www.acmicpc.net/problem/10986"/>나머지 합</td>
 <td align="center">🟡 G3</td>
@@ -169,7 +169,7 @@
 <td align="center">🏴‍☠️</td>
 </tr>
 <tr>
-<td align="center">BONUS</td>
+<td align="center">Bonus</td>
 <td align="center"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/42897" title="[DP] 점화식..어려웠어.."/>도둑질</td>
 <td align="center">🔴 Lv.4</td>
 <td align="center">DP</td>
@@ -180,7 +180,7 @@
 </tr>
 
 <tr>
-<td rowspan='3' align="center">Week 7<br/>23/01/08</td>
+<td rowspan='3' align="center">Week 07<br/>23/01/08</td>
 <td align="center">해빈 ⚔️</td>
 <td align="center"><a href="https://www.acmicpc.net/problem/10026"/>적록색약</td>
 <td align="center">🟡 G5</td>
@@ -201,7 +201,7 @@
 <td align="center">🔥</td>
 </tr>
 <tr>
-<td align="center">BONUS</td>
+<td align="center">Bonus</td>
 <td align="center" ><a href="https://school.programmers.co.kr/learn/courses/30/lessons/43238"/>입국심사</td>
 <td align="center">🟡 Lv.3</td>
 <td align="center">Binary-Search</td>
@@ -212,7 +212,7 @@
 </tr>
 
 <tr>
-<td rowspan='2' align="center">Week 8<br/>23/01/18</td>
+<td rowspan='2' align="center">Week 08<br/>23/01/18</td>
 <td align="center">은찬 ⚔️</td>
 <td align="center"><a href="https://www.acmicpc.net/problem/1937"/>욕심쟁이 판다</td>
 <td align="center">🟡 G3</td>
@@ -234,7 +234,7 @@
 </tr>
 
 <tr>
-<td rowspan='2' align="center">Week 9<br/>23/01/25</td>
+<td rowspan='2' align="center">Week 09<br/>23/01/25</td>
 <td align="center">해빈 ⚔️</td>
 <td align="center"><a href="https://www.acmicpc.net/problem/21608"/>상어 초등학교</td>
 <td align="center">🟡 G5</td>
@@ -246,7 +246,7 @@
 </tr>
 
 <tr>
-<td align="center">BONUS</td>
+<td align="center">Bonus</td>
 <td align="center"><a href="https://www.acmicpc.net/problem/26142"/>꺾이지 않는 마음 1</td>
 <td align="center">🟡 G1</td>
 <td align="center">Greedy & DP</td>
@@ -285,9 +285,9 @@
 <td align="center"><a href="https://www.acmicpc.net/problem/1504"/>특정한 최단 경로</td>
 <td align="center">🟡 G4</td>
 <td align="center">Dijkstra's</td>
-<td align="center">해빈</td>
+<td align="center">🏴‍☠️</td>
 <td align="center">은찬</td>
-<td align="center">원종</td>
+<td align="center">🏴‍☠️</td>
 <td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%EC%A7%80%EC%9B%90/11%EC%A3%BC%EC%B0%A8_1504.java"/>지원</td>
 </tr>
 
@@ -302,7 +302,51 @@
 <td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%EC%A7%80%EC%9B%90/11%EC%A3%BC%EC%B0%A8_5430.java"/>지원</td>
 </tr>
 
+<tr>
+<td rowspan='2' align="center">Week 12<br/>23/02/26</td>
+<td align="center">은찬 ⚔️</td>
+<td align="center"><a href="https://www.acmicpc.net/problem/2638"/>치즈</td>
+<td align="center">🟡 G3</td>
+<td align="center">Embargo</td>
+<td align="center">해빈</td>
+<td align="center">은찬</td>
+<td align="center">원종</td>
+<td align="center">지원</td>
+</tr>
 
+<tr>
+<td align="center">해빈 ⚔️</td>
+<td align="center"><a href="https://www.acmicpc.net/problem/2638"/>치즈</td>
+<td align="center">🟡 G3</td>
+<td align="center">Embargo</td>
+<td align="center">해빈</td>
+<td align="center">은찬</td>
+<td align="center">원종</td>
+<td align="center">지원</td>
+</tr>
+
+<tr>
+<td rowspan='2' align="center">Week 13<br/>23/02/26</td>
+<td align="center">원종 ⚔️</td>
+<td align="center"><a href="https://www.acmicpc.net/problem/2638"/>치즈</td>
+<td align="center">🟡 G3</td>
+<td align="center">Embargo</td>
+<td align="center">해빈</td>
+<td align="center">은찬</td>
+<td align="center">원종</td>
+<td align="center">지원</td>
+</tr>
+
+<tr>
+<td align="center">지원 ⚔️</td>
+<td align="center"><a href="https://www.acmicpc.net/problem/2638"/>치즈</td>
+<td align="center">🟡 G3</td>
+<td align="center">Embargo</td>
+<td align="center">해빈</td>
+<td align="center">은찬</td>
+<td align="center">원종</td>
+<td align="center">지원</td>
+</tr>
 
 <!-- 여기부터 2팀 -->
 <tr>
@@ -336,11 +380,16 @@
 </tr>
 
 <tr>
-<td rowspan='2' align="center">Temp 01<br/>23/04/04</td>
-<td align="center">현호 ⚔️</td>
-<td align="center"><a href="http://github.com/h-beeen"/>InQ To Arcade42</td>
-<td align="center">🟡 G5</td>
-<td align="center">Computer</td>
+<td rowspan='4' align="center">Week 01<br/>23/02/18</td>
+<td align="center">💡</td>
+<td align =center colspan=7><a href="https://blog.encrypted.gg/933"/>Algorithm Lecture 0x05 - Stack</a></td>
+</tr>
+
+<tr>
+<td align="center">연습 ⚔️</td>
+<td align="center"><a href="https://www.acmicpc.net/problem/10828"/>스택</td>
+<td align="center">🟢 S4</td>
+<td align="center">Stack</td>
 <td align="center">현호</td>
 <td align="center">현정</td>
 <td align="center">동현</td>
@@ -348,15 +397,66 @@
 </tr>
 
 <tr>
-<td align="center">현정 ⚔️</td>
-<td align="center"><a href="http://github.com/h-beeen"/>Welcome Team 3</td>
-<td align="center">🟡 G5</td>
-<td align="center">Computer</td>
+<td align="center">기본 ⚔️</td>
+<td align="center"><a href="https://www.acmicpc.net/problem/10773"/>제로</td>
+<td align="center">🟢 S4</td>
+<td align="center">Stack</td>
 <td align="center">현호</td>
 <td align="center">현정</td>
 <td align="center">동현</td>
 <td align="center">주현</td>
 </tr>
+
+<tr>
+<td align="center">응용 ⚔️</td>
+<td align="center"><a href="https://www.acmicpc.net/problem/2493"/>탑</td>
+<td align="center">🟡 G5</td>
+<td align="center">Stack</td>
+<td align="center">현호</td>
+<td align="center">현정</td>
+<td align="center">동현</td>
+<td align="center">주현</td>
+</tr>
+
+<tr>
+<td rowspan='4' align="center">Week 02<br/>23/02/25</td>
+<td align="center">💡</td>
+<td align =center colspan=7><a href="https://blog.encrypted.gg/934"/>Algorithm Lecture 0x06 - Queue</a></td>
+</tr>
+
+<tr>
+<td align="center">연습 ⚔️</td>
+<td align="center"><a href="https://www.acmicpc.net/problem/10845"/>큐</td>
+<td align="center">🟢 S4</td>
+<td align="center">Queue</td>
+<td align="center">현호</td>
+<td align="center">현정</td>
+<td align="center">동현</td>
+<td align="center">주현</td>
+</tr>
+
+<tr>
+<td align="center">기본 ⚔️</td>
+<td align="center"><a href="https://www.acmicpc.net/problem/18258"/>큐 2</td>
+<td align="center">🟢 S4</td>
+<td align="center">Queue</td>
+<td align="center">현호</td>
+<td align="center">현정</td>
+<td align="center">동현</td>
+<td align="center">주현</td>
+</tr>
+
+<tr>
+<td align="center">기본 ⚔️</td>
+<td align="center"><a href="https://www.acmicpc.net/problem/2164"/>카드 2</td>
+<td align="center">🟢 S4</td>
+<td align="center">Queue</td>
+<td align="center">현호</td>
+<td align="center">현정</td>
+<td align="center">동현</td>
+<td align="center">주현</td>
+</tr>
+
 
 </tbody>
 </table>

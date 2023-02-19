@@ -315,8 +315,8 @@
 </tr>
 
 <tr>
-<td align="center">해빈 ⚔️</td>
-<td align="center"><a href="https://www.acmicpc.net/problem/2638"/>치즈</td>
+<td align="center">지원 ⚔️</td>
+<td align="center"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/92345"/>사라지는 발판</td>
 <td align="center">🟡 G3</td>
 <td align="center">Embargo</td>
 <td align="center">해빈</td>

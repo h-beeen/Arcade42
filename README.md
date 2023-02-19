@@ -390,7 +390,7 @@
 <td align="center"><a href="https://www.acmicpc.net/problem/10828"/>스택</td>
 <td align="center">🟢 S4</td>
 <td align="center">Stack</td>
-<td align="center">현호</td>
+<td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%ED%98%84%ED%98%B8/1%EC%A3%BC%EC%B0%A8_10828.js"/>현호</td>
 <td align="center">현정</td>
 <td align="center">동현</td>
 <td align="center">주현</td>
@@ -401,7 +401,7 @@
 <td align="center"><a href="https://www.acmicpc.net/problem/10773"/>제로</td>
 <td align="center">🟢 S4</td>
 <td align="center">Stack</td>
-<td align="center">현호</td>
+<td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%ED%98%84%ED%98%B8/1%EC%A3%BC%EC%B0%A8_10773.js"/>현호</td>
 <td align="center">현정</td>
 <td align="center">동현</td>
 <td align="center">주현</td>
@@ -412,7 +412,7 @@
 <td align="center"><a href="https://www.acmicpc.net/problem/2493"/>탑</td>
 <td align="center">🟡 G5</td>
 <td align="center">Stack</td>
-<td align="center">현호</td>
+<td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%ED%98%84%ED%98%B8/1%EC%A3%BC%EC%B0%A8_2493.js"/>현호</td>
 <td align="center">현정</td>
 <td align="center">동현</td>
 <td align="center">주현</td>
@@ -429,7 +429,7 @@
 <td align="center"><a href="https://www.acmicpc.net/problem/10845"/>큐</td>
 <td align="center">🟢 S4</td>
 <td align="center">Queue</td>
-<td align="center">현호</td>
+<td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%ED%98%84%ED%98%B8/2%EC%A3%BC%EC%B0%A8_10845.js"/>현호</td>
 <td align="center">현정</td>
 <td align="center">동현</td>
 <td align="center">주현</td>
@@ -440,7 +440,7 @@
 <td align="center"><a href="https://www.acmicpc.net/problem/18258"/>큐 2</td>
 <td align="center">🟢 S4</td>
 <td align="center">Queue</td>
-<td align="center">현호</td>
+<td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%ED%98%84%ED%98%B8/2%EC%A3%BC%EC%B0%A8_18258.js"/>현호</td>
 <td align="center">현정</td>
 <td align="center">동현</td>
 <td align="center">주현</td>
@@ -451,7 +451,7 @@
 <td align="center"><a href="https://www.acmicpc.net/problem/2164"/>카드 2</td>
 <td align="center">🟢 S4</td>
 <td align="center">Queue</td>
-<td align="center">현호</td>
+<td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%ED%98%84%ED%98%B8/2%EC%A3%BC%EC%B0%A8_2164.js"/>현호</td>
 <td align="center">현정</td>
 <td align="center">동현</td>
 <td align="center">주현</td>

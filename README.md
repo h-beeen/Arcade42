@@ -317,7 +317,7 @@
 <tr>
 <td align="center">지원 ⚔️</td>
 <td align="center"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/92345"/>사라지는 발판</td>
-<td align="center">🟡 G3</td>
+<td align="center">🟡 Lv.3</td>
 <td align="center">Embargo</td>
 <td align="center">해빈</td>
 <td align="center">은찬</td>

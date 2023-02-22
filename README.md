@@ -328,7 +328,7 @@
 <tr>
 <td rowspan='2' align="center">Week 13<br/>23/02/26</td>
 <td align="center">해빈 ⚔️</td>
-<td align="center"><a href="https://www.acmicpc.net/problem/18340"/>무기 공학</td>
+<td align="center"><a href="https://www.acmicpc.net/problem/18430"/>무기 공학</td>
 <td align="center">🟡 G5</td>
 <td align="center">Embargo</td>
 <td align="center">해빈</td>

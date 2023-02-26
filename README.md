@@ -188,7 +188,7 @@
 <td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%ED%95%B4%EB%B9%88/7%EC%A3%BC%EC%B0%A8_10026.cpp"/>해빈</td>
 <td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%EC%9D%80%EC%B0%AC/7%EC%A3%BC%EC%B0%A8_10026.java"/>은찬</td>
 <td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%EC%9B%90%EC%A2%85/7%EC%A3%BC%EC%B0%A8_10026.c"/>원종</td>
-<td align="center">🔥</td>
+<td rowspan='5' align="center">⚓</td>
 </tr>
 <tr>
 <td align="center">원종 ⚔️</td>
@@ -198,7 +198,6 @@
 <td align="center">🏴‍☠️</td>
 <td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%EC%9D%80%EC%B0%AC/7%EC%A3%BC%EC%B0%A8_12100.java"/>은찬</td>
 <td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%EC%9B%90%EC%A2%85/7%EC%A3%BC%EC%B0%A8_12100.c"/>원종</td>
-<td align="center">🔥</td>
 </tr>
 <tr>
 <td align="center">Bonus</td>
@@ -208,7 +207,6 @@
 <td align="center">🏴‍☠️</td>
 <td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%EC%9D%80%EC%B0%AC/7%EC%A3%BC%EC%B0%A8_P43238.java">은찬</td>
 <td align="center">🏴‍☠️</td>
-<td align="center">🔥</td>
 </tr>
 
 <tr>
@@ -220,7 +218,6 @@
 <td align="center">🏴‍☠️</td>
 <td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%EC%9D%80%EC%B0%AC/8%EC%A3%BC%EC%B0%A8_1937.java"/>은찬</td>
 <td align="center">🏴‍☠️</td>
-<td align="center">🔥</td>
 </tr>
 <td align="center">원종 ⚔️</td>
 <td align="center"><a href="https://www.acmicpc.net/problem/3015"/>오아시스 재결합</td>
@@ -229,7 +226,6 @@
 <td align="center">🏴‍☠️</td>
 <td align="center">🏴‍☠️</td>
 <td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%EC%9B%90%EC%A2%85/8%EC%A3%BC%EC%B0%A8_3015.c"/>원종</td>
-<td align="center">🔥</td>
 
 </tr>
 

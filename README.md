@@ -299,7 +299,7 @@
 </tr>
 
 <tr>
-<td rowspan='4' align="center">Week 12, 13<br/><br/>23/02/26</td>
+<td rowspan='4' align="center">Week 12<br/>Week 13<br/><br/>23/02/26</td>
 <td align="center">은찬 ⚔️</td>
 <td align="center"><a href="https://www.acmicpc.net/problem/2638"/>치즈</td>
 <td align="center">🟡 G3</td>

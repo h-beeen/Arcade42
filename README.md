@@ -299,7 +299,7 @@
 </tr>
 
 <tr>
-<td rowspan='4' align="center">Week 12<br/>Week 13<br/><br/>23/02/26</td>
+<td rowspan='4' align="center">Week 12, 13<br/><br/>23/02/26</td>
 <td align="center">은찬 ⚔️</td>
 <td align="center"><a href="https://www.acmicpc.net/problem/2638"/>치즈</td>
 <td align="center">🟡 G3</td>
@@ -428,13 +428,13 @@
 </tr>
 
 <tr>
-<td rowspan='6' align="center">Week 03<br/>23/03/11</td>
+<td rowspan='4' align="center">Week 03<br/>23/03/11</td>
 <td align="center">💡</td>
-<td align =center colspan=7><a href="https://blog.encrypted.gg/941"/>Algorithm Lecture 0x09 - BFS</a>&nbsp;&nbsp;/&nbsp;&nbsp;<a href="https://blog.encrypted.gg/942"/>Algorithm Lecture 0x0A - DFS</a></td>
+<td align =center colspan=7><a href="https://blog.encrypted.gg/941"/>Algorithm Lecture 0x09 - BFS</a></td>
 </tr>
 
 <tr>
-<td align="center">현정 ⚔️</td>
+<td align="center">연습 ⚔️</td>
 <td align="center"><a href="https://www.acmicpc.net/problem/1926"/>그림</td>
 <td align="center">🟢 S1</td>
 <td align="center">BFS</td>
@@ -445,7 +445,7 @@
 </tr>
 
 <tr>
-<td align="center">현정 ⚔️</td>
+<td align="center">기본 ⚔️</td>
 <td align="center"><a href="https://www.acmicpc.net/problem/5427"/>불</td>
 <td align="center">🟡 G4</td>
 <td align="center">BFS</td>
@@ -456,31 +456,9 @@
 </tr>
 
 <tr>
-<td align="center">현정 ⚔️</td>
+<td align="center">응용 ⚔️</td>
 <td align="center"><a href="https://www.acmicpc.net/problem/1600"/>말이 되고픈 원숭이</td>
 <td align="center">🟡 G3</td>
-<td align="center">BFS</td>
-<td align="center">현호</td>
-<td align="center">현정</td>
-<td align="center">동현</td>
-<td align="center">주현</td>
-</tr>
-
-<tr>
-<td align="center">현정 ⚔️</td>
-<td align="center"><a href="https://www.acmicpc.net/problem/2600"/>구슬게임</td>
-<td align="center">🟡 G4</td>
-<td align="center">DP</td>
-<td align="center">현호</td>
-<td align="center">현정</td>
-<td align="center">동현</td>
-<td align="center">주현</td>
-</tr>
-
-<tr>
-<td align="center">현정 ⚔️</td>
-<td align="center"><a href="https://www.acmicpc.net/problem/1260"/>BFS와 DFS</td>
-<td align="center">🟢 S2</td>
 <td align="center">BFS</td>
 <td align="center">현호</td>
 <td align="center">현정</td>

@@ -303,7 +303,7 @@
 <td align="center">은찬 ⚔️</td>
 <td align="center"><a href="https://www.acmicpc.net/problem/2638"/>치즈</td>
 <td align="center">🟡 G3</td>
-<td align="center">Embargo</td>
+<td align="center">BFS</td>
 <td align="center">해빈</td>
 <td align="center">은찬</td>
 <td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%EC%9B%90%EC%A2%85/12%EC%A3%BC%EC%B0%A8_2638.c"/>원종</td>
@@ -314,7 +314,7 @@
 <td align="center">지원 ⚔️</td>
 <td align="center"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/92345"/>사라지는 발판</td>
 <td align="center">🟡 Lv.3</td>
-<td align="center">Embargo</td>
+<td align="center">DP</td>
 <td align="center">🏴‍☠️</td>
 <td align="center">🏴‍☠️</td>
 <td align="center">🏴‍☠️</td>
@@ -325,7 +325,7 @@
 <td align="center">해빈 ⚔️</td>
 <td align="center"><a href="https://www.acmicpc.net/problem/18430"/>무기 공학</td>
 <td align="center">🟡 G5</td>
-<td align="center">Embargo</td>
+<td align="center">DFS</td>
 <td align="center">해빈</td>
 <td align="center">은찬</td>
 <td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%EC%9B%90%EC%A2%85/12%EC%A3%BC%EC%B0%A8_18430.c"/>원종</td>
@@ -336,7 +336,7 @@
 <td align="center">원종 ⚔️</td>
 <td align="center"><a href="https://www.acmicpc.net/problem/2447"/>별 찍기 - 10</td>
 <td align="center">🟡 G5</td>
-<td align="center">Embargo</td>
+<td align="center">Recursion</td>
 <td align="center">해빈</td>
 <td align="center">은찬</td>
 <td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%EC%9B%90%EC%A2%85/12%EC%A3%BC%EC%B0%A8_2447.c"/>원종</td>
@@ -427,6 +427,66 @@
 <td align="center">🏴‍☠️</td>
 </tr>
 
+<tr>
+<td rowspan='6' align="center">Week 03<br/>23/03/11</td>
+<td align="center">💡</td>
+<td align =center colspan=7><a href="https://blog.encrypted.gg/941"/>Algorithm Lecture 0x09 - BFS</a>&nbsp;&nbsp;/&nbsp;&nbsp;<a href="https://blog.encrypted.gg/942"/>Algorithm Lecture 0x0A - DFS</a></td>
+</tr>
+
+<tr>
+<td align="center">현정 ⚔️</td>
+<td align="center"><a href="https://www.acmicpc.net/problem/1926"/>그림</td>
+<td align="center">🟢 S1</td>
+<td align="center">BFS</td>
+<td align="center">현호</td>
+<td align="center">현정</td>
+<td align="center">동현</td>
+<td align="center">주현</td>
+</tr>
+
+<tr>
+<td align="center">현정 ⚔️</td>
+<td align="center"><a href="https://www.acmicpc.net/problem/5427"/>불</td>
+<td align="center">🟡 G4</td>
+<td align="center">BFS</td>
+<td align="center">현호</td>
+<td align="center">현정</td>
+<td align="center">동현</td>
+<td align="center">주현</td>
+</tr>
+
+<tr>
+<td align="center">현정 ⚔️</td>
+<td align="center"><a href="https://www.acmicpc.net/problem/1600"/>말이 되고픈 원숭이</td>
+<td align="center">🟡 G3</td>
+<td align="center">BFS</td>
+<td align="center">현호</td>
+<td align="center">현정</td>
+<td align="center">동현</td>
+<td align="center">주현</td>
+</tr>
+
+<tr>
+<td align="center">현정 ⚔️</td>
+<td align="center"><a href="https://www.acmicpc.net/problem/2600"/>구슬게임</td>
+<td align="center">🟡 G4</td>
+<td align="center">DP</td>
+<td align="center">현호</td>
+<td align="center">현정</td>
+<td align="center">동현</td>
+<td align="center">주현</td>
+</tr>
+
+<tr>
+<td align="center">현정 ⚔️</td>
+<td align="center"><a href="https://www.acmicpc.net/problem/1260"/>BFS와 DFS</td>
+<td align="center">🟢 S2</td>
+<td align="center">BFS</td>
+<td align="center">현호</td>
+<td align="center">현정</td>
+<td align="center">동현</td>
+<td align="center">주현</td>
+</tr>
 
 </tbody>
 </table>

@@ -188,7 +188,7 @@
 <td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%ED%95%B4%EB%B9%88/7%EC%A3%BC%EC%B0%A8_10026.cpp"/>해빈</td>
 <td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%EC%9D%80%EC%B0%AC/7%EC%A3%BC%EC%B0%A8_10026.java"/>은찬</td>
 <td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%EC%9B%90%EC%A2%85/7%EC%A3%BC%EC%B0%A8_10026.c"/>원종</td>
-<td align="center">🔥</td>
+<td rowspan='5' align="center">⚓</td>
 </tr>
 <tr>
 <td align="center">원종 ⚔️</td>
@@ -198,7 +198,6 @@
 <td align="center">🏴‍☠️</td>
 <td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%EC%9D%80%EC%B0%AC/7%EC%A3%BC%EC%B0%A8_12100.java"/>은찬</td>
 <td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%EC%9B%90%EC%A2%85/7%EC%A3%BC%EC%B0%A8_12100.c"/>원종</td>
-<td align="center">🔥</td>
 </tr>
 <tr>
 <td align="center">Bonus</td>
@@ -208,7 +207,6 @@
 <td align="center">🏴‍☠️</td>
 <td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%EC%9D%80%EC%B0%AC/7%EC%A3%BC%EC%B0%A8_P43238.java">은찬</td>
 <td align="center">🏴‍☠️</td>
-<td align="center">🔥</td>
 </tr>
 
 <tr>
@@ -220,7 +218,6 @@
 <td align="center">🏴‍☠️</td>
 <td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%EC%9D%80%EC%B0%AC/8%EC%A3%BC%EC%B0%A8_1937.java"/>은찬</td>
 <td align="center">🏴‍☠️</td>
-<td align="center">🔥</td>
 </tr>
 <td align="center">원종 ⚔️</td>
 <td align="center"><a href="https://www.acmicpc.net/problem/3015"/>오아시스 재결합</td>
@@ -229,7 +226,6 @@
 <td align="center">🏴‍☠️</td>
 <td align="center">🏴‍☠️</td>
 <td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%EC%9B%90%EC%A2%85/8%EC%A3%BC%EC%B0%A8_3015.c"/>원종</td>
-<td align="center">🔥</td>
 
 </tr>
 
@@ -286,7 +282,7 @@
 <td align="center">🟡 G4</td>
 <td align="center">Dijkstra's</td>
 <td align="center">🏴‍☠️</td>
-<td align="center">은찬</td>
+<td align="center">🏴‍☠️</td>
 <td align="center">🏴‍☠️</td>
 <td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%EC%A7%80%EC%9B%90/11%EC%A3%BC%EC%B0%A8_1504.java"/>지원</td>
 </tr>
@@ -297,86 +293,60 @@
 <td align="center">🟡 G5</td>
 <td align="center">Parsing</td>
 <td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%ED%95%B4%EB%B9%88/11%EC%A3%BC%EC%B0%A8_5430.cpp"/>해빈</td>
-<td align="center">은찬</td>
-<td align="center">원종</td>
+<td align="center">🏴‍☠️</td>
+<td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%EC%9B%90%EC%A2%85/11%EC%A3%BC%EC%B0%A8_5430.c"/>원종</td>
 <td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%EC%A7%80%EC%9B%90/11%EC%A3%BC%EC%B0%A8_5430.java"/>지원</td>
 </tr>
 
 <tr>
-<td rowspan='2' align="center">Week 12<br/>23/02/26</td>
+<td rowspan='4' align="center">Week 12<br/>Week 13<br/><br/>23/02/26</td>
 <td align="center">은찬 ⚔️</td>
 <td align="center"><a href="https://www.acmicpc.net/problem/2638"/>치즈</td>
 <td align="center">🟡 G3</td>
-<td align="center">Embargo</td>
+<td align="center">BFS</td>
 <td align="center">해빈</td>
 <td align="center">은찬</td>
-<td align="center">원종</td>
-<td align="center">지원</td>
-</tr>
-
-<tr>
-<td align="center">해빈 ⚔️</td>
-<td align="center"><a href="https://www.acmicpc.net/problem/2638"/>치즈</td>
-<td align="center">🟡 G3</td>
-<td align="center">Embargo</td>
-<td align="center">해빈</td>
-<td align="center">은찬</td>
-<td align="center">원종</td>
-<td align="center">지원</td>
-</tr>
-
-<tr>
-<td rowspan='2' align="center">Week 13<br/>23/02/26</td>
-<td align="center">원종 ⚔️</td>
-<td align="center"><a href="https://www.acmicpc.net/problem/2638"/>치즈</td>
-<td align="center">🟡 G3</td>
-<td align="center">Embargo</td>
-<td align="center">해빈</td>
-<td align="center">은찬</td>
-<td align="center">원종</td>
-<td align="center">지원</td>
+<td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%EC%9B%90%EC%A2%85/12%EC%A3%BC%EC%B0%A8_2638.c"/>원종</td>
+<td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%EC%A7%80%EC%9B%90/12%EC%A3%BC%EC%B0%A8_2638.java"/>지원</td>
 </tr>
 
 <tr>
 <td align="center">지원 ⚔️</td>
-<td align="center"><a href="https://www.acmicpc.net/problem/2638"/>치즈</td>
-<td align="center">🟡 G3</td>
-<td align="center">Embargo</td>
+<td align="center"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/92345"/>사라지는 발판</td>
+<td align="center">🟡 Lv.3</td>
+<td align="center">DP</td>
+<td align="center">🏴‍☠️</td>
+<td align="center">🏴‍☠️</td>
+<td align="center">🏴‍☠️</td>
+<td align="center">🏴‍☠️</td>
+</tr>
+
+<tr>
+<td align="center">해빈 ⚔️</td>
+<td align="center"><a href="https://www.acmicpc.net/problem/18430"/>무기 공학</td>
+<td align="center">🟡 G5</td>
+<td align="center">DFS</td>
 <td align="center">해빈</td>
 <td align="center">은찬</td>
-<td align="center">원종</td>
-<td align="center">지원</td>
-</tr>
-
-<!-- 여기부터 2팀 -->
-<tr>
-  <td colspan=10 align=center><img src="https://readme-typing-svg.herokuapp.com?font=Rubik+80s+Fade&color=4EADF7FF&size=30&center=true&vCenter=true&width=500&height=35&lines=ScoreBoard+-+2&duration=1&pause=1000" style="vertical-align:top" width=65%></td>
+<td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%EC%9B%90%EC%A2%85/12%EC%A3%BC%EC%B0%A8_18430.c"/>원종</td>
+<td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%EC%A7%80%EC%9B%90/13%EC%A3%BC%EC%B0%A8_18430.java"/>지원</td>
 </tr>
 
 <tr>
-<td rowspan='1' align="center">Rush00</td>
-<td align="center" colspan=2><a href="https://www.acmicpc.net/problem/1918"/>후위 표기식</td>
-<td align="center">🟡 G2</td>
-<td align="center">Stack</td>
-<td align="center">동윤</td>
-<td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%EC%88%98%EB%B9%88/Rush00_1918.py"/>수빈</td>
-<td align="center"><a href="https://github.com/h-beeen/Arcade42/tree/master/%EC%83%81%ED%9A%A8"/>상효</td>
-<td align="center">소울</td>
-</tr>
-<tr>
-<td rowspan='1' align="center">Rush01</td>
-<td align="center" colspan=2><a href="https://www.acmicpc.net/problem/"/>미정</td>
+<td align="center">원종 ⚔️</td>
+<td align="center"><a href="https://www.acmicpc.net/problem/2447"/>별 찍기 - 10</td>
 <td align="center">🟡 G5</td>
-<td align="center">Embargo</td>
-<td align="center">동윤</td>
-<td align="center">수빈</td>
-<td align="center">상효</td>
-<td align="center">소울</td>
+<td align="center">Recursion</td>
+<td align="center">해빈</td>
+<td align="center">은찬</td>
+<td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%EC%9B%90%EC%A2%85/12%EC%A3%BC%EC%B0%A8_2447.c"/>원종</td>
+<td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%EC%A7%80%EC%9B%90/13%EC%A3%BC%EC%B0%A8_2447.java"/>지원</td>
 </tr>
+
 
 <!-- 여기부터 3팀 -->
 <tr>
-  <td colspan=10 align=center><img src="https://readme-typing-svg.herokuapp.com?font=Rubik+80s+Fade&color=62F724FF&size=30&center=true&vCenter=true&width=500&height=35&lines=ScoreBoard+-+3&duration=1&pause=1000" style="vertical-align:top" width=65%></td>
+  <td colspan=10 align=center><img src="https://readme-typing-svg.herokuapp.com?font=Rubik+80s+Fade&color=62F724FF&size=30&center=true&vCenter=true&width=500&height=35&lines=ScoreBoard+-+2&duration=1&pause=1000" style="vertical-align:top" width=65%></td>
 </tr>
 
 <tr>
@@ -390,10 +360,10 @@
 <td align="center"><a href="https://www.acmicpc.net/problem/10828"/>스택</td>
 <td align="center">🟢 S4</td>
 <td align="center">Stack</td>
-<td align="center">현호</td>
-<td align="center">현정</td>
-<td align="center">동현</td>
-<td align="center">주현</td>
+<td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%ED%98%84%ED%98%B8/1%EC%A3%BC%EC%B0%A8_10828.js"/>현호</td>
+<td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%ED%98%84%EC%A0%95/1%EC%A3%BC%EC%B0%A8_10828.java"/>현정</td>
+<td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%EB%8F%99%ED%98%84/1%EC%A3%BC%EC%B0%A8_10828.py"/>동현</td>
+<td align="center">🏴‍☠️</td>
 </tr>
 
 <tr>
@@ -401,10 +371,10 @@
 <td align="center"><a href="https://www.acmicpc.net/problem/10773"/>제로</td>
 <td align="center">🟢 S4</td>
 <td align="center">Stack</td>
-<td align="center">현호</td>
-<td align="center">현정</td>
-<td align="center">동현</td>
-<td align="center">주현</td>
+<td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%ED%98%84%ED%98%B8/1%EC%A3%BC%EC%B0%A8_10773.js"/>현호</td>
+<td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%ED%98%84%EC%A0%95/1%EC%A3%BC%EC%B0%A8_10773.java"/>현정</td>
+<td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%EB%8F%99%ED%98%84/1%EC%A3%BC%EC%B0%A8_10773.py"/>동현</td>
+<td align="center">🏴‍☠️</td>
 </tr>
 
 <tr>
@@ -412,10 +382,10 @@
 <td align="center"><a href="https://www.acmicpc.net/problem/2493"/>탑</td>
 <td align="center">🟡 G5</td>
 <td align="center">Stack</td>
-<td align="center">현호</td>
-<td align="center">현정</td>
-<td align="center">동현</td>
-<td align="center">주현</td>
+<td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%ED%98%84%ED%98%B8/1%EC%A3%BC%EC%B0%A8_2493.js"/>현호</td>
+<td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%ED%98%84%EC%A0%95/1%EC%A3%BC%EC%B0%A8_2493.java"/>현정</td>
+<td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%EB%8F%99%ED%98%84/1%EC%A3%BC%EC%B0%A8_2493.py"/>동현</td>
+<td align="center">🏴‍☠️</td>
 </tr>
 
 <tr>
@@ -429,10 +399,10 @@
 <td align="center"><a href="https://www.acmicpc.net/problem/10845"/>큐</td>
 <td align="center">🟢 S4</td>
 <td align="center">Queue</td>
-<td align="center">현호</td>
-<td align="center">현정</td>
-<td align="center">동현</td>
-<td align="center">주현</td>
+<td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%ED%98%84%ED%98%B8/2%EC%A3%BC%EC%B0%A8_10845.js"/>현호</td>
+<td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%ED%98%84%EC%A0%95/2%EC%A3%BC%EC%B0%A8_10845.java"/>현정</td>
+<td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%EB%8F%99%ED%98%84/02%EC%A3%BC%EC%B0%A8_10845.py"/>동현</td>
+<td align="center">🏴‍☠️</td>
 </tr>
 
 <tr>
@@ -440,6 +410,34 @@
 <td align="center"><a href="https://www.acmicpc.net/problem/18258"/>큐 2</td>
 <td align="center">🟢 S4</td>
 <td align="center">Queue</td>
+<td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%ED%98%84%ED%98%B8/2%EC%A3%BC%EC%B0%A8_18258.js"/>현호</td>
+<td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%ED%98%84%EC%A0%95/2%EC%A3%BC%EC%B0%A8_18258.java"/>현정</td>
+<td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%EB%8F%99%ED%98%84/02%EC%A3%BC%EC%B0%A8_18258.py"/>동현</td>
+<td align="center">🏴‍☠️</td>
+</tr>
+
+<tr>
+<td align="center">기본 ⚔️</td>
+<td align="center"><a href="https://www.acmicpc.net/problem/2164"/>카드 2</td>
+<td align="center">🟢 S4</td>
+<td align="center">Queue</td>
+<td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%ED%98%84%ED%98%B8/2%EC%A3%BC%EC%B0%A8_2164.js"/>현호</td>
+<td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%ED%98%84%EC%A0%95/2%EC%A3%BC%EC%B0%A8_2164.java"/>현정</td>
+<td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%EB%8F%99%ED%98%84/02%EC%A3%BC%EC%B0%A8_2164.py"/>동현</td>
+<td align="center">🏴‍☠️</td>
+</tr>
+
+<tr>
+<td rowspan='4' align="center">Week 03<br/>23/03/11</td>
+<td align="center">💡</td>
+<td align =center colspan=7><a href="https://blog.encrypted.gg/941"/>Algorithm Lecture 0x09 - BFS</a></td>
+</tr>
+
+<tr>
+<td align="center">연습 ⚔️</td>
+<td align="center"><a href="https://www.acmicpc.net/problem/1926"/>그림</td>
+<td align="center">🟢 S1</td>
+<td align="center">BFS</td>
 <td align="center">현호</td>
 <td align="center">현정</td>
 <td align="center">동현</td>
@@ -448,15 +446,25 @@
 
 <tr>
 <td align="center">기본 ⚔️</td>
-<td align="center"><a href="https://www.acmicpc.net/problem/2164"/>카드 2</td>
-<td align="center">🟢 S4</td>
-<td align="center">Queue</td>
+<td align="center"><a href="https://www.acmicpc.net/problem/5427"/>불</td>
+<td align="center">🟡 G4</td>
+<td align="center">BFS</td>
 <td align="center">현호</td>
 <td align="center">현정</td>
 <td align="center">동현</td>
 <td align="center">주현</td>
 </tr>
 
+<tr>
+<td align="center">응용 ⚔️</td>
+<td align="center"><a href="https://www.acmicpc.net/problem/1600"/>말이 되고픈 원숭이</td>
+<td align="center">🟡 G3</td>
+<td align="center">BFS</td>
+<td align="center">현호</td>
+<td align="center">현정</td>
+<td align="center">동현</td>
+<td align="center">주현</td>
+</tr>
 
 </tbody>
 </table>
@@ -471,7 +479,6 @@
   <td colspan=10 align=center><img src="https://readme-typing-svg.herokuapp.com?font=Rubik+80s+Fade&color=F70000FF&size=30&center=true&vCenter=true&width=500&height=35&lines=Team+-+1&duration=1&pause=1000" style="vertical-align:top" width=65%></td>
 </tr>
   </tr> 
-
   <tr>
    <td align="center"><a href="https://github.com/h-beeen"><img src="https://avatars.githubusercontent.com/u/112257466?v=4" width="163px; style="vertical-align:top" alt=""/>
    
@@ -506,45 +513,7 @@
   </tr>
   
 <tr>
-  <td colspan=10 align=center><img src="https://readme-typing-svg.herokuapp.com?font=Rubik+80s+Fade&color=4EADF7FF&size=30&center=true&vCenter=true&width=500&height=35&lines=Team+-+2&duration=1&pause=1000" style="vertical-align:top" width=65%></td>
-</tr>
-
-  <tr>
-   <td align="center"><a href="https://github.com/biisairo"><img src="https://avatars.githubusercontent.com/u/105145669?v=4" width="163px; style="vertical-align:top" alt=""/>
-   
-   <td align="center"><a href="https://github.com/chobinee"><img src="https://avatars.githubusercontent.com/u/58325848?v=4" width="163px;" style="vertical-align:top" alt=""/>
-
-   <td align="center"><a href="https://github.com/Pig30nidaE"><img src="https://avatars.githubusercontent.com/u/79036425?v=44" width="163px;" style="vertical-align:top" alt=""/>
-
-   <td align="center"><a href="https://github.com/soulee-dev"><img src="https://avatars.githubusercontent.com/u/12353597?v=4" width="163px;" style="vertical-align:top" alt=""/>
-  </tr>
-  <tr>
-
-   <td align="center"><a href="https://solved.ac/profile/rlark1224"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rlark1224" style="vertical-align:top" width="163px;" /></a></td>
-
-   <td align="center"><a href="https://solved.ac/profile/tnqls991213"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=tnqls991213" style="vertical-align:top" width="163px;" /></a></td>
-
-   <td align="center"><a href="https://solved.ac/profile/dltkdgy1129"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dltkdgy1129" style="vertical-align:top" width="163px;" /></a></td>
-
-   <td align="center"><a href="https://solved.ac/profile/soulee"/><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=soulee" style="vertical-align:top" width="163px;" /></a></td>
-  </tr>
-
-  <tr>
-  <td align="center"><a href="https://github.com/biisairo"><b>Player 05<br/>👿 동윤 👿</b></a></td>
-  <td align="center"><a href="https://github.com/chobinee"><b>Player 06</br>🐰 수빈 🐰</b></a></td>
-  <td align="center"><a href="https://github.com/Pig30nidaE"><b>Player 07<br/>👀 상효 👀</b></br></a></td>
-  <td align="center"><a href="https://github.com/soulee-dev"><b>Player 08<br/>🐬 소울 🐬</b><br/></a></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://user-images.githubusercontent.com/112257466/210311133-8acbdfe1-b713-4506-828d-e9f7370c5300.png" width="15px"> C</td>
-    <td align="center"><img src="https://user-images.githubusercontent.com/112257466/210311699-6c37f4db-d683-4b2f-8ff0-7d1354d32c61.png" width="15px"/> Python</td>
-    <td align="center"><img src="https://user-images.githubusercontent.com/112257466/210311699-6c37f4db-d683-4b2f-8ff0-7d1354d32c61.png" width="15px"/> Python</td>
-    <td align="center"><img src="https://user-images.githubusercontent.com/112257466/210311699-6c37f4db-d683-4b2f-8ff0-7d1354d32c61.png" width="15px"/> Python</td>
-  </tr>
-
-
-<tr>
-  <td colspan=10 align=center><img src="https://readme-typing-svg.herokuapp.com?font=Rubik+80s+Fade&color=62F724FF&size=30&center=true&vCenter=true&width=500&height=35&lines=Team+-+3&duration=1&pause=1000" style="vertical-align:top" width=65%></td>
+  <td colspan=10 align=center><img src="https://readme-typing-svg.herokuapp.com?font=Rubik+80s+Fade&color=62F724FF&size=30&center=true&vCenter=true&width=500&height=35&lines=Team+-+2&duration=1&pause=1000" style="vertical-align:top" width=65%></td>
 </tr>
 
   <tr>
@@ -570,10 +539,10 @@
   </tr>
 
   <tr>
-  <td align="center"><a href="https://github.com/SWARVY"><b>Player 09<br/>🐶 현호 🐶</b></a></td>
-  <td align="center"><a href="https://github.com/HyeonJeong519"><b>Player 10</br>🦊 현정 🦊</b></a></td>
-  <td align="center"><a href="https://github.com/rheefine"><b>Player 11<br/>🐹 동현 🐹</b></br></a></td>
-  <td align="center"><a href="https://github.com/rnawlsgk"><b>Player 12<br/>🐼 주현 🐼</b><br/></a></td>
+  <td align="center"><a href="https://github.com/SWARVY"><b>Player 05<br/>🐶 현호 🐶</b></a></td>
+  <td align="center"><a href="https://github.com/HyeonJeong519"><b>Player 06</br>🦊 현정 🦊</b></a></td>
+  <td align="center"><a href="https://github.com/rheefine"><b>Player 07<br/>🐹 동현 🐹</b></br></a></td>
+  <td align="center"><a href="https://github.com/rnawlsgk"><b>Player 08<br/>🐼 주현 🐼</b><br/></a></td>
   </tr>
   <tr>
     <td align="center"><img src="https://user-images.githubusercontent.com/112257466/215278105-06ab07f1-ee1e-48e9-af62-0a02cc6d6039.png" width="15px"> JavaScript</td>

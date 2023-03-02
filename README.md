@@ -282,7 +282,7 @@
 <td align="center">🟡 G4</td>
 <td align="center">Dijkstra's</td>
 <td align="center">🏴‍☠️</td>
-<td align="center">🏴‍☠️</td>
+<td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%EC%9D%80%EC%B0%AC/11%EC%A3%BC%EC%B0%A8_1504.java"/>은찬</td>
 <td align="center">🏴‍☠️</td>
 <td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%EC%A7%80%EC%9B%90/11%EC%A3%BC%EC%B0%A8_1504.java"/>지원</td>
 </tr>
@@ -293,7 +293,7 @@
 <td align="center">🟡 G5</td>
 <td align="center">Parsing</td>
 <td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%ED%95%B4%EB%B9%88/11%EC%A3%BC%EC%B0%A8_5430.cpp"/>해빈</td>
-<td align="center">🏴‍☠️</td>
+<td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%EC%9D%80%EC%B0%AC/11%EC%A3%BC%EC%B0%A8_5430.java"/>은찬</td>
 <td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%EC%9B%90%EC%A2%85/11%EC%A3%BC%EC%B0%A8_5430.c"/>원종</td>
 <td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%EC%A7%80%EC%9B%90/11%EC%A3%BC%EC%B0%A8_5430.java"/>지원</td>
 </tr>
@@ -304,8 +304,8 @@
 <td align="center"><a href="https://www.acmicpc.net/problem/2638"/>치즈</td>
 <td align="center">🟡 G3</td>
 <td align="center">BFS</td>
-<td align="center">해빈</td>
-<td align="center">은찬</td>
+<td align="center">🏴‍☠️</td>
+<td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%EC%9D%80%EC%B0%AC/12%2C13%EC%A3%BC%EC%B0%A8_2638.java"/>은찬</td>
 <td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%EC%9B%90%EC%A2%85/12%EC%A3%BC%EC%B0%A8_2638.c"/>원종</td>
 <td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%EC%A7%80%EC%9B%90/12%EC%A3%BC%EC%B0%A8_2638.java"/>지원</td>
 </tr>
@@ -326,8 +326,8 @@
 <td align="center"><a href="https://www.acmicpc.net/problem/18430"/>무기 공학</td>
 <td align="center">🟡 G5</td>
 <td align="center">DFS</td>
-<td align="center">해빈</td>
-<td align="center">은찬</td>
+<td align="center">🏴‍☠️</td>
+<td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%EC%9D%80%EC%B0%AC/12%2C13%EC%A3%BC%EC%B0%A8_18430.java"/>은찬</td>
 <td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%EC%9B%90%EC%A2%85/12%EC%A3%BC%EC%B0%A8_18430.c"/>원종</td>
 <td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%EC%A7%80%EC%9B%90/13%EC%A3%BC%EC%B0%A8_18430.java"/>지원</td>
 </tr>
@@ -337,10 +337,33 @@
 <td align="center"><a href="https://www.acmicpc.net/problem/2447"/>별 찍기 - 10</td>
 <td align="center">🟡 G5</td>
 <td align="center">Recursion</td>
-<td align="center">해빈</td>
-<td align="center">은찬</td>
+<td align="center">🏴‍☠️</td>
+<td align="center">🏴‍☠️</td>
 <td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%EC%9B%90%EC%A2%85/12%EC%A3%BC%EC%B0%A8_2447.c"/>원종</td>
 <td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%EC%A7%80%EC%9B%90/13%EC%A3%BC%EC%B0%A8_2447.java"/>지원</td>
+</tr>
+
+<tr>
+<td rowspan='2' align="center">Week 14<br/>23/03/08</td>
+<td align="center">지원 ⚔️</td>
+<td align="center"><a href="https://www.acmicpc.net/problem/7576"/>토마토</td>
+<td align="center">🟡 G5</td>
+<td align="center">BFS</td>
+<td align="center">해빈</td>
+<td align="center">은찬</td>
+<td align="center">원종</td>
+<td align="center">지원</td>
+</tr>
+
+<tr>
+<td align="center">원종 ⚔️</td>
+<td align="center"><a href="https://www.acmicpc.net/problem/2206"/>벽 부수고 이동하기</td>
+<td align="center">🟡 G3</td>
+<td align="center">BFS</td>
+<td align="center">해빈</td>
+<td align="center">은찬</td>
+<td align="center">원종</td>
+<td align="center">지원</td>
 </tr>
 
 
@@ -363,7 +386,7 @@
 <td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%ED%98%84%ED%98%B8/1%EC%A3%BC%EC%B0%A8_10828.js"/>현호</td>
 <td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%ED%98%84%EC%A0%95/1%EC%A3%BC%EC%B0%A8_10828.java"/>현정</td>
 <td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%EB%8F%99%ED%98%84/1%EC%A3%BC%EC%B0%A8_10828.py"/>동현</td>
-<td align="center">🏴‍☠️</td>
+<td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%EC%B5%9C%EC%A3%BC%ED%98%84/2%EC%A3%BC%EC%B0%A8_10828.java"/>주현</td>
 </tr>
 
 <tr>
@@ -374,7 +397,7 @@
 <td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%ED%98%84%ED%98%B8/1%EC%A3%BC%EC%B0%A8_10773.js"/>현호</td>
 <td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%ED%98%84%EC%A0%95/1%EC%A3%BC%EC%B0%A8_10773.java"/>현정</td>
 <td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%EB%8F%99%ED%98%84/1%EC%A3%BC%EC%B0%A8_10773.py"/>동현</td>
-<td align="center">🏴‍☠️</td>
+<td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%EC%B5%9C%EC%A3%BC%ED%98%84/1%EC%A3%BC%EC%B0%A8_10773.java"/>주현</td>
 </tr>
 
 <tr>
@@ -385,7 +408,7 @@
 <td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%ED%98%84%ED%98%B8/1%EC%A3%BC%EC%B0%A8_2493.js"/>현호</td>
 <td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%ED%98%84%EC%A0%95/1%EC%A3%BC%EC%B0%A8_2493.java"/>현정</td>
 <td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%EB%8F%99%ED%98%84/1%EC%A3%BC%EC%B0%A8_2493.py"/>동현</td>
-<td align="center">🏴‍☠️</td>
+<td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%EC%B5%9C%EC%A3%BC%ED%98%84/1%EC%A3%BC%EC%B0%A8_2493.java"/>주현</td>
 </tr>
 
 <tr>
@@ -402,7 +425,7 @@
 <td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%ED%98%84%ED%98%B8/2%EC%A3%BC%EC%B0%A8_10845.js"/>현호</td>
 <td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%ED%98%84%EC%A0%95/2%EC%A3%BC%EC%B0%A8_10845.java"/>현정</td>
 <td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%EB%8F%99%ED%98%84/02%EC%A3%BC%EC%B0%A8_10845.py"/>동현</td>
-<td align="center">🏴‍☠️</td>
+<td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%EC%B5%9C%EC%A3%BC%ED%98%84/1%EC%A3%BC%EC%B0%A8_10845.java"/>주현</td>
 </tr>
 
 <tr>
@@ -413,7 +436,7 @@
 <td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%ED%98%84%ED%98%B8/2%EC%A3%BC%EC%B0%A8_18258.js"/>현호</td>
 <td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%ED%98%84%EC%A0%95/2%EC%A3%BC%EC%B0%A8_18258.java"/>현정</td>
 <td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%EB%8F%99%ED%98%84/02%EC%A3%BC%EC%B0%A8_18258.py"/>동현</td>
-<td align="center">🏴‍☠️</td>
+<td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%EC%B5%9C%EC%A3%BC%ED%98%84/2%EC%A3%BC%EC%B0%A8_18258.java"/>주현</td>
 </tr>
 
 <tr>
@@ -424,7 +447,7 @@
 <td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%ED%98%84%ED%98%B8/2%EC%A3%BC%EC%B0%A8_2164.js"/>현호</td>
 <td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%ED%98%84%EC%A0%95/2%EC%A3%BC%EC%B0%A8_2164.java"/>현정</td>
 <td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%EB%8F%99%ED%98%84/02%EC%A3%BC%EC%B0%A8_2164.py"/>동현</td>
-<td align="center">🏴‍☠️</td>
+<td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%EC%B5%9C%EC%A3%BC%ED%98%84/2%EC%A3%BC%EC%B0%A8_02164.java"/>주현</td>
 </tr>
 
 <tr>

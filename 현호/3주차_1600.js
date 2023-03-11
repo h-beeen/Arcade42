@@ -1,3 +1,5 @@
+// 말이 되고싶은 원숭이 (미완성)
+
 class Node {
   constructor(item) {
     this.x = item.x;
@@ -96,7 +98,7 @@ const dy_normal = [0, 0, -1, 1];
 const map = [];
 const visited = new Array(move + 1);
 const answer = [];
-let queue = new Queue();
+let queue;
 
 function start() {
   for (let i = 0; i < height; i++) map.push(input[i].split(" ").map(Number));
@@ -110,15 +112,18 @@ function bfs(start) {
     queue = new Queue();
     visited[i] = new Array();
 
-    for (let j = 0; j < height; j++) visited[i].push(new Array(width).fill(0));
+    for (let j = 0; j < height; j++) {
+      visited[i].push(new Array());
+      for (let k = 0; k < width; k++) visited[i][j].push(0);
+    }
     queue.enQueue(start);
+    visited[i][0][0] = 1;
 
     while (queue.getSize()) {
       const node = queue.deQueue();
 
       if (node.x === width - 1 && node.y === height - 1)
         answer.push(node.depth);
-
       if (node.horse < i) {
         for (let j = 0; j < 8; j++) {
           let pos_x = node.x + dx_horse[j];
@@ -139,7 +144,8 @@ function bfs(start) {
 
 function movement(pos_x, pos_y, node, idx, check) {
   if (pos_x < 0 || pos_x >= width || pos_y < 0 || pos_y >= height) return;
-  if (visited[idx][pos_y][pos_x] !== 0 || map[pos_y][pos_x] !== 0) return;
+  if (visited[idx][pos_y][pos_x] || map[pos_y][pos_x] === 1) return;
+
   queue.enQueue({
     x: pos_x,
     y: pos_y,

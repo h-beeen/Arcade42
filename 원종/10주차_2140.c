@@ -47,8 +47,6 @@ void solve(int y, int x)
 					str[ny2][nx2]--;
 			}
 		}
-		else if (str[y][x] == 48 && str[ny][nx] == '#')
-			str[ny][nx] = 'o';
 	}
 }
 
@@ -66,9 +64,8 @@ void	check(int start, int end)
 	}
 	for (int i = start; i <= end; i++)
 	{
-		if (is_num(str[start][i])) {
+		if (is_num(str[start][i]))
 			solve(start, i);
-		}
 		if (is_num(str[i][start]))
 			solve(i, start);
 		if (is_num(str[i][end]))

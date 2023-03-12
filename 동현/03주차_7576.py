@@ -45,4 +45,5 @@ for i in matrix:
     # 행렬에서 가장 큰 값 출력
     result = max(result, max(i))
 
+# 첫날은 카운트에서 제외
 print(result - 1)

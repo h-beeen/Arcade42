@@ -35,8 +35,7 @@ def bfs(x, y):
             ny = y + dy[k]
 
             # 해당 범위 내의 1이 있으면 que에 추가 후 size +1
-            if 0 <= nx < n and 0 <= ny < m:  
-                if matrix[nx][ny]:  
+            if 0 <= nx < n and 0 <= ny < m and matrix[nx][ny] == 1:  
                     que.append([nx, ny])
                     size += 1
                     # 1을 0으로 초기화

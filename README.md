@@ -656,7 +656,7 @@
   <tr>
     <td align="center"><img src="https://user-images.githubusercontent.com/112257466/215278105-06ab07f1-ee1e-48e9-af62-0a02cc6d6039.png" width="15px"> JavaScript</td>
     <td align="center"><img src="https://user-images.githubusercontent.com/112257466/210312477-2c0ad52d-dc9a-4d1a-9d4e-b40f5088d1cb.png" width="12px"/>&nbsp;Java</td>
-    <td align="center"><img src="https://user-images.githubusercontent.com/112257466/215278105-06ab07f1-ee1e-48e9-af62-0a02cc6d6039.png" width="15px"> JavaScript</td>
+   <td align="center"><img src="https://user-images.githubusercontent.com/112257466/210311699-6c37f4db-d683-4b2f-8ff0-7d1354d32c61.png" width="15px"/> Python</td>
     <td align="center"><img src="https://user-images.githubusercontent.com/112257466/210312477-2c0ad52d-dc9a-4d1a-9d4e-b40f5088d1cb.png" width="12px"/>&nbsp;Java</td>
   </tr>
 

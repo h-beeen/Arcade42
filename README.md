@@ -474,16 +474,77 @@
 </tr>
 
 <tr>
-<td rowspan='4' align="center">Week 03<br/>23/03/11</td>
+<td rowspan='6' align="center">Week 03<br/>23/03/11</td>
 <td align="center">💡</td>
 <td align =center colspan=7><a href="https://blog.encrypted.gg/941"/>Algorithm Lecture 0x09 - BFS</a></td>
 </tr>
 
 <tr>
 <td align="center">연습 ⚔️</td>
+<td align="center"><a href="https://www.acmicpc.net/problem/2178"/>미로 탐색</td>
+<td align="center">🟢 S1</td>
+<td align="center">BFS</td>
+<td align="center">🏴‍☠️</td>
+<td align="center">🏴‍☠️</td>
+<td align="center">🏴‍☠️</td>
+<td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%EC%B5%9C%EC%A3%BC%ED%98%84/3%EC%A3%BC%EC%B0%A8_%EC%B6%94%EA%B0%80%ED%92%80%EC%9D%B4_02178.java"/>주현</td>
+</tr>
+
+<tr>
+<td align="center">기본 ⚔️</td>
 <td align="center"><a href="https://www.acmicpc.net/problem/1926"/>그림</td>
 <td align="center">🟢 S1</td>
 <td align="center">BFS</td>
+<td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%ED%98%84%ED%98%B8/3%EC%A3%BC%EC%B0%A8_1926.js"/>현호</td>
+<td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%ED%98%84%EC%A0%95/3%EC%A3%BC%EC%B0%A8_1926.java"/>현정</td>
+<td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%EB%8F%99%ED%98%84/03%EC%A3%BC%EC%B0%A8_1926.py"/>동현</td>
+<td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%EC%B5%9C%EC%A3%BC%ED%98%84/3%EC%A3%BC%EC%B0%A8_01926.java"/>주현</td>
+</tr>
+
+<tr>
+<td align="center">응용 ⚔️</td>
+<td align="center"><a href="https://www.acmicpc.net/problem/5427"/>불</td>
+<td align="center">🟡 G4</td>
+<td align="center">BFS</td>
+<td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%ED%98%84%ED%98%B8/3%EC%A3%BC%EC%B0%A8_5427.js"/>현호</td>
+<td align="center">🏴‍☠️</td>
+<td align="center">🏴‍☠️</td>
+<td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%EC%B5%9C%EC%A3%BC%ED%98%84/3%EC%A3%BC%EC%B0%A8_05427_%EC%8B%A4%ED%8C%A8.java"/>주현</td>
+</tr>
+
+<tr>
+<td align="center">응용 ⚔️</td>
+<td align="center"><a href="https://www.acmicpc.net/problem/7576"/>토마토</td>
+<td align="center">🟡 G5</td>
+<td align="center">BFS</td>
+<td align="center">🏴‍☠️</td>
+<td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%ED%98%84%EC%A0%95/3%EC%A3%BC%EC%B0%A8_7576.java"/>현정</td>
+<td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%EB%8F%99%ED%98%84/03%EC%A3%BC%EC%B0%A8_7576.py"/>동현</td>
+<td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%EC%B5%9C%EC%A3%BC%ED%98%84/3%EC%A3%BC%EC%B0%A8_07576.java"/>주현</td>
+</tr>
+
+<tr>
+<td align="center">Bonus</td>
+<td align="center"><a href="https://www.acmicpc.net/problem/1600"/>말이 되고픈 원숭이</td>
+<td align="center">🟡 G3</td>
+<td align="center">BFS</td>
+<td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%ED%98%84%ED%98%B8/3%EC%A3%BC%EC%B0%A8_1600.js"/>현호</td>
+<td align="center">🏴‍☠️</td>
+<td align="center">🏴‍☠️</td>
+<td align="center">🏴‍☠️</td>
+</tr>
+
+<tr>
+<td rowspan='4' align="center">Week 04<br/>23/03/18</td>
+<td align="center">💡</td>
+<td align =center colspan=7><a href="https://blog.encrypted.gg/945"/>Algorithm Lecture 0x0C - Backtracking</a></td>
+</tr>
+
+<tr>
+<td align="center">연습 ⚔️</td>
+<td align="center"><a href="https://www.acmicpc.net/problem/15649"/>N과 M(1)</td>
+<td align="center">🟢 S3</td>
+<td align="center">Backtracking</td>
 <td align="center">현호</td>
 <td align="center">현정</td>
 <td align="center">동현</td>
@@ -492,9 +553,9 @@
 
 <tr>
 <td align="center">기본 ⚔️</td>
-<td align="center"><a href="https://www.acmicpc.net/problem/5427"/>불</td>
-<td align="center">🟡 G4</td>
-<td align="center">BFS</td>
+<td align="center"><a href="https://www.acmicpc.net/problem/3980"/>선발 명단</td>
+<td align="center">🟡 G5</td>
+<td align="center">Backtracking</td>
 <td align="center">현호</td>
 <td align="center">현정</td>
 <td align="center">동현</td>
@@ -503,14 +564,16 @@
 
 <tr>
 <td align="center">응용 ⚔️</td>
-<td align="center"><a href="https://www.acmicpc.net/problem/1600"/>말이 되고픈 원숭이</td>
-<td align="center">🟡 G3</td>
-<td align="center">BFS</td>
+<td align="center"><a href="https://www.acmicpc.net/problem/9663"/>N-Queen</td>
+<td align="center">🟡 G4</td>
+<td align="center">Backtracking</td>
 <td align="center">현호</td>
 <td align="center">현정</td>
 <td align="center">동현</td>
 <td align="center">주현</td>
 </tr>
+
+
 
 </tbody>
 </table>

@@ -57,6 +57,8 @@ class Queue {
   }
 }
 
+
+
 const fs = require("fs");
 const input = fs.readFileSync("/dev/stdin").toString().trim().split("\n");
 const command_amount = input.shift();

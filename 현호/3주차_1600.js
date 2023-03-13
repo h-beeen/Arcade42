@@ -1,5 +1,3 @@
-// 말이 되고싶은 원숭이 (미완성)
-
 class Node {
   constructor(item) {
     this.x = item.x;
@@ -114,10 +112,13 @@ function bfs(start) {
 
     for (let j = 0; j < height; j++) {
       visited[i].push(new Array());
-      for (let k = 0; k < width; k++) visited[i][j].push(0);
+      for (let k = 0; k < width; k++) {
+        const initial_axis = { normal: 0, horse: 0 };
+        visited[i][j].push(initial_axis);
+      }
     }
     queue.enQueue(start);
-    visited[i][0][0] = 1;
+    visited[i][0][0] = { normal: 0, horse: 0 };
 
     while (queue.getSize()) {
       const node = queue.deQueue();
@@ -129,6 +130,8 @@ function bfs(start) {
           let pos_x = node.x + dx_horse[j];
           let pos_y = node.y + dy_horse[j];
 
+          if (pos_x < 0 || pos_x >= width || pos_y < 0 || pos_y >= height)
+            continue;
           movement(pos_x, pos_y, node, i, 1);
         }
       }
@@ -136,6 +139,8 @@ function bfs(start) {
         let pos_x = node.x + dx_normal[j];
         let pos_y = node.y + dy_normal[j];
 
+        if (pos_x < 0 || pos_x >= width || pos_y < 0 || pos_y >= height)
+          continue;
         movement(pos_x, pos_y, node, i, 0);
       }
     }
@@ -143,8 +148,11 @@ function bfs(start) {
 }
 
 function movement(pos_x, pos_y, node, idx, check) {
-  if (pos_x < 0 || pos_x >= width || pos_y < 0 || pos_y >= height) return;
-  if (visited[idx][pos_y][pos_x] || map[pos_y][pos_x] === 1) return;
+  const pos_curr = visited[idx][pos_y][pos_x];
+
+  if (idx) console.log(check, node, visited[idx][pos_y][pos_x]);
+  if (map[pos_y][pos_x]) return;
+  if ((pos_curr.normal && !check) || (pos_curr.horse && check)) return;
 
   queue.enQueue({
     x: pos_x,
@@ -152,7 +160,8 @@ function movement(pos_x, pos_y, node, idx, check) {
     horse: node.horse + check,
     depth: node.depth + 1,
   });
-  visited[idx][pos_y][pos_x] = 1;
+  if (check) visited[idx][pos_y][pos_x].horse = 1;
+  else visited[idx][pos_y][pos_x].normal = 1;
 }
 
 start();

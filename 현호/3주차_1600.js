@@ -1,3 +1,8 @@
+/*
+  [3주차] 말이 되고싶은 원숭이 코드입니다
+  아직 미완성이기에 피드백 주실 필요 없습니다/
+*/
+
 class Node {
   constructor(item) {
     this.x = item.x;

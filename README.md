@@ -385,7 +385,7 @@
 <td align="center">DP</td>
 <td align="center">🏴‍☠️</td>
 <td align="center">🏴‍☠️</td>
-<td align="center">원종</td>
+<td align="center"><a href="./원종/2591.c"</td>
 <td align="center">🏴‍☠️</td>
 </tr>
 

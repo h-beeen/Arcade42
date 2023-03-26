@@ -367,15 +367,15 @@
 </tr>
 
 <tr>
-<td rowspan='2' align="center">Week 15<br/>23/03/15</td>
+<td rowspan='2' align="center">Week 15<br/>23/03/19</td>
 <td align="center">은찬 ⚔️</td>
 <td align="center"><a href="https://www.acmicpc.net/problem/4991"/>로봇 청소기</td>
-<td align="center">🟡 G5</td>
-<td align="center">BFS</td>
-<td align="center">해빈</td>
-<td align="center">은찬</td>
-<td align="center">원종</td>
-<td align="center">지원</td>
+<td align="center">🟡 G2</td>
+<td align="center">Simulation</td>
+<td align="center">🏴‍☠️</td>
+<td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%EC%9D%80%EC%B0%AC/15%EC%A3%BC%EC%B0%A8_4991.java"/>은찬</td>
+<td align="center">🏴‍☠️</td>
+<td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%EC%A7%80%EC%9B%90/15%EC%A3%BC%EC%B0%A8_4991.java"/>지원</td>
 </tr>
 
 <tr>
@@ -383,9 +383,33 @@
 <td align="center"><a href="https://www.acmicpc.net/problem/2591">숫자카드</td>
 <td align="center">🟡 G5</td>
 <td align="center">DP</td>
+<td align="center">🏴‍☠️</td>
+<td align="center">🏴‍☠️</td>
+<td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%EC%9B%90%EC%A2%85/15%EC%A3%BC%EC%B0%A8_2591.c">원종</td>
+<td align="center">🏴‍☠️</td>
+</tr>
+
+
+<tr>
+<td rowspan='2' align="center">Week 16<br/>23/03/26</td>
+<td align="center">원종 ⚔️</td>
+<td align="center"><a href="https://www.acmicpc.net/problem/2229"/>조 짜기</td>
+<td align="center">🟡 G5</td>
+<td align="center">DP</td>
+<td align="center">🏴‍☠️</td>
+<td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%EC%9D%80%EC%B0%AC/16%EC%A3%BC%EC%B0%A8_2229.java"/>은찬</td>
+<td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%EC%9B%90%EC%A2%85/16%EC%A3%BC%EC%B0%A8_2229.c"/>원종</td>
+<td align="center">지원</td>
+</tr>
+
+<tr>
+<td align="center">해빈 ⚔️</td>
+<td align="center"><a href="https://www.acmicpc.net/problem/2589">보물섬</td>
+<td align="center">🟡 G5</td>
+<td align="center">BFS</td>
 <td align="center">해빈</td>
-<td align="center">은찬</td>
-<td align="center">원종</td>
+<td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%EC%9D%80%EC%B0%AC/16%EC%A3%BC%EC%B0%A8_2589.java"/>은찬</td>
+<td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%EC%9B%90%EC%A2%85/16%EC%A3%BC%EC%B0%A8_2589.c"/>원종</td>
 <td align="center">지원</td>
 </tr>
 
@@ -474,16 +498,116 @@
 </tr>
 
 <tr>
-<td rowspan='4' align="center">Week 03<br/>23/03/11</td>
+<td rowspan='6' align="center">Week 03<br/>23/03/11</td>
 <td align="center">💡</td>
 <td align =center colspan=7><a href="https://blog.encrypted.gg/941"/>Algorithm Lecture 0x09 - BFS</a></td>
 </tr>
 
 <tr>
 <td align="center">연습 ⚔️</td>
+<td align="center"><a href="https://www.acmicpc.net/problem/2178"/>미로 탐색</td>
+<td align="center">🟢 S1</td>
+<td align="center">BFS</td>
+<td align="center">🏴‍☠️</td>
+<td align="center">🏴‍☠️</td>
+<td align="center">🏴‍☠️</td>
+<td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%EC%B5%9C%EC%A3%BC%ED%98%84/3%EC%A3%BC%EC%B0%A8_%EC%B6%94%EA%B0%80%ED%92%80%EC%9D%B4_02178.java"/>주현</td>
+</tr>
+
+<tr>
+<td align="center">기본 ⚔️</td>
 <td align="center"><a href="https://www.acmicpc.net/problem/1926"/>그림</td>
 <td align="center">🟢 S1</td>
 <td align="center">BFS</td>
+<td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%ED%98%84%ED%98%B8/3%EC%A3%BC%EC%B0%A8_1926.js"/>현호</td>
+<td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%ED%98%84%EC%A0%95/3%EC%A3%BC%EC%B0%A8_1926.java"/>현정</td>
+<td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%EB%8F%99%ED%98%84/03%EC%A3%BC%EC%B0%A8_1926.py"/>동현</td>
+<td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%EC%B5%9C%EC%A3%BC%ED%98%84/3%EC%A3%BC%EC%B0%A8_01926.java"/>주현</td>
+</tr>
+
+<tr>
+<td align="center">응용 ⚔️</td>
+<td align="center"><a href="https://www.acmicpc.net/problem/5427"/>불</td>
+<td align="center">🟡 G4</td>
+<td align="center">BFS</td>
+<td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%ED%98%84%ED%98%B8/3%EC%A3%BC%EC%B0%A8_5427.js"/>현호</td>
+<td align="center">🏴‍☠️</td>
+<td align="center">🏴‍☠️</td>
+<td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%EC%B5%9C%EC%A3%BC%ED%98%84/3%EC%A3%BC%EC%B0%A8_05427_%EC%8B%A4%ED%8C%A8.java"/>주현</td>
+</tr>
+
+<tr>
+<td align="center">응용 ⚔️</td>
+<td align="center"><a href="https://www.acmicpc.net/problem/7576"/>토마토</td>
+<td align="center">🟡 G5</td>
+<td align="center">BFS</td>
+<td align="center">🏴‍☠️</td>
+<td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%ED%98%84%EC%A0%95/3%EC%A3%BC%EC%B0%A8_7576.java"/>현정</td>
+<td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%EB%8F%99%ED%98%84/03%EC%A3%BC%EC%B0%A8_7576.py"/>동현</td>
+<td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%EC%B5%9C%EC%A3%BC%ED%98%84/3%EC%A3%BC%EC%B0%A8_07576.java"/>주현</td>
+</tr>
+
+<tr>
+<td align="center">Bonus</td>
+<td align="center"><a href="https://www.acmicpc.net/problem/1600"/>말이 되고픈 원숭이</td>
+<td align="center">🟡 G3</td>
+<td align="center">BFS</td>
+<td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%ED%98%84%ED%98%B8/3%EC%A3%BC%EC%B0%A8_1600.js"/>현호</td>
+<td align="center">🏴‍☠️</td>
+<td align="center">🏴‍☠️</td>
+<td align="center">🏴‍☠️</td>
+</tr>
+
+<tr>
+<td rowspan='4' align="center">Week 04<br/>23/03/18</td>
+<td align="center">💡</td>
+<td align =center colspan=7><a href="https://blog.encrypted.gg/945"/>Algorithm Lecture 0x0C - Backtracking</a></td>
+</tr>
+
+<tr>
+<td align="center">연습 ⚔️</td>
+<td align="center"><a href="https://www.acmicpc.net/problem/15649"/>N과 M(1)</td>
+<td align="center">🟢 S3</td>
+<td align="center">Backtracking</td>
+<td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%ED%98%84%ED%98%B8/4%EC%A3%BC%EC%B0%A8_15649.js"/>현호</td>
+<td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%ED%98%84%EC%A0%95/4%EC%A3%BC%EC%B0%A8_15649.java"/>현정</td>
+<td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%EB%8F%99%ED%98%84/04%EC%A3%BC%EC%B0%A8_15649.py"/>동현</td>
+<td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%EC%B5%9C%EC%A3%BC%ED%98%84/4%EC%A3%BC%EC%B0%A8_05649.java"/>주현</td>
+</tr>
+
+<tr>
+<td align="center">기본 ⚔️</td>
+<td align="center"><a href="https://www.acmicpc.net/problem/3980"/>선발 명단</td>
+<td align="center">🟡 G5</td>
+<td align="center">Backtracking</td>
+<td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%ED%98%84%ED%98%B8/4%EC%A3%BC%EC%B0%A8_3980.js"/>현호</td>
+<td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%ED%98%84%EC%A0%95/4%EC%A3%BC%EC%B0%A8_3980.java"/>현정</td>
+<td align="center">🏴‍☠️</td>
+<td align="center">🏴‍☠️</td>
+</tr>
+
+<tr>
+<td align="center">응용 ⚔️</td>
+<td align="center"><a href="https://www.acmicpc.net/problem/9663"/>N-Queen</td>
+<td align="center">🟡 G4</td>
+<td align="center">Backtracking</td>
+<td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%ED%98%84%ED%98%B8/4%EC%A3%BC%EC%B0%A8_9663.js"/>현호</td>
+<td align="center">🏴‍☠️</td>
+<td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%EB%8F%99%ED%98%84/04%EC%A3%BC%EC%B0%A8_9663.py"/>동현</td>
+<td align="center">🏴‍☠️</td>
+</tr>
+
+<tr>
+<td rowspan='4' align="center">Week 05<br/>23/03/26</td>
+<td align="center">💡</td>
+<td align =center colspan=7><a href="https://blog.encrypted.gg/975"/>Algorithm Lecture 0x11 - Greedy</a></td>
+</tr>
+
+<tr>
+<td align="center">연습 ⚔️</td>
+<td align="center"><a href="https://www.acmicpc.net/problem/11047"/>동전 0</td>
+<td align="center">🟢 S4</td>
+<td align="center">Greedy</td>
 <td align="center">현호</td>
 <td align="center">현정</td>
 <td align="center">동현</td>
@@ -492,9 +616,9 @@
 
 <tr>
 <td align="center">기본 ⚔️</td>
-<td align="center"><a href="https://www.acmicpc.net/problem/5427"/>불</td>
-<td align="center">🟡 G4</td>
-<td align="center">BFS</td>
+<td align="center"><a href="https://www.acmicpc.net/problem/11399"/>ATM</td>
+<td align="center">🟢 S4</td>
+<td align="center">Greedy</td>
 <td align="center">현호</td>
 <td align="center">현정</td>
 <td align="center">동현</td>
@@ -503,9 +627,9 @@
 
 <tr>
 <td align="center">응용 ⚔️</td>
-<td align="center"><a href="https://www.acmicpc.net/problem/1600"/>말이 되고픈 원숭이</td>
-<td align="center">🟡 G3</td>
-<td align="center">BFS</td>
+<td align="center"><a href="https://www.acmicpc.net/problem/2170"/>선 긋기</td>
+<td align="center">🟡 G5</td>
+<td align="center">Greedy</td>
 <td align="center">현호</td>
 <td align="center">현정</td>
 <td align="center">동현</td>
@@ -593,7 +717,7 @@
   <tr>
     <td align="center"><img src="https://user-images.githubusercontent.com/112257466/215278105-06ab07f1-ee1e-48e9-af62-0a02cc6d6039.png" width="15px"> JavaScript</td>
     <td align="center"><img src="https://user-images.githubusercontent.com/112257466/210312477-2c0ad52d-dc9a-4d1a-9d4e-b40f5088d1cb.png" width="12px"/>&nbsp;Java</td>
-    <td align="center"><img src="https://user-images.githubusercontent.com/112257466/215278105-06ab07f1-ee1e-48e9-af62-0a02cc6d6039.png" width="15px"> JavaScript</td>
+   <td align="center"><img src="https://user-images.githubusercontent.com/112257466/210311699-6c37f4db-d683-4b2f-8ff0-7d1354d32c61.png" width="15px"/> Python</td>
     <td align="center"><img src="https://user-images.githubusercontent.com/112257466/210312477-2c0ad52d-dc9a-4d1a-9d4e-b40f5088d1cb.png" width="12px"/>&nbsp;Java</td>
   </tr>
 

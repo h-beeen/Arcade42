@@ -407,7 +407,7 @@
 <td align="center"><a href="https://www.acmicpc.net/problem/2589">보물섬</td>
 <td align="center">🟡 G5</td>
 <td align="center">BFS</td>
-<td align="center">해빈</td>
+<td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%ED%95%B4%EB%B9%88/16%EC%A3%BC%EC%B0%A8_2589.cpp"/>해빈</td>
 <td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%EC%9D%80%EC%B0%AC/16%EC%A3%BC%EC%B0%A8_2589.java"/>은찬</td>
 <td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%EC%9B%90%EC%A2%85/16%EC%A3%BC%EC%B0%A8_2589.c"/>원종</td>
 <td align="center">지원</td>

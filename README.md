@@ -304,7 +304,7 @@
 <td align="center"><a href="https://www.acmicpc.net/problem/2638"/>치즈</td>
 <td align="center">🟡 G3</td>
 <td align="center">BFS</td>
-<td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%ED%95%B4%EB%B9%88/12%EC%A3%BC%EC%B0%A8_2638.cpp"/></td>
+<td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%ED%95%B4%EB%B9%88/12%EC%A3%BC%EC%B0%A8_2638.cpp"/>해빈</td>
 <td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%EC%9D%80%EC%B0%AC/12%2C13%EC%A3%BC%EC%B0%A8_2638.java"/>은찬</td>
 <td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%EC%9B%90%EC%A2%85/12%EC%A3%BC%EC%B0%A8_2638.c"/>원종</td>
 <td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%EC%A7%80%EC%9B%90/12%EC%A3%BC%EC%B0%A8_2638.java"/>지원</td>
@@ -726,7 +726,7 @@
 
    <td align="center"><a href="https://solved.ac/profile/namhm23"/><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=namhm23" style="vertical-align:top" width="163px;" /></a></td>
 
-   <td align="center"><a href="https://solved.ac/profile/eofrka"/><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=eofrka" style="vertical-align:top" width="163px;" /></a></td>
+   <td align="center"><a href="https://solved.ac/profile/1jonge"/><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=1jonge" style="vertical-align:top" width="163px;" /></a></td>
 
    <td align="center"><a href="https://solved.ac/profile/sjiwon"/><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=sjiwon" style="vertical-align:top" width="163px;" /></a></td>
   </tr>

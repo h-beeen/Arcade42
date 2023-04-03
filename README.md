@@ -418,7 +418,7 @@
 <td align="center">해빈 ⚔️</td>
 <td align="center"><a href="https://www.acmicpc.net/problem/16933"/>벽 부수고 이동하기 3</td>
 <td align="center">🟠 G1</td>
-<td align="center">Embargo</td>
+<td align="center">BFS</td>
 <td align="center">해빈</td>
 <td align="center">은찬</td>
 <td align="center">원종</td>
@@ -429,12 +429,58 @@
 <td align="center">은찬 ⚔️</td>
 <td align="center"><a href="https://www.acmicpc.net/problem/3190">뱀</td>
 <td align="center">🟡 G4</td>
+<td align="center">DataStructure</td>
+<td align="center">해빈</td>
+<td align="center">은찬</td>
+<td align="center">원종</td>
+<td align="center">지원</td>
+</tr>
+
+<tr>
+<td rowspan='2' align="center">Week 18<br/>23/04/09</td>
+<td align="center">원종 ⚔️</td>
+<td align="center"><a href="https://www.acmicpc.net/problem/16933"/>미정</td>
+<td align="center">🟡 G5</td>
 <td align="center">Embargo</td>
 <td align="center">해빈</td>
 <td align="center">은찬</td>
 <td align="center">원종</td>
 <td align="center">지원</td>
 </tr>
+
+<tr>
+<td align="center">지원 ⚔️</td>
+<td align="center"><a href="https://www.acmicpc.net/problem/3190">미정</td>
+<td align="center">🟡 G5</td>
+<td align="center">Embargo</td>
+<td align="center">해빈</td>
+<td align="center">은찬</td>
+<td align="center">원종</td>
+<td align="center">지원</td>
+</tr>
+
+<!-- <tr>
+<td rowspan='2' align="center">Week 17<br/>23/04/02</td>
+<td align="center">해빈 ⚔️</td>
+<td align="center"><a href="https://www.acmicpc.net/problem/16933"/>벽 부수고 이동하기 3</td>
+<td align="center">🟠 G1</td>
+<td align="center">BFS</td>
+<td align="center">해빈</td>
+<td align="center">은찬</td>
+<td align="center">원종</td>
+<td align="center">지원</td>
+</tr>
+
+<tr>
+<td align="center">은찬 ⚔️</td>
+<td align="center"><a href="https://www.acmicpc.net/problem/3190">뱀</td>
+<td align="center">🟡 G4</td>
+<td align="center">DataStructure</td>
+<td align="center">해빈</td>
+<td align="center">은찬</td>
+<td align="center">원종</td>
+<td align="center">지원</td>
+</tr> -->
 
 
 <!-- 여기부터 3팀 -->
@@ -659,8 +705,13 @@
 <td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%EC%B5%9C%EC%A3%BC%ED%98%84/5%EC%A3%BC%EC%B0%A8_02170.java"/>주현</td>
 </tr>
 
+
 <tr>
-<td rowspan='4' align="center">Week 06<br/>23/04/26</td>
+<td colspan=9 align="center"><b>Anti Gravity Unit [AGU]</b></br>휴식 중! 한 달 뒤에 만나요!</td>
+</tr>
+
+<tr>
+<td rowspan='4' align="center">Week 06<br/>23/04/30</td>
 <td align="center">💡</td>
 <td align =center colspan=7><a href="https://blog.encrypted.gg/974"/>Algorithm Lecture 0x10 - Dynamic Programming [DP]</a></td>
 </tr>

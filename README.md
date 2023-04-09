@@ -730,7 +730,7 @@
 
 
 <tr>
-<td colspan=9 align="center"><b>💤</br>Anti Gravity Unit</br></b>(2023. 04. 29)</td>
+<td colspan=9 align="center"><b>💤</br>Anti Gravity Unit</br></b>( ~ 2023. 04. 29 )</td>
 </tr>
 
 <tr>

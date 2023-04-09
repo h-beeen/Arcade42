@@ -453,7 +453,7 @@
 <td align="center"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/42628">이중우선순위큐</td>
 <td align="center">🟡 Lv.3</td>
 <td align="center">Heap / Queue</td>
-<td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%ED%95%B4%EB%B9%88/18%EC%A3%BC%EC%B0%A8_P42628.cpp"/>🏴‍☠️</td>
+<td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%ED%95%B4%EB%B9%88/18%EC%A3%BC%EC%B0%A8_P42628.cpp"/></td>
 <td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%EC%9D%80%EC%B0%AC/18%EC%A3%BC%EC%B0%A8_P42628.java"/>은찬</td>
 <td align="center">🏴‍☠️</td>
 <td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%EC%A7%80%EC%9B%90/18%EC%A3%BC%EC%B0%A8_P42628.java"/>지원</td>

@@ -443,7 +443,7 @@
 <td align="center">🟡 G2</td>
 <td align="center">DFS</td>
 <td align="center">🏴‍☠️</td>
-<td align="center">은찬</td>
+<td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%EC%9D%80%EC%B0%AC/18%EC%A3%BC%EC%B0%A8_1167.java"/>은찬</td>
 <td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%EC%9B%90%EC%A2%85/18%EC%A3%BC%EC%B0%A8_1167.c"/>원종</td>
 <td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%EC%A7%80%EC%9B%90/18%EC%A3%BC%EC%B0%A8_1167.java"/>지원</td>
 </tr>

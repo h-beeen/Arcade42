@@ -730,7 +730,7 @@
 
 
 <tr>
-<td colspan=9 align="center"><b>Anti Gravity Unit [AGU]</b></br>💤 휴식 중! 한 달 뒤에 만나요! 💤</td>
+<td colspan=9 align="center"><b>💤</bR>AGU</b></td>
 </tr>
 
 <tr>

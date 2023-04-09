@@ -465,7 +465,7 @@
 <td align="center"><a href="https://www.acmicpc.net/problem/17135"/>캐슬 디펜스</td>
 <td align="center">🟡 G3</td>
 <td align="center">Simulation</td>
-<td rowspan=2 align="center"><b>💤</br>AGU</b></br></td>
+<td rowspan=2 align="center"><b>💤</br>Anti Gravity Unit</br></b>(2023. 04. 29)</td>
 <td align="center">은찬</td>
 <td align="center">원종</td>
 <td align="center">지원</td>

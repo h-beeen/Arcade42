@@ -465,7 +465,50 @@
 <td align="center"><a href="https://www.acmicpc.net/problem/17135"/>캐슬 디펜스</td>
 <td align="center">🟡 G3</td>
 <td align="center">Simulation</td>
-<td rowspan=2 align="center"><b>💤</br>AGU</b></br></td>
+<td rowspan=4 align="center"><b>💤</br>AGU</b></br></td>
+<td align="center">은찬</td>
+<td align="center">원종</td>
+<td align="center">지원</td>
+</tr>
+
+<tr>
+<td align="center">원종 ⚔️</td>
+<td align="center"><a href="https://www.acmicpc.net/problem/3190">할일 정하기 1</td>
+<td align="center">🟠 G1</td>
+<td align="center">DP</td>
+<td align="center">은찬</td>
+<td align="center">원종</td>
+<td align="center">지원</td>
+</tr>
+
+<tr>
+<td rowspan='2' align="center">Week 20<br/>23/04/23</td>
+<td align="center">지원 ⚔️</td>
+<td align="center"><a href="https://www.acmicpc.net/problem/19238"/>스타트 택시</td>
+<td align="center">🟡 G2</td>
+<td align="center">BFS</td>
+<td align="center">은찬</td>
+<td align="center">원종</td>
+<td align="center">지원</td>
+</tr>
+
+<tr>
+<td align="center">지원 ⚔️</td>
+<td align="center"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/86971">전력망을 둘로 나누기</td>
+<td align="center">🟡 Lv.3</td>
+<td align="center">Tree</td>
+<td align="center">은찬</td>
+<td align="center">원종</td>
+<td align="center">지원</td>
+</tr>
+
+<tr>
+<td rowspan='2' align="center">Week 21<br/>23/05/07</td>
+<td align="center">해빈 ⚔️</td>
+<td align="center"><a href="https://www.acmicpc.net/problem/2573"/>빙산</td>
+<td align="center">🟡 G4</td>
+<td align="center">BFS</td>
+<td align="center">해빈</td>
 <td align="center">은찬</td>
 <td align="center">원종</td>
 <td align="center">지원</td>
@@ -473,9 +516,10 @@
 
 <tr>
 <td align="center">은찬 ⚔️</td>
-<td align="center"><a href="https://www.acmicpc.net/problem/3190">뱀</td>
+<td align="center"><a href="https://www.acmicpc.net/problem/13913">숨바꼭질 4</td>
 <td align="center">🟡 G4</td>
-<td align="center">DataStructure</td>
+<td align="center">BFS</td>
+<td align="center">해빈</td>
 <td align="center">은찬</td>
 <td align="center">원종</td>
 <td align="center">지원</td>

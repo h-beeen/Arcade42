@@ -188,7 +188,7 @@
 <td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%ED%95%B4%EB%B9%88/7%EC%A3%BC%EC%B0%A8_10026.cpp"/>해빈</td>
 <td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%EC%9D%80%EC%B0%AC/7%EC%A3%BC%EC%B0%A8_10026.java"/>은찬</td>
 <td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%EC%9B%90%EC%A2%85/7%EC%A3%BC%EC%B0%A8_10026.c"/>원종</td>
-<td rowspan='5' align="center">⚓</td>
+<td rowspan='5' align="center"><b>💤</br>AGU</b></td>
 </tr>
 <tr>
 <td align="center">원종 ⚔️</td>
@@ -443,8 +443,8 @@
 <td align="center">🟡 G2</td>
 <td align="center">DFS</td>
 <td align="center">🏴‍☠️</td>
-<td align="center">은찬</td>
-<td align="center">원종</td>
+<td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%EC%9D%80%EC%B0%AC/18%EC%A3%BC%EC%B0%A8_1167.java"/>은찬</td>
+<td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%EC%9B%90%EC%A2%85/18%EC%A3%BC%EC%B0%A8_1167.c"/>원종</td>
 <td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%EC%A7%80%EC%9B%90/18%EC%A3%BC%EC%B0%A8_1167.java"/>지원</td>
 </tr>
 
@@ -453,10 +453,76 @@
 <td align="center"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/42628">이중우선순위큐</td>
 <td align="center">🟡 Lv.3</td>
 <td align="center">Heap / Queue</td>
+<td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%ED%95%B4%EB%B9%88/18%EC%A3%BC%EC%B0%A8_P42628.cpp"/>해빈</td>
+<td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%EC%9D%80%EC%B0%AC/18%EC%A3%BC%EC%B0%A8_P42628.java"/>은찬</td>
 <td align="center">🏴‍☠️</td>
+<td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%EC%A7%80%EC%9B%90/18%EC%A3%BC%EC%B0%A8_P42628.java"/>지원</td>
+</tr>
+
+<tr>
+<td rowspan='2' align="center">Week 19<br/>23/04/16</td>
+<td align="center">은찬 ⚔️</td>
+<td align="center"><a href="https://www.acmicpc.net/problem/17135"/>캐슬 디펜스</td>
+<td align="center">🟡 G3</td>
+<td align="center">Simulation</td>
+<td rowspan=4 align="center"><b>💤</br>AGU</b></br></td>
 <td align="center">은찬</td>
 <td align="center">원종</td>
-<td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%EC%A7%80%EC%9B%90/18%EC%A3%BC%EC%B0%A8_P42628.java"/>지원</td>
+<td align="center">지원</td>
+</tr>
+
+<tr>
+<td align="center">원종 ⚔️</td>
+<td align="center"><a href="https://www.acmicpc.net/problem/3190">할일 정하기 1</td>
+<td align="center">🟠 G1</td>
+<td align="center">DP</td>
+<td align="center">은찬</td>
+<td align="center">원종</td>
+<td align="center">지원</td>
+</tr>
+
+<tr>
+<td rowspan='2' align="center">Week 20<br/>23/04/23</td>
+<td align="center">지원 ⚔️</td>
+<td align="center"><a href="https://www.acmicpc.net/problem/19238"/>스타트 택시</td>
+<td align="center">🟡 G2</td>
+<td align="center">BFS</td>
+<td align="center">은찬</td>
+<td align="center">원종</td>
+<td align="center">지원</td>
+</tr>
+
+<tr>
+<td align="center">지원 ⚔️</td>
+<td align="center"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/86971">전력망을 둘로 나누기</td>
+<td align="center">🟡 Lv.3</td>
+<td align="center">Tree</td>
+<td align="center">은찬</td>
+<td align="center">원종</td>
+<td align="center">지원</td>
+</tr>
+
+<tr>
+<td rowspan='2' align="center">Week 21<br/>23/05/07</td>
+<td align="center">해빈 ⚔️</td>
+<td align="center"><a href="https://www.acmicpc.net/problem/2573"/>빙산</td>
+<td align="center">🟡 G4</td>
+<td align="center">BFS</td>
+<td align="center">해빈</td>
+<td align="center">은찬</td>
+<td align="center">원종</td>
+<td align="center">지원</td>
+</tr>
+
+<tr>
+<td align="center">은찬 ⚔️</td>
+<td align="center"><a href="https://www.acmicpc.net/problem/13913">숨바꼭질 4</td>
+<td align="center">🟡 G4</td>
+<td align="center">BFS</td>
+<td align="center">해빈</td>
+<td align="center">은찬</td>
+<td align="center">원종</td>
+<td align="center">지원</td>
 </tr>
 
 <!-- <tr>
@@ -481,6 +547,7 @@
 <td align="center">원종</td>
 <td align="center">지원</td>
 </tr> -->
+
 
 
 <!-- 여기부터 3팀 -->
@@ -707,7 +774,7 @@
 
 
 <tr>
-<td colspan=9 align="center"><b>Anti Gravity Unit [AGU]</b></br>휴식 중! 한 달 뒤에 만나요!</td>
+<td colspan=9 align="center"><b>💤</br>Anti Gravity Unit</br></b>( ~ 2023. 04. 29 )</td>
 </tr>
 
 <tr>

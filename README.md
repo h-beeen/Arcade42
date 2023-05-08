@@ -466,19 +466,19 @@
 <td align="center">🟡 G3</td>
 <td align="center">Simulation</td>
 <td rowspan=4 align="center"><b>💤</br>AGU</b></br></td>
-<td align="center">은찬</td>
-<td align="center">원종</td>
-<td align="center">지원</td>
+<td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%EC%9D%80%EC%B0%AC/19%EC%A3%BC%EC%B0%A8_17135.java"/>은찬</td>
+<td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%EC%9B%90%EC%A2%85/19%EC%A3%BC%EC%B0%A8_17135.c"/>원종</td>
+<td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%EC%A7%80%EC%9B%90/19%EC%A3%BC%EC%B0%A8_17135.java"/>지원</td>
 </tr>
 
 <tr>
 <td align="center">원종 ⚔️</td>
-<td align="center"><a href="https://www.acmicpc.net/problem/3190">할일 정하기 1</td>
+<td align="center"><a href="https://www.acmicpc.net/problem/1311">할일 정하기 1</td>
 <td align="center">🟠 G1</td>
 <td align="center">DP</td>
-<td align="center">은찬</td>
-<td align="center">원종</td>
-<td align="center">지원</td>
+<td align="center">🏴‍☠️</td>
+<td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%EC%9B%90%EC%A2%85/19%EC%A3%BC%EC%B0%A8_1311.c"/>원종</td>
+<td align="center">🏴‍☠️</td>
 </tr>
 
 <tr>
@@ -487,9 +487,9 @@
 <td align="center"><a href="https://www.acmicpc.net/problem/19238"/>스타트 택시</td>
 <td align="center">🟡 G2</td>
 <td align="center">BFS</td>
-<td align="center">은찬</td>
-<td align="center">원종</td>
-<td align="center">지원</td>
+<td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%EC%9D%80%EC%B0%AC/20%EC%A3%BC%EC%B0%A8_19238.java"/>은찬</td>
+<td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%EC%9B%90%EC%A2%85/20%EC%A3%BC%EC%B0%A8_19238.c"/>원종</td>
+<td align="center">🏴‍☠️</td>
 </tr>
 
 <tr>
@@ -497,9 +497,9 @@
 <td align="center"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/86971">전력망을 둘로 나누기</td>
 <td align="center">🟡 Lv.3</td>
 <td align="center">Tree</td>
-<td align="center">은찬</td>
-<td align="center">원종</td>
-<td align="center">지원</td>
+<td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%EC%9D%80%EC%B0%AC/20%EC%A3%BC%EC%B0%A8_P86971.java"/>은찬</td>
+<td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%EC%9B%90%EC%A2%85/20%EC%A3%BC%EC%B0%A8_P86931.c"/>원종</td>
+<td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%EC%A7%80%EC%9B%90/20%EC%A3%BC%EC%B0%A8_P86971.java"/>지원</td>
 </tr>
 
 <tr>
@@ -510,8 +510,8 @@
 <td align="center">BFS</td>
 <td align="center">해빈</td>
 <td align="center">은찬</td>
-<td align="center">원종</td>
-<td align="center">지원</td>
+<td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%EC%9B%90%EC%A2%85/21%EC%A3%BC%EC%B0%A8_2573.c"/>원종</td>
+<td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%EC%A7%80%EC%9B%90/21%EC%A3%BC%EC%B0%A8_2573.java"/>지원</td>
 </tr>
 
 <tr>
@@ -521,8 +521,8 @@
 <td align="center">BFS</td>
 <td align="center">해빈</td>
 <td align="center">은찬</td>
-<td align="center">원종</td>
-<td align="center">지원</td>
+<td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%EC%9B%90%EC%A2%85/21%EC%A3%BC%EC%B0%A8_13913.c"/>원종</td>
+<td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%EC%A7%80%EC%9B%90/21%EC%A3%BC%EC%B0%A8_13913.java"/>지원</td>
 </tr>
 
 <!-- <tr>

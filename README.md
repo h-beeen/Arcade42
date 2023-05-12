@@ -508,7 +508,7 @@
 <td align="center"><a href="https://www.acmicpc.net/problem/2573"/>빙산</td>
 <td align="center">🟡 G4</td>
 <td align="center">BFS</td>
-<td align="center">해빈</td>
+<td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%ED%95%B4%EB%B9%88/21%EC%A3%BC%EC%B0%A8_2163.cpp"/>해빈</td>
 <td align="center">은찬</td>
 <td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%EC%9B%90%EC%A2%85/21%EC%A3%BC%EC%B0%A8_2573.c"/>원종</td>
 <td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%EC%A7%80%EC%9B%90/21%EC%A3%BC%EC%B0%A8_2573.java"/>지원</td>
@@ -519,11 +519,35 @@
 <td align="center"><a href="https://www.acmicpc.net/problem/13913">숨바꼭질 4</td>
 <td align="center">🟡 G4</td>
 <td align="center">BFS</td>
-<td align="center">해빈</td>
+<td align="center">🏴‍☠️</td>
 <td align="center">은찬</td>
 <td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%EC%9B%90%EC%A2%85/21%EC%A3%BC%EC%B0%A8_13913.c"/>원종</td>
 <td align="center"><a href="https://github.com/h-beeen/Arcade42/blob/master/%EC%A7%80%EC%9B%90/21%EC%A3%BC%EC%B0%A8_13913.java"/>지원</td>
 </tr>
+
+<tr>
+<td rowspan='2' align="center">Week 22<br/>23/05/13</td>
+<td align="center">은찬 ⚔️</td>
+<td align="center"><a href="https://www.acmicpc.net/problem/6087"/>레이저 통신</td>
+<td align="center">🟡 G3</td>
+<td align="center">BFS</td>
+<td align="center">해빈</td>
+<td align="center">은찬</td>
+<td align="center">원종</td>
+<td align="center">지원</td>
+</tr>
+
+<tr>
+<td align="center">지원 ⚔️</td>
+<td align="center"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/42627">디스크 컨트롤러</td>
+<td align="center">🟡 Lv.3</td>
+<td align="center">Heap</td>
+<td align="center">해빈</td>
+<td align="center">은찬</td>
+<td align="center">원종</td>
+<td align="center">지원</td>
+</tr>
+
 
 <!-- <tr>
 <td rowspan='2' align="center">Week 17<br/>23/04/02</td>
@@ -547,8 +571,6 @@
 <td align="center">원종</td>
 <td align="center">지원</td>
 </tr> -->
-
-
 
 <!-- 여기부터 3팀 -->
 <tr>

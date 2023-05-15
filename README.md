@@ -537,7 +537,7 @@
 <td align="center">해빈</td>
 <td align="center">은찬</td>
 <td align="center">원종</td>
-<td align="center">지원</td>
+<td align="center" rowspan='2'>💤</td>
 </tr>
 
 <tr>
@@ -548,7 +548,6 @@
 <td align="center">해빈</td>
 <td align="center">은찬</td>
 <td align="center">원종</td>
-<td align="center">지원</td>
 </tr>
 
 
@@ -814,7 +813,7 @@
 <td align="center">현호</td>
 <td align="center">현정</td>
 <td align="center">동현</td>
-<td align="center">주현</td>
+<td align="center" rowspan='2'>💤</td>
 </tr>
 
 <tr>
@@ -825,7 +824,6 @@
 <td align="center">현호</td>
 <td align="center">현정</td>
 <td align="center">동현</td>
-<td align="center">주현</td>
 </tr>
 
 </tbody>

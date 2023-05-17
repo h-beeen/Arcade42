@@ -11,4 +11,4 @@ jobs:
       - uses: hkusu/review-assign-action@v1
         with:
           assignees: ${{ github.actor }}
-          reviewers: EunChanNam, h-beeen, wm-o, rheefine, SWARVY, HyeonJeong519, 
+          reviewers: EunChanNam, h-beeen

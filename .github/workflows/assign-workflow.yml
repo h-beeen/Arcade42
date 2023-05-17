@@ -1,4 +1,4 @@
-name: Auto Assign Action
+name: Review Assign
 
 on:
   pull_request:
@@ -8,7 +8,25 @@ jobs:
   assign:
     runs-on: ubuntu-latest
     steps:
+      - name: Set Reviewers
+        id: set_reviewers
+        run: |
+          if [ "${{ github.actor }}" = "wmo" ]; then
+            echo "REVIEWERS=h-beeen, EunChanNam" >> $GITHUB_ENV
+          elif [ "${{ github.actor }}" = "rheefine" ]; then
+            echo "REVIEWERS=SWARVY, HyeonJeong519" >> $GITHUB_ENV
+          elif [ "${{ github.actor }}" = "h-beeen" ]; then
+            echo "REVIEWERS=wmo, EunChanNam" >> $GITHUB_ENV
+          elif [ "${{ github.actor }}" = "EunChanNam" ]; then
+            echo "REVIEWERS=wmo, h-beeen" >> $GITHUB_ENV
+          elif [ "${{ github.actor }}" = "SWARVY" ]; then
+            echo "REVsIEWERS=rheefine, HyeonJeong519" >> $GITHUB_ENV
+          elif [ "${{ github.actor }}" = "HyeonJeong519" ]; then
+            echo "REVIEWERS=rheefine, SWARVY" >> $GITHUB_ENV
+          else
+            echo "REVIEWERS=foo, bar, baz" >> $GITHUB_ENV
+          fi
       - uses: hkusu/review-assign-action@v1
         with:
           assignees: ${{ github.actor }}
-          reviewers: EunChanNam, h-beeen
+          reviewers: ${{ env.REVIEWERS }}

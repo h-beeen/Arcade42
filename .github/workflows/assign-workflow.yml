@@ -8,25 +8,21 @@ jobs:
   assign:
     runs-on: ubuntu-latest
     steps:
-      - name: Set Reviewers
-        id: set_reviewers
-        run: |
-          if [ "${{ github.actor }}" = "wmo" ]; then
-            echo "REVIEWERS=h-beeen, EunChanNam" >> $GITHUB_ENV
-          elif [ "${{ github.actor }}" = "rheefine" ]; then
-            echo "REVIEWERS=SWARVY, HyeonJeong519" >> $GITHUB_ENV
-          elif [ "${{ github.actor }}" = "h-beeen" ]; then
-            echo "REVIEWERS=wmo, EunChanNam" >> $GITHUB_ENV
-          elif [ "${{ github.actor }}" = "EunChanNam" ]; then
-            echo "REVIEWERS=wmo, h-beeen" >> $GITHUB_ENV
-          elif [ "${{ github.actor }}" = "SWARVY" ]; then
-            echo "REVsIEWERS=rheefine, HyeonJeong519" >> $GITHUB_ENV
-          elif [ "${{ github.actor }}" = "HyeonJeong519" ]; then
-            echo "REVIEWERS=rheefine, SWARVY" >> $GITHUB_ENV
-          else
-            echo "REVIEWERS=foo, bar, baz" >> $GITHUB_ENV
-          fi
+      - if: "startsWith(github.actor, 'h-beeen')"
+        run: echo "REVIEWERS=wm-o, EunChanNam" >> $GITHUB_ENV
+      - if: "startsWith(github.actor, 'wm-o')"
+        run: echo "REVIEWERS=h-beeen, EunChanNam" >> $GITHUB_ENV
+      - if: "startsWith(github.actor, 'EunChanNam')"
+        run: echo "REVIEWERS=wm-o, h-beeen" >> $GITHUB_ENV
+      - if: "startsWith(github.actor, 'SWARVY')"
+        run: echo "REVIEWERS=rheefine, HyeonJeong519" >> $GITHUB_ENV
+      - if: "startsWith(github.actor, 'HyeonJeong519')"
+        run: echo "REVIEWERS=rheefine, SWARVY" >> $GITHUB_ENV
+      - if: "startsWith(github.actor, 'rheefine')"
+        run: echo "REVIEWERS=SWARVY, HyeonJeong519" >> $GITHUB_ENV
       - uses: hkusu/review-assign-action@v1
         with:
           assignees: ${{ github.actor }}
           reviewers: ${{ env.REVIEWERS }}
+          ready-comment: '코드리뷰 대기 중 입니다 :person_gesturing_OK: <reviewers>'
+          merged-comment: '성공적으로 Merge 되었습니다. Reviewed By <reviewers> :wink:'

@@ -937,7 +937,7 @@
 <tr>
 <td align=center>Team 2<br/><a href="https://github.com/rnawlsgk"/>Player 08</td>
 <td align=center><a href="https://github.com/rnawlsgk"/>최주현</td>
-<td align=center>2023/02/28 ~ 2023/03/26<br/>(27 Days)</td>
+<td align=center>2023/02/18 ~ 2023/03/26<br/>(37 Days)</td>
 <td align=center><a href="https://github.com/h-beeen/Arcade42/tree/master/%EC%B5%9C%EC%A3%BC%ED%98%84"/>Repo</td>
 </tr>
 <tr>

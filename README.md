@@ -932,16 +932,19 @@
 <td align=center>Team 1<br/><a href="https://github.com/juhyulee"/>Player 04</td>
 <td align=center><a href="https://github.com/juhyulee"/>이주현</td>
 <td align=center>2022/11/19 ~ 2023/01/08<br/>(51 Days)</td>
+<td align=center><a href="https://github.com/h-beeen/Arcade42/tree/master/%EC%9D%B4%EC%A3%BC%ED%98%84"/>Repo</td>
 </tr>
 <tr>
 <td align=center>Team 2<br/><a href="https://github.com/rnawlsgk"/>Player 08</td>
 <td align=center><a href="https://github.com/rnawlsgk"/>최주현</td>
 <td align=center>2023/02/28 ~ 2023/03/26<br/>(27 Days)</td>
+<td align=center><a href="https://github.com/h-beeen/Arcade42/tree/master/%EC%B5%9C%EC%A3%BC%ED%98%84"/>Repo</td>
 </tr>
 <tr>
 <td align=center>Team 1<br/><a href="https://github.com/sjiwon"/>Player 04</td>
 <td align=center><a href="https://github.com/sjiwon"/>서지원</td>
 <td align=center>2023/01/25 ~ 2023/05/27<br/>(123 Days)</td>
+<td align=center><a href="https://github.com/h-beeen/Arcade42/tree/master/%EC%A7%80%EC%9B%90"/>Repo</td>
 </tr>
 
 </table>

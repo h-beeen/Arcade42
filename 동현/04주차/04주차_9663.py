@@ -1,3 +1,5 @@
+# 9663 N-Queen
+
 # 입력
 n = int(input())
 board = [0]*n # x,y좌표 : baord[x] = y

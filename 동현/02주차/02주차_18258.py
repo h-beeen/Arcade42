@@ -1,3 +1,5 @@
+# 18258 큐2
+
 import sys
 from collections import deque
 

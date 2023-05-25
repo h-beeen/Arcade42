@@ -1,3 +1,5 @@
+# 2170 선긋기
+
 from sys import stdin
 
 # n, xy 입력

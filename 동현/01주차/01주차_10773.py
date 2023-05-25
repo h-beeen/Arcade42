@@ -1,3 +1,5 @@
+# 10773 제로
+
 import sys
 k = int(sys.stdin.readline())
 money = []

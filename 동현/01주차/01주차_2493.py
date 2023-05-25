@@ -1,3 +1,5 @@
+# 2493 탑
+
 n = int(input())
 top = list(map(int, input().split()))
 stack = []

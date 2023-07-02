@@ -11,12 +11,9 @@ pocketmon_dict = {}
 for i in range(1, n + 1):
     pocketmon = stdin.readline().rstrip()
     pocketmon_dict[pocketmon] = i
-    pocketmon_dict[i] = pocketmon
+    pocketmon_dict[str(i)] = pocketmon
 
 # 입력값이 숫자일때와 문자열일때 각각의 출력
 for i in range(m):
     question = stdin.readline().rstrip()
-    if question.isdigit():
-        print(pocketmon_dict[int(question)])
-    elif question.isalpha():
-        print(pocketmon_dict[question])
+    print(pocketmon_dict[question])

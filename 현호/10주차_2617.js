@@ -2,6 +2,8 @@ const fs = require("fs");
 const input = fs.readFileSync("/dev/stdin").toString().trim().split("\n");
 const [amount, pair] = input.shift().split(' ').map(Number);
 const comparisons = input.map(str => str.split(" "));
+const HEAVY = 1;
+const LIGHT = -1;
 
 function solve() {
   const marbles = [];
@@ -32,11 +34,11 @@ function solve() {
     let light = 0;
 
     for (let j = 0; j < amount; j++) {
-      if (marbles[i][j] === -1) {
+      if (marbles[i][j] === LIGHT) {
         // marbles[i][j]가 -1이라면 i가 j보다 가벼운것이므로
         // [i][j]번째 구슬에비해 무겁다고 할 수 있다
         heavy += 1;
-      } else if (marbles[i][j] === 1) {
+      } else if (marbles[i][j] === HEAVY) {
         // marbles[i][j]가 1이라면 i가 j보다 무거운것이므로
         // [i][j]번째 구슬에비해 가볍다고 할 수 있다
         light += 1;
@@ -54,9 +56,9 @@ function floyd(marbles) {
   for (let i = 0; i < amount; i++) {
     for (let j = 0; j < amount; j++) {
       for (let k = 0; k < amount; k++) {
-        if (marbles[j][i] === -1 && marbles[i][k] === -1) {
-          marbles[j][k] = -1;
-          marbles[k][j] = 1;
+        if (marbles[j][i] === LIGHT && marbles[i][k] === LIGHT) {
+          marbles[j][k] = LIGHT;
+          marbles[k][j] = HEAVY;
         }
       }
     }

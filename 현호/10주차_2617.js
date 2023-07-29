@@ -21,8 +21,8 @@ function solve() {
     const heavier = Number(comparisons[i][0]) - 1;
     const lighter = Number(comparisons[i][1]) - 1;
     // 자기보다 무겨우면 1, 가벼우면 -1
-    marbles[heavier][lighter] = 1;
-    marbles[lighter][heavier] = -1;
+    marbles[heavier][lighter] = HEAVY;
+    marbles[lighter][heavier] = LIGHT;
   }
   // 플로이드-워셜 알고리즘 사용
   floyd(marbles);

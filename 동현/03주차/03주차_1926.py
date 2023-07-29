@@ -1,4 +1,5 @@
 # 1926 그림
+
 from collections import deque
 
 # n,m 입력

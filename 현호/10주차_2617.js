@@ -8,9 +8,9 @@ const LIGHT = -1;
 function solve() {
   const marbles = [];
   // 중간값이 될 수 있는 자기보다 무거운 구슬의 최대값
-  const heavyMax = (amount - 1) / 2;
+  const lightMax = (amount - 1) / 2;
   // 중간값이 될 수 있는 자기보다 가벼운 구슬의 최대값
-  const lightMax = amount - (amount + 1) / 2;
+  const heavyMax = amount - (amount + 1) / 2;
   let answer = 0;
 
   for (let i = 0; i < amount; i++) {
